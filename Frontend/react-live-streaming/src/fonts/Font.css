@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Noto Sans KR";
+  font-style: normal;
+  font-weight: 100;
+  src: url("./AnyConv.com__Lato-Thin.otf") format("otf");
+}
+@font-face {
+font-family: "Noto Sans AO";
+font-style: normal;
+font-weight: 100;
+src: url("./McLaren-Regular.ttf") format("truetype");
+}
+@font-face {
+font-family: "Noto Sans B0";
+font-style: normal;
+font-weight: 100;
+src: url("./Pangolin-Regular.ttf") format("truetype");
+}
+@font-face {
+font-family: "Noto Sans DateTime";
+font-style: normal;
+font-weight: 100;
+src: url("./NotoSansNKoUnjoined-VariableFont_wght.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Noto Sans Chat";
+  font-style: normal;
+  font-weight: 100;
+  src: url("./GowunDodum-Regular.ttf") format("truetype");
+  }
+

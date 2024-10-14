@@ -1,0 +1,2858 @@
+{'text': '좋아 아 오카 회식은 잘 즐기다 능강', 'start': 16.68, 'duration': 10.16}
+{'text': '반갑소 반갑소 아이고 울기도 반갑소', 'start': 21.439, 'duration': 10.521}
+{'text': '반갑소 안녕하시 계', 'start': 26.84, 'duration': 5.12}
+{'text': '아', 'start': 50.399, 'duration': 3.0}
+{'text': '살려주시오', 'start': 53.8, 'duration': 3.0}
+{'text': '살려주시오', 'start': 58.92, 'duration': 3.0}
+{'text': '아 평민이야 오카다 오카 오늘도 아주', 'start': 63.119, 'duration': 5.04}
+{'text': '고냥 땡땡 부원 네크 해 아 오바', 'start': 65.799, 'duration': 5.64}
+{'text': '보야 반가워 아직 얼굴을 보여주지', 'start': 68.159, 'duration': 6.0}
+{'text': '않았는데 무슨 안녕이야 안녕이야', 'start': 71.439, 'duration': 7.64}
+{'text': '오늘도 가보 아우리 소원이도 반가워', 'start': 74.159, 'duration': 7.761}
+{'text': '버려', 'start': 79.079, 'duration': 6.201}
+{'text': '반가워 살려주', 'start': 81.92, 'duration': 5.519}
+{'text': '시계시계', 'start': 85.28, 'duration': 4.799}
+{'text': '어어 500 드디어 돌아왔구나 데', 'start': 87.439, 'duration': 7.201}
+{'text': '살이 실하네 아이 돌아와 버렸지 안녕', 'start': 90.079, 'duration': 7.801}
+{'text': '안녕 반가워', 'start': 94.64, 'duration': 6.6}
+{'text': '시계이 오늘도가 왔구나가 와버렸어 아', 'start': 97.88, 'duration': 6.68}
+{'text': '우리 고미도 안녕하고 간호 오지 마도', 'start': 101.24, 'duration': 6.199}
+{'text': '22개월 구독', 'start': 104.56, 'duration': 5.519}
+{'text': '고마워', 'start': 107.439, 'duration': 8.68}
+{'text': '아 아우 반가워 버려 시게 시게이 어', 'start': 110.079, 'duration': 10.441}
+{'text': '다들 왔구나 어 그래 그래', 'start': 116.119, 'duration': 7.761}
+{'text': '음 반가우', 'start': 120.52, 'duration': 3.36}
+{'text': '시게시게 왔구나 왔구나 반가 백미 아', 'start': 127.959, 'duration': 7.64}
+{'text': '반갑습니다 안녕하세요 예 어 다들', 'start': 132.16, 'duration': 6.12}
+{'text': '반가 오늘도 얼굴이 한데 기 좋다 형', 'start': 135.599, 'duration': 9.121}
+{'text': '이렇게 가자 어 들아 들아 어 좋와요', 'start': 138.28, 'duration': 10.48}
+{'text': '좋와요 오카오카가가', 'start': 144.72, 'duration': 8.96}
+{'text': '꿀꿀꿀꿀 가버려 시시 어 빛나는 부도', 'start': 148.76, 'duration': 7.68}
+{'text': '반가워 오파오파 반가우이 오늘 끝까지', 'start': 153.68, 'duration': 4.04}
+{'text': '못 보는데 나 빼고 공돌리기 하지', 'start': 156.44, 'duration': 3.96}
+{'text': '말라라 아 당남 반가워 오가 오가', 'start': 157.72, 'duration': 6.96}
+{'text': '오늘도 수고했어 아 우리 니나', 'start': 160.4, 'duration': 4.28}
+{'text': '고워 술냄시 술은 별로 안 먹었어요', 'start': 165.48, 'duration': 7.64}
+{'text': '예 좀 피곤해서 그래요', 'start': 169.68, 'duration': 6.44}
+{'text': '어', 'start': 173.12, 'duration': 3.0}
+{'text': '아 아 공 님이 어디 갔다가 거 청', 'start': 177.64, 'duration': 5.679}
+{'text': '보고 싶었다고도 재밌게 보자고요 아', 'start': 181.48, 'duration': 5.6}
+{'text': '옥이야 반가워 먹을 때 옴 밥 먹고', 'start': 183.319, 'duration': 6.401}
+{'text': '왔는데 형님 착석 착석 펀치펀치', 'start': 187.08, 'duration': 5.439}
+{'text': '어퍼컷 로우킥 뒤돌려차기 된장 바르기', 'start': 189.72, 'duration': 6.72}
+{'text': '아가 뭐야 마 어 아 반가워요', 'start': 192.519, 'duration': 6.44}
+{'text': '안녕하세요 그래서 오늘도 짤방 하는', 'start': 196.44, 'duration': 6.079}
+{'text': '거야 오늘도 짤방이 나 삐질 거 하고', 'start': 198.959, 'duration': 4.64}
+{'text': '싶은 대로', 'start': 202.519, 'duration': 5.121}
+{'text': '아 아 피곤하다', 'start': 203.599, 'duration': 8.081}
+{'text': '어 아', 'start': 207.64, 'duration': 4.04}
+{'text': '아 하 어제보다 더 늙었네 그럼', 'start': 224.799, 'duration': 8.871}
+{'text': '늙었지 젊어졌네 인마 기가 그냥', 'start': 228.48, 'duration': 6.8}
+{'text': '[음악]', 'start': 233.67, 'duration': 5.45}
+{'text': '씨 안녕 채식 아 우리 늘보 16개월', 'start': 235.28, 'duration': 7.84}
+{'text': '구독 감사합니다 예 아 그럼 다', 'start': 239.12, 'duration': 7.479}
+{'text': '늙었지 어제보다 아씨', 'start': 243.12, 'duration': 7.24}
+{'text': '그 방송 들어오는 길이 주었다 아이고', 'start': 246.599, 'duration': 6.401}
+{'text': '할라 망고야 아이고 만원 원 고맙다', 'start': 250.36, 'duration': 5.719}
+{'text': '야 동네가 어디 길래 인마 어 방송을', 'start': 253.0, 'duration': 5.56}
+{'text': '들어오다가 인마 만 원씩 줍고 그러냐', 'start': 256.079, 'duration': 4.361}
+{'text': '어 아 우리 재롱 재롱도 5개월 구독', 'start': 258.56, 'duration': 4.079}
+{'text': '고맙다 어 아주', 'start': 260.44, 'duration': 5.199}
+{'text': '그냥', 'start': 262.639, 'duration': 3.0}
+{'text': '아 경력 초인데 왜 방 제목이 맨날', 'start': 268.6, 'duration': 5.039}
+{'text': '힘들어요 아 맥도날드 사 힘드니까요', 'start': 271.16, 'duration': 3.52}
+{'text': '예', 'start': 273.639, 'duration': 4.481}
+{'text': '아 아우 죽겠네 아우 아니야 휴게소', 'start': 274.68, 'duration': 6.68}
+{'text': '아니면 휴게소', 'start': 278.12, 'duration': 3.24}
+{'text': '아 아 우리 도서 님도 가가이야', 'start': 282.36, 'duration': 9.72}
+{'text': '감사합니다 어 정말 다행인 점은 그', 'start': 287.12, 'duration': 9.919}
+{'text': '내일도 제가 아침 한 10시부터 저녁', 'start': 292.08, 'duration': 8.0}
+{'text': '8시까지이며데 그게 아주', 'start': 297.039, 'duration': 6.0}
+{'text': '그 대단히 줄어 버려 가지고 내일은', 'start': 300.08, 'duration': 6.88}
+{'text': '그래도 좀 멀쩡하게 올 수 있을 것', 'start': 303.039, 'duration': 3.921}
+{'text': '같은음 캔슬은 아니고 가긴 가는데 그', 'start': 307.32, 'duration': 7.68}
+{'text': '제 역할이 좀 줄었습니다 그나마 하', 'start': 311.56, 'duration': 6.0}
+{'text': '아 구름이도 15개월 구독 아', 'start': 315.0, 'duration': 5.0}
+{'text': '감사합니다', 'start': 317.56, 'duration': 2.44}
+{'text': '감사합니다 아', 'start': 320.36, 'duration': 5.88}
+{'text': '피곤하다 난 현재 진행으로 술마시는', 'start': 323.72, 'duration': 6.24}
+{'text': '리아야 아 술 맛있게 먹어라 운전면허', 'start': 326.24, 'duration': 6.079}
+{'text': '일주일 만에 따서 바로 잡고 왔어음', 'start': 329.96, 'duration': 6.32}
+{'text': '면허를 일주일 만에 땄다고음', 'start': 332.319, 'duration': 3.961}
+{'text': '아 면허가 보통 일주일이면 따지 않나', 'start': 340.4, 'duration': 5.28}
+{'text': '아닌가', 'start': 343.639, 'duration': 3.921}
+{'text': '어', 'start': 345.68, 'duration': 4.88}
+{'text': '아', 'start': 347.56, 'duration': 3.0}
+{'text': '아 빠르게다면', 'start': 351.759, 'duration': 6.72}
+{'text': '가능이야 제가 또 오늘도 좀 쉴까', 'start': 354.72, 'duration': 6.72}
+{'text': '하다가 제가 내일은 휴방이에요 어', 'start': 358.479, 'duration': 5.921}
+{'text': '그래 가지고 그 아 내일이 아니구나', 'start': 361.44, 'duration': 6.72}
+{'text': '토요일 날 토요일 날 또 휴방이', 'start': 364.4, 'duration': 6.76}
+{'text': '예', 'start': 368.16, 'duration': 3.0}
+{'text': '아 그래 가지고 오늘도 또 켰습니다', 'start': 372.759, 'duration': 5.72}
+{'text': '어제도 한 두시간 정도 하고 가긴', 'start': 376.199, 'duration': 3.801}
+{'text': '했는데', 'start': 378.479, 'duration': 4.521}
+{'text': '어 토요일 날 축구하는 거는 몰랐어', 'start': 380.0, 'duration': 5.88}
+{'text': '어 근데 이제 어제 어제 알아 가지고', 'start': 383.0, 'duration': 5.4}
+{'text': '겸사 겸사 뭐 어', 'start': 385.88, 'duration': 5.52}
+{'text': '아', 'start': 388.4, 'duration': 3.0}
+{'text': '어제 짧지만 그래도 좀 굵었고 어제', 'start': 391.639, 'duration': 5.68}
+{'text': '또 권이도', 'start': 394.599, 'duration': 2.72}
+{'text': '오고', 'start': 398.12, 'duration': 5.919}
+{'text': '아 백 안녕 오늘 컨디션도 뚱뚱해', 'start': 400.0, 'duration': 7.16}
+{'text': '보이고 보기 좋다 사랑해 아 몽신 님', 'start': 404.039, 'duration': 5.801}
+{'text': '감사합니다 컨디션을 보통 뚱뚱하다는', 'start': 407.16, 'duration': 4.96}
+{'text': '안 하는데 성님들의 고민 바로 되', 'start': 409.84, 'duration': 4.72}
+{'text': '아오이 아니요 예', 'start': 412.12, 'duration': 5.88}
+{'text': '아 정신이', 'start': 414.56, 'duration': 3.44}
+{'text': '없네 도 24개월 구독 아 감사합니다', 'start': 418.4, 'duration': 6.88}
+{'text': '감사합니다 어 어 지금 죄송한데 그', 'start': 422.039, 'duration': 5.0}
+{'text': '힘들어서 아무것도 하기 싫으니까 그', 'start': 425.28, 'duration': 3.72}
+{'text': '뭐든 시키지 마세요', 'start': 427.039, 'duration': 5.241}
+{'text': '예 그래 그래 몸 먼저 생각해야지', 'start': 429.0, 'duration': 6.12}
+{'text': '오늘도 숙성 잘됐네 아 돌 감사합니다', 'start': 432.28, 'duration': 5.88}
+{'text': '아어 뭔 숙성이 인마 쉬었다고 해야지', 'start': 435.12, 'duration': 6.56}
+{'text': '씨 숙성했다 무슨 말이야 저게', 'start': 438.16, 'duration': 6.52}
+{'text': '어', 'start': 441.68, 'duration': 3.0}
+{'text': '아 입만', 'start': 445.879, 'duration': 4.561}
+{'text': '움직이라고', 'start': 448.319, 'duration': 4.521}
+{'text': '아 오늘 아까 전에 이제 대표자 촬영', 'start': 450.44, 'duration': 6.28}
+{'text': '끝나고 그 형님들이랑 그', 'start': 452.84, 'duration': 7.479}
+{'text': '회식하는데 우리 제주도 홍상표 형님이', 'start': 456.72, 'duration': 5.56}
+{'text': '자기 그 인스타 아이디', 'start': 460.319, 'duration': 5.72}
+{'text': '만들었다고 그 뭐야 자랑하는 거야', 'start': 462.28, 'duration': 6.759}
+{'text': '그래가지고', 'start': 466.039, 'duration': 3.0}
+{'text': '키 무 감사하고요 그래가지고 상형님이', 'start': 470.72, 'duration': 7.599}
+{'text': '이제 그 선우 영상', 'start': 474.759, 'duration': 6.0}
+{'text': '해가지고 형 태그해 이렇게 해서 뭐', 'start': 478.319, 'duration': 5.84}
+{'text': '팔로워가 170명이 됐대 그래가지고', 'start': 480.759, 'duration': 5.72}
+{'text': '약간 나한테도 태그해 달라는 거 같아', 'start': 484.159, 'duration': 5.16}
+{'text': '가지고 알겠다고 하고 상 태그에서', 'start': 486.479, 'duration': 6.0}
+{'text': '게시물 하나 올렸어요', 'start': 489.319, 'duration': 3.16}
+{'text': '예 눈치를 주신 건 아닌데 어쩌다', 'start': 496.52, 'duration': 6.76}
+{'text': '보니까 이렇게 돼 가지고', 'start': 500.319, 'duration': 2.961}
+{'text': '예 그래서 오늘 그래서 저 인스타', 'start': 503.319, 'duration': 4.56}
+{'text': '간만에 업로드했습니다 즘 안 그래도', 'start': 505.84, 'duration': 3.72}
+{'text': '아 인스타 뭐 업로드하지 아', 'start': 507.879, 'duration': 3.44}
+{'text': '업로드할게 없는데 막 그러고 있었는데', 'start': 509.56, 'duration': 4.56}
+{'text': '뭐 잘됐지 뭐', 'start': 511.319, 'duration': 2.801}
+{'text': '예', 'start': 517.36, 'duration': 6.52}
+{'text': '아 아 술은 조금 먹었습니다 술은 뭐', 'start': 519.64, 'duration': 7.52}
+{'text': '한 소맥 세장 네잔 정도 예 방종', 'start': 523.88, 'duration': 5.88}
+{'text': '제맘', 'start': 527.16, 'duration': 4.119}
+{'text': '예', 'start': 529.76, 'duration': 4.92}
+{'text': '그래가지고 아 우리 희개 님도', 'start': 531.279, 'duration': 6.641}
+{'text': '어 아 취한 건 아니고 지금 존나', 'start': 534.68, 'duration': 5.44}
+{'text': '졸려요 지금 아', 'start': 537.92, 'duration': 5.0}
+{'text': '아까 전에', 'start': 540.12, 'duration': 2.8}
+{'text': '어', 'start': 543.48, 'duration': 4.16}
+{'text': '뭐야 안안 아 우리', 'start': 545.16, 'duration': 5.6}
+{'text': '골목대장고 나 어제 잘 잤거든 어제', 'start': 547.64, 'duration': 5.04}
+{'text': '한 1시 반쯤에', 'start': 550.76, 'duration': 4.519}
+{'text': '방어 1시 반쯤에', 'start': 552.68, 'duration': 5.24}
+{'text': '방종하고 바로 잠들었어 진짜 존나', 'start': 555.279, 'duration': 5.521}
+{'text': '그냥 씻지도 않고 바로 잠들어 가지고', 'start': 557.92, 'duration': 6.479}
+{'text': '오늘 9시쯤에 일어났거든요 아까전에', 'start': 560.8, 'duration': 6.56}
+{'text': '9시쯤에 일어났으니까 거의 시간 정도', 'start': 564.399, 'duration': 5.44}
+{'text': '잔 거잖아 7시반 시간 반 정도', 'start': 567.36, 'duration': 4.919}
+{'text': '8시간 정도 자고 소파에서 잤어', 'start': 569.839, 'duration': 5.281}
+{'text': '소파에서 나 원 안 씻으면 소파에서', 'start': 572.279, 'duration': 5.201}
+{'text': '자 여기서', 'start': 575.12, 'duration': 4.6}
+{'text': '그래가지고', 'start': 577.48, 'duration': 5.479}
+{'text': '뭐야 7시간 반이면 노말하게 많이 잔', 'start': 579.72, 'duration': 6.28}
+{'text': '거니까 근데 이제 뭐야 그 전날에', 'start': 582.959, 'duration': 6.041}
+{'text': '별로 못 자 가지고 이제 덜 잔 거', 'start': 586.0, 'duration': 5.68}
+{'text': '같은 거 뭔지 알죠 그 7시간 반이면', 'start': 589.0, 'duration': 7.76}
+{'text': '충분히 잔 건데 어 뭐야 그 이제', 'start': 591.68, 'duration': 8.48}
+{'text': '오늘 이제 촬영하러 가는 차 안에서', 'start': 596.76, 'duration': 5.4}
+{'text': '원래 핸드폰하고 막 그런단 말이야', 'start': 600.16, 'duration': 4.48}
+{'text': '보통 한시간 정도', 'start': 602.16, 'duration': 5.32}
+{'text': '걸리니까 깼다가 씻고 나서 다시', 'start': 604.64, 'duration': 5.36}
+{'text': '잠들기는 좀 애매해 어 근데 오늘은', 'start': 607.48, 'duration': 5.2}
+{'text': '바로 잠들었어 그냥 차 안에서도 잠이', 'start': 610.0, 'duration': 4.839}
+{'text': '좀 부족했던 거지', 'start': 612.68, 'duration': 5.88}
+{'text': '시 날 거의 그 정도밖에 못 자니까', 'start': 614.839, 'duration': 5.921}
+{'text': '한 두세시간 정도밖에 전날 못 자고', 'start': 618.56, 'duration': 5.519}
+{'text': '7시간 잔 거니까 똥싸다 느낌', 'start': 620.76, 'duration': 5.0}
+{'text': '그래가지고 너무', 'start': 624.079, 'duration': 5.481}
+{'text': '졸려가지고 오 그 상태로 이제', 'start': 625.76, 'duration': 6.319}
+{'text': '해가지고 오늘 한 11시 반부터', 'start': 629.56, 'duration': 5.279}
+{'text': '촬영했나 몇 시부터 했지 11시', 'start': 632.079, 'duration': 5.681}
+{'text': '반부터 시작해 가지고 방금 전에 방금', 'start': 634.839, 'duration': 5.881}
+{'text': '전 아니고 한 아까 8시쯤에 끝나고', 'start': 637.76, 'duration': 6.72}
+{'text': '바로 회식 해 가지고 어여 이제 뭐야', 'start': 640.72, 'duration': 6.16}
+{'text': '회식자리에서 또 좀 조금 있다가', 'start': 644.48, 'duration': 4.28}
+{'text': '한시간 한시간 반 정도 있었는데 한', 'start': 646.88, 'duration': 3.8}
+{'text': '시간에서 한시간 반 정도 있다가', 'start': 648.76, 'duration': 4.319}
+{'text': '그러고 나서 집에 온 거예요', 'start': 650.68, 'duration': 4.92}
+{'text': '그래가지고 집에 오는 길에서도 차도', 'start': 653.079, 'duration': 4.601}
+{'text': '한 집에 올 때는 좀 덜 걸려 한', 'start': 655.6, 'duration': 4.72}
+{'text': '30분이면 와 그 30분 동안', 'start': 657.68, 'duration': 5.52}
+{'text': '잠들었어 또 잠들 깨가지고', 'start': 660.32, 'duration': 5.68}
+{'text': '와가지고 아 그냥 좀 자고 방송을', 'start': 663.2, 'duration': 4.56}
+{'text': '켜야겠다 너 도자이 안 들겠다 너무', 'start': 666.0, 'duration': 4.36}
+{'text': '너무 졸리다 그래가지고 여기 누웠는데', 'start': 667.76, 'duration': 6.24}
+{'text': '한 5분 누웠는데 잠이 안또 안 드는', 'start': 670.36, 'duration': 5.919}
+{'text': '거야 이럴 거면 그냥 빨리 켜자', 'start': 674.0, 'duration': 4.16}
+{'text': '해가지고 그래서 지금 딱 킨게', 'start': 676.279, 'duration': 7.24}
+{'text': '지금입니다 예 지금 존나 피곤하고', 'start': 678.16, 'duration': 5.359}
+{'text': '어', 'start': 687.959, 'duration': 3.0}
+{'text': '어 평범하게 쉬엄쉬엄 할 수가 없어', 'start': 693.079, 'duration': 7.161}
+{'text': '지금 시험시험 할 수밖에 없어 너무', 'start': 696.8, 'duration': 7.479}
+{'text': '졸려 졸린데 누 누우니까 그대로 바로', 'start': 700.24, 'duration': 7.159}
+{'text': '진짜 존나 피곤하면 바로 잠 들거든요', 'start': 704.279, 'duration': 5.721}
+{'text': '예 아유 감사합니다 어 존나 피곤하면', 'start': 707.399, 'duration': 4.281}
+{'text': '그냥 어제 어제 밤처럼 그냥 바로', 'start': 710.0, 'duration': 3.88}
+{'text': '잠드는데 또 아까 방금 전에 아 좀', 'start': 711.68, 'duration': 4.959}
+{'text': '자고 방송을 켜야겠다 누웠는데 바로', 'start': 713.88, 'duration': 5.759}
+{'text': '잠은 또 안 들더라고 그래가지고 어', 'start': 716.639, 'duration': 5.0}
+{'text': '그냥 방송 빨리 켜야지 이게', 'start': 719.639, 'duration': 4.521}
+{'text': '정신차리지 안 켜면은 또또 그렇게', 'start': 721.639, 'duration': 5.081}
+{'text': '되니까 또', 'start': 724.16, 'duration': 2.56}
+{'text': '그래가지고 우리 생각해서 방송 켜준', 'start': 727.88, 'duration': 5.56}
+{'text': '거야 그런', 'start': 730.8, 'duration': 6.12}
+{'text': '거야니다 제 생각이죠 예 내일은 몇', 'start': 733.44, 'duration': 6.04}
+{'text': '시에 나가냐고 내일 10시 좆됐다', 'start': 736.92, 'duration': 7.0}
+{'text': '아나 진짜 너무 아 너무 힘들어 온다', 'start': 739.48, 'duration': 9.4}
+{'text': '발 오바오바 보고 싶 기내 아 님', 'start': 743.92, 'duration': 7.64}
+{'text': '5천원 후원 아 감사합니다 감사합니다', 'start': 748.88, 'duration': 5.72}
+{'text': '예 아 우리 마리 예삐도 4개월 구독', 'start': 751.56, 'duration': 7.48}
+{'text': '고맙고요 예', 'start': 754.6, 'duration': 4.44}
+{'text': '아음 아 우리 감자바 님도 20개월', 'start': 762.639, 'duration': 6.081}
+{'text': '구독 감사합니다 예 아 너무 피곤해', 'start': 765.839, 'duration': 6.321}
+{'text': '아 죽는 줄 알았어', 'start': 768.72, 'duration': 3.44}
+{'text': '죽겠어 아 우리 자루 수 바도', 'start': 773.279, 'duration': 6.68}
+{'text': '31개월 구독 아 감사드리고요', 'start': 775.8, 'duration': 7.32}
+{'text': '음 하이 난 이번 주 주말에 일본', 'start': 779.959, 'duration': 4.88}
+{'text': '가느라 짐 챙기다가 와샤 오늘도', 'start': 783.12, 'duration': 5.04}
+{'text': '파이팅이야 어', 'start': 784.839, 'duration': 3.321}
+{'text': '화이팅이다', 'start': 791.92, 'duration': 3.0}
+{'text': '아 우리 형 세 달 되면 마흔 둘인데', 'start': 796.519, 'duration': 5.641}
+{'text': '고생이 많아 항상 응원해 아 너무', 'start': 799.8, 'duration': 4.839}
+{'text': '피곤해', 'start': 802.16, 'duration': 2.479}
+{'text': '아', 'start': 807.76, 'duration': 5.47}
+{'text': '[음악]', 'start': 809.98, 'duration': 3.25}
+{'text': '우리 형 나이도 나이인데', 'start': 814.04, 'duration': 5.479}
+{'text': '몸챙기자음 아 뭐 건강이 나빠지지', 'start': 816.199, 'duration': 5.681}
+{'text': '않은데', 'start': 819.519, 'duration': 2.361}
+{'text': '아 목 상태도 안 좋아 하루 종이를', 'start': 825.92, 'duration': 6.08}
+{'text': '말하고 와가지고 또 오늘도 지금도', 'start': 829.399, 'duration': 4.8}
+{'text': '말해야 돼', 'start': 832.0, 'duration': 5.199}
+{'text': '어', 'start': 834.199, 'duration': 3.0}
+{'text': '아 죽어 납니다 죽어다 어떻게 해야', 'start': 837.279, 'duration': 5.401}
+{'text': '되냐', 'start': 840.399, 'duration': 2.281}
+{'text': '이거', 'start': 842.959, 'duration': 3.0}
+{'text': '아 그라 잠깐 얼굴 봤다고 혐혼 관리', 'start': 847.959, 'duration': 7.161}
+{'text': '잘 챙기셔요 그러게 아 토요일 날도', 'start': 851.88, 'duration': 6.959}
+{'text': '저기 해야 되는데 이거 큰일났네 이거', 'start': 855.12, 'duration': 3.719}
+{'text': '아 지금 다음', 'start': 863.279, 'duration': 6.201}
+{'text': '주에 다음주에 일본', 'start': 866.44, 'duration': 6.399}
+{'text': '같은데 아씨 그전까지 너무 바빠요', 'start': 869.48, 'duration': 7.84}
+{'text': '뒤질 거 같아 아 진짜 아 바쁜게', 'start': 872.839, 'duration': 8.92}
+{'text': '막 아 실속이 있음 모르겠는데 이게', 'start': 877.32, 'duration': 8.4}
+{'text': '아 죽겠다 아 이거 일본 가기 전에', 'start': 881.759, 'duration': 5.841}
+{'text': '한 다섯 번 네다섯 번은 야방', 'start': 885.72, 'duration': 4.2}
+{'text': '해야지는데 야방 할 시간 1도 없어', 'start': 887.6, 'duration': 5.56}
+{'text': '지금 그냥 풀이야', 'start': 889.92, 'duration': 7.24}
+{'text': '풀 지금 주말이고 지금 저기 구간에', 'start': 893.16, 'duration': 7.72}
+{'text': '그니까 오전 그니까 내가 이게 외부', 'start': 897.16, 'duration': 6.2}
+{'text': '촬영이 지금 오늘 이번 주랑 다음', 'start': 900.88, 'duration': 5.04}
+{'text': '주에 거의 일주일에네 다섯 개씩 있어', 'start': 903.36, 'duration': 5.2}
+{'text': '지금 어 요번 주는 거의 여섯 개야', 'start': 905.92, 'duration': 5.039}
+{'text': '여섯 개 그냥 월화수목 금토 아지', 'start': 908.56, 'duration': 4.48}
+{'text': '있고 일요일 날 하나 없어 약간 이런', 'start': 910.959, 'duration': 6.081}
+{'text': '느낌이야 어 다음 주도 다음 주', 'start': 913.04, 'duration': 5.919}
+{'text': '금요일 날에 아마 일본 출발해야 될', 'start': 917.04, 'duration': 7.159}
+{'text': '거 같은데 다음 주 월화 월화수 목', 'start': 918.959, 'duration': 9.0}
+{'text': '있어요 이게 낮에 일정이 없어야 좀', 'start': 924.199, 'duration': 5.601}
+{'text': '하루 정도 좀 쉰다 만인데 그니까', 'start': 927.959, 'duration': 4.36}
+{'text': '나는 어차피 쉬는 날은 어차피 없고', 'start': 929.8, 'duration': 4.68}
+{'text': '어 무조건 생방을 한번 키려고 하니까', 'start': 932.319, 'duration': 6.281}
+{'text': '나는 어 일주일에 쉬는 날은', 'start': 934.48, 'duration': 7.599}
+{'text': '없고 외부 촬영이 길어진 날 생방을', 'start': 938.6, 'duration': 6.76}
+{'text': '한번 쉬는 거지 그냥 어제 그저께 어', 'start': 942.079, 'duration': 5.44}
+{'text': '외부 차량이 길어져서 하루 종일 내가', 'start': 945.36, 'duration': 4.68}
+{'text': '진짜 녹초가 됐어 너무 힘들어 아', 'start': 947.519, 'duration': 4.12}
+{'text': '오늘은 진짜 집에 가서', 'start': 950.04, 'duration': 3.239}
+{'text': '지금처럼만이라도 방송을 한두', 'start': 951.639, 'duration': 3.161}
+{'text': '시간이라도 방송을 킬 수가 없는', 'start': 953.279, 'duration': 4.12}
+{'text': '상황이야 만약에 그러면 휴방을 해', 'start': 954.8, 'duration': 5.12}
+{'text': '그럼 그방을 고 쉬는 날이 아니야', 'start': 957.399, 'duration': 5.8}
+{'text': '나한테는 그러고 그러면 이제 내가', 'start': 959.92, 'duration': 6.159}
+{'text': '생방이 주력이 때문에 생방에서 텐션이', 'start': 963.199, 'duration': 5.361}
+{'text': '제일 중요해 생방이', 'start': 966.079, 'duration': 7.921}
+{'text': '제일이 뭐야 정상적인 상황에서 온', 'start': 968.56, 'duration': 8.48}
+{'text': '체력이 풀 충되는 상태로 생방을 켜야', 'start': 974.0, 'duration': 5.839}
+{'text': '되는데 지금 그런 날은 없지 지금', 'start': 977.04, 'duration': 6.32}
+{'text': '없고 그나마 생방 전에 두세 시간', 'start': 979.839, 'duration': 5.24}
+{'text': '한두 시간이라도 잘 수 있는 시간이', 'start': 983.36, 'duration': 4.159}
+{'text': '있으면 돼 그러면 한두 시간 자고', 'start': 985.079, 'duration': 3.961}
+{'text': '일어나면', 'start': 987.519, 'duration': 3.961}
+{'text': '그니까 40% 때 내 체력이 40%', 'start': 989.04, 'duration': 5.359}
+{'text': '남아 있을 때는 금방 20% 10%', 'start': 991.48, 'duration': 4.68}
+{'text': '되면 이제 그때부터는 그 그로기', 'start': 994.399, 'duration': 5.321}
+{'text': '상태야 깨 있긴 하지만 지금처럼 아', 'start': 996.16, 'duration': 6.239}
+{'text': '너무 힘들다 오늘 어 방송을 하인', 'start': 999.72, 'duration': 5.239}
+{'text': '해야겠고 이런 상태 지금 제대로 못', 'start': 1002.399, 'duration': 5.281}
+{'text': '하지 그래도데 40%에서 내가 이제', 'start': 1004.959, 'duration': 7.041}
+{'text': '뭐야 외부 촬영에서 60% 쓰고', 'start': 1007.68, 'duration': 6.399}
+{'text': '40%에서 두시간 정도 자고', 'start': 1012.0, 'duration': 4.56}
+{'text': '일어나면은 그래도 한 70% 60%', 'start': 1014.079, 'duration': 6.401}
+{'text': '아진 차 그러면은', 'start': 1016.56, 'duration': 3.92}
+{'text': '그러면 그 상태로 한 20호까지 이제', 'start': 1020.8, 'duration': 5.039}
+{'text': '한 한두 시까지는 버틸 수 있으니까', 'start': 1023.0, 'duration': 5.439}
+{'text': '약간 그런 느낌으로 이제 하고 있는데', 'start': 1025.839, 'duration': 3.881}
+{'text': '지금요', 'start': 1028.439, 'duration': 4.961}
+{'text': '근래들어서는 그 풀 그 70%', 'start': 1029.72, 'duration': 6.8}
+{'text': '80% 충전할 시간조차', 'start': 1033.4, 'duration': 5.76}
+{'text': '없으니까 힘들어 죽을 거 같아 목도', 'start': 1036.52, 'duration': 7.84}
+{'text': '완전 가버렸고 아 내일은 어떡 내일은', 'start': 1039.16, 'duration': 9.639}
+{'text': '어떡하고 내일은 어떡하고 아 내일도', 'start': 1044.36, 'duration': 6.12}
+{'text': '10시에 나가 그 8시에 나가야 돼요', 'start': 1048.799, 'duration': 5.361}
+{'text': '그럼 10시까지 가야 되면', 'start': 1050.48, 'duration': 3.68}
+{'text': '응 너무 힘들어 죽을 거', 'start': 1058.72, 'duration': 4.4}
+{'text': '같아 바쁘면 스트레스 받아 솔직히', 'start': 1067.2, 'duration': 7.08}
+{'text': '말하면 생방까지 켜야 되는 거에', 'start': 1071.76, 'duration': 5.24}
+{'text': '스트레스를 받아 그러면 쉬면 되잖아', 'start': 1074.28, 'duration': 5.24}
+{'text': '쉬면 더 스트레스 받아', 'start': 1077.0, 'duration': 6.44}
+{'text': '그 난 계속 고통 속에 살아야 돼 어', 'start': 1079.52, 'duration': 6.639}
+{'text': '내가 온전히 행복하게 쉴 수 있는', 'start': 1083.44, 'duration': 5.04}
+{'text': '길은', 'start': 1086.159, 'duration': 2.321}
+{'text': '없어 그러니까 문제지 그러니까 계속', 'start': 1093.48, 'duration': 6.96}
+{'text': '똑같은 굴레에서 벗어나지 못하고', 'start': 1096.6, 'duration': 3.84}
+{'text': '있지', 'start': 1107.32, 'duration': 6.0}
+{'text': '아 그래가지고 너무 힘들어요', 'start': 1109.12, 'duration': 4.2}
+{'text': '아 결혼 빨리 해야 행복해지려 나오', 'start': 1115.799, 'duration': 4.801}
+{'text': '형영 상고에서 밥 먹고 치우니까 또', 'start': 1119.0, 'duration': 5.2}
+{'text': '형 있내 개군 아우 몰라', 'start': 1120.6, 'duration': 3.6}
+{'text': '죽겠어', 'start': 1129.36, 'duration': 3.0}
+{'text': '아', 'start': 1137.32, 'duration': 3.0}
+{'text': '[음악]', 'start': 1141.8, 'duration': 3.11}
+{'text': '음 오늘은 그냥 들어가 자 그니까', 'start': 1146.88, 'duration': 6.24}
+{'text': '그냥 그 들어가 자면 더 힘들다니까', 'start': 1150.24, 'duration': 5.96}
+{'text': '더 스트레스', 'start': 1153.12, 'duration': 3.08}
+{'text': '받아음 제발 지옥 같은 여기서 날', 'start': 1157.72, 'duration': 5.12}
+{'text': '꺼내 줘 이게 꿈이라면 어서 날 깨', 'start': 1160.64, 'duration': 4.96}
+{'text': '워져 요즘 그노래 많이 들어 제발', 'start': 1162.84, 'duration': 6.76}
+{'text': '지옥 같은 곳에서 날것', 'start': 1165.6, 'duration': 7.28}
+{'text': '이게 꿈인지 꿈이 아닌지', 'start': 1169.6, 'duration': 6.559}
+{'text': '모르겠어 어쩌', 'start': 1172.88, 'duration': 3.279}
+{'text': '쩌고', 'start': 1184.36, 'duration': 3.0}
+{'text': '아 건물 사이에 피어나 백미', 'start': 1196.08, 'duration': 4.959}
+{'text': '아 건물 사이에', 'start': 1207.96, 'duration': 5.8}
+{'text': '피어난', 'start': 1211.2, 'duration': 4.56}
+{'text': '병민', 'start': 1213.76, 'duration': 5.24}
+{'text': '제발 잠을 좀 많이', 'start': 1215.76, 'duration': 6.96}
+{'text': '잤으면 누가 깨우기 전 깨우지 않고', 'start': 1219.0, 'duration': 6.28}
+{'text': '그냥 혼자', 'start': 1222.72, 'duration': 2.56}
+{'text': '깼으면', 'start': 1227.159, 'duration': 3.0}
+{'text': '아 오늘도 우주가 깨웠냐 그요', 'start': 1233.159, 'duration': 6.0}
+{'text': '당연하죠 예 소파에서 자면은 문 열고', 'start': 1236.32, 'duration': 5.08}
+{'text': '들어올 때 소리 다 들려요 게임맨', 'start': 1239.159, 'duration': 4.76}
+{'text': '우주 들어오고', 'start': 1241.4, 'duration': 2.519}
+{'text': '있어', 'start': 1246.799, 'duration': 3.0}
+{'text': '아 따라라 이번 년도 시작하면서', 'start': 1253.919, 'duration': 7.401}
+{'text': '백미 몸이 두 개여도 부족할 텐', 'start': 1258.84, 'duration': 6.199}
+{'text': '고생이 많아 이번 년도 시작하면서 아', 'start': 1261.32, 'duration': 6.52}
+{'text': '올해는 그래도 방도 많이 하고', 'start': 1265.039, 'duration': 4.801}
+{'text': '일주일에 두 번 의무적으로 휴방하고', 'start': 1267.84, 'duration': 5.4}
+{'text': '뭐 하루는 힘들어서 휴방하고 그', 'start': 1269.84, 'duration': 7.199}
+{'text': '나머지 하루는 그냥 할할게 있어 생방', 'start': 1273.24, 'duration': 5.64}
+{'text': '완전히 아무것도 없어도 그냥 무조건', 'start': 1277.039, 'duration': 5.481}
+{'text': '휴방 그리고 이제 친구들 만나고 뭐', 'start': 1278.88, 'duration': 6.399}
+{'text': '유튜버들 만나면서 인맥도 좀 쌓고', 'start': 1282.52, 'duration': 5.92}
+{'text': '이런 거 해야지라고 마음먹었는데 정작', 'start': 1285.279, 'duration': 5.481}
+{'text': '그렇게 안', 'start': 1288.44, 'duration': 2.32}
+{'text': '[음악]', 'start': 1291.02, 'duration': 3.279}
+{'text': '돼음 일도 더 생기고 그러면서', 'start': 1294.72, 'duration': 6.4}
+{'text': '그러면서 또 유튜버 뭐 아니면은 뭐', 'start': 1298.84, 'duration': 5.28}
+{'text': '친구들 만나려고 이렇게 하면은 이제', 'start': 1301.12, 'duration': 4.96}
+{'text': '휴방이 늘어나 그러면 이제 세네 번', 'start': 1304.12, 'duration': 4.36}
+{'text': '해야 돼 일주일에', 'start': 1306.08, 'duration': 6.4}
+{'text': '응 그 이제 더 힘들고 근데 지금은', 'start': 1308.48, 'duration': 6.439}
+{'text': '아예 그냥 지금 약간 조율의 여지도', 'start': 1312.48, 'duration': 7.559}
+{'text': '없어 지금은 너무 힘들어 아 막', 'start': 1314.919, 'duration': 5.12}
+{'text': '아 뭐 어떻게 뭐 오늘 더 하고 뭐', 'start': 1320.279, 'duration': 7.601}
+{'text': '내일 좀 쉬고 이런 이럴 수도 없어', 'start': 1325.24, 'duration': 5.12}
+{'text': '지금은 더 할 수도 없지 생방을 내일', 'start': 1327.88, 'duration': 6.12}
+{'text': '아침 8시에 깨야 되는데', 'start': 1330.36, 'duration': 3.64}
+{'text': '응 아 너무 피곤해', 'start': 1337.84, 'duration': 8.52}
+{'text': '아 아 어떻게 해야', 'start': 1341.919, 'duration': 4.441}
+{'text': '되냐', 'start': 1346.96, 'duration': 3.0}
+{'text': '약간 그 유튜브 그니까 뭐 트위치', 'start': 1351.36, 'duration': 6.24}
+{'text': '생방송만 아니라 다른 것들 많이', 'start': 1354.48, 'duration': 6.0}
+{'text': '하시는 분들 있잖아 뭐 예를 들면 뭐', 'start': 1357.6, 'duration': 7.28}
+{'text': '창맨 님도 있고 뭐 뭐 뭐 누구냐 뭐', 'start': 1360.48, 'duration': 6.16}
+{'text': '또 뭐 아무튼 뭐 그런 분들 있잖아요', 'start': 1364.88, 'duration': 5.12}
+{'text': '더러 생방뿐만 아니라 다른 것도', 'start': 1366.64, 'duration': 6.279}
+{'text': '하시는 분들 뭐 자영업자일수 있고', 'start': 1370.0, 'duration': 6.48}
+{'text': '자영업도 뭐 겸직해 할 수도 있고 어', 'start': 1372.919, 'duration': 7.24}
+{'text': '막 그런 분들 이렇게 보면서 아 이게', 'start': 1376.48, 'duration': 5.6}
+{'text': '저렇게 막 외부 촬영이나 이런게', 'start': 1380.159, 'duration': 6.201}
+{'text': '많아지고 하면은 그 생방송 시간이 좀', 'start': 1382.08, 'duration': 6.719}
+{'text': '많이 줄어 그런 분들도 보면 어쩔 수', 'start': 1386.36, 'duration': 5.679}
+{'text': '없이 나는 그거 보면서 아 나는 나', 'start': 1388.799, 'duration': 5.801}
+{'text': '그분들이 훨씬 잘하는 거겠지만 나는', 'start': 1392.039, 'duration': 5.12}
+{'text': '그렇게 안 해야지 약간 나는 생방송도', 'start': 1394.6, 'duration': 5.52}
+{'text': '해야지 했는데 아니 그거 끝나고', 'start': 1397.159, 'duration': 4.481}
+{'text': '와가지고 생방송도 할 수 있는 거', 'start': 1400.12, 'duration': 2.96}
+{'text': '아닌가', 'start': 1401.64, 'duration': 4.76}
+{'text': '생각했었는데 그게 아니었어 어 그렇게', 'start': 1403.08, 'duration': 6.8}
+{'text': '할 수밖에 없는 이유가 있었어', 'start': 1406.4, 'duration': 3.48}
+{'text': '아 물른 주먹이라도 끝나서 다행이네', 'start': 1410.72, 'duration': 6.04}
+{'text': '축하해 아 키빠 님 감사합니다 예', 'start': 1413.36, 'duration': 6.199}
+{'text': '그렇게 하는 이유가 있었어', 'start': 1416.76, 'duration': 5.24}
+{'text': '응', 'start': 1419.559, 'duration': 5.881}
+{'text': '아 이게 두 마리에 토끼를 잡을 순', 'start': 1422.0, 'duration': 6.35}
+{'text': '없어 한 사람의', 'start': 1425.44, 'duration': 6.06}
+{'text': '[음악]', 'start': 1428.35, 'duration': 3.15}
+{'text': '몸으로음음 근데 또 엄밀이 따지면 또', 'start': 1436.88, 'duration': 6.08}
+{'text': '이제', 'start': 1441.279, 'duration': 4.601}
+{'text': '그 뭐야 어느 정도에 저도 이제', 'start': 1442.96, 'duration': 4.88}
+{'text': '수익을 채워야 될 거 아니에요', 'start': 1445.88, 'duration': 4.039}
+{'text': '그러려면 외부 촬영을 선택할 수밖에', 'start': 1447.84, 'duration': 5.719}
+{'text': '없어 어 그러다 보니까 이제 그걸 하', 'start': 1449.919, 'duration': 5.721}
+{'text': '또 생방송은 포기할 수 없어 에라', 'start': 1453.559, 'duration': 5.6}
+{'text': '[\xa0__\xa0] 때려쳐라 씨', 'start': 1455.64, 'duration': 3.519}
+{'text': '어음 그러다 보니까 이제 그이', 'start': 1463.48, 'duration': 4.36}
+{'text': '굴레에서 벗어날 수가 없는 거지 점점', 'start': 1465.72, 'duration': 3.48}
+{'text': '백미가 쉴 때만이라도 맘 편했으면', 'start': 1467.84, 'duration': 4.68}
+{'text': '좋겠는데 마마크 구링 그냥이 굴레에서', 'start': 1469.2, 'duration': 6.8}
+{'text': '그러니까 벗어날 수가 없지', 'start': 1472.52, 'duration': 3.48}
+{'text': '아 다 잘하고 싶은 욕심 아니 아니', 'start': 1479.919, 'duration': 6.36}
+{'text': '아니 그게 아니죠 그니까 지금 돈은', 'start': 1483.679, 'duration': 5.88}
+{'text': '무조건 벌어야 되고 어 그러니까 난', 'start': 1486.279, 'duration': 4.801}
+{'text': '난 옛날에 내가 그', 'start': 1489.559, 'duration': 5.281}
+{'text': '얘기했잖아 그 우리 집 가게 할 때', 'start': 1491.08, 'duration': 6.079}
+{'text': '난 우리 엄마 아빠가 너무 미련하다고', 'start': 1494.84, 'duration': 3.76}
+{'text': '생각했거든', 'start': 1497.159, 'duration': 6.76}
+{'text': '과 어 1년에 하루 쉬 이틀 3일', 'start': 1498.6, 'duration': 8.959}
+{'text': '쉰다 3일 어 여름휴가때 하루 그래서', 'start': 1503.919, 'duration': 6.161}
+{'text': '안면도 가거나 우리 엄마 아빠가 서한', 'start': 1507.559, 'duration': 4.801}
+{'text': '꽃찌 수장 이런데 좋아해가지고', 'start': 1510.08, 'duration': 5.52}
+{'text': '그다음에 추석 하루 그다음에 설날', 'start': 1512.36, 'duration': 7.039}
+{'text': '하루 우리 나는 학창시절 내내 그것만', 'start': 1515.6, 'duration': 7.6}
+{'text': '봐왔어 거의 나 중 3때부터', 'start': 1519.399, 'duration': 7.28}
+{'text': '중부터 그 대학교 때까지도', 'start': 1523.2, 'duration': 7.12}
+{'text': '그 우리 엄마 아빠가 근데 우리', 'start': 1526.679, 'duration': 5.681}
+{'text': '주변에 고깃집들 다른데 뭐 막 뭐', 'start': 1530.32, 'duration': 4.64}
+{'text': '막창 집이나 뭐 감자탕 집이나 뭐', 'start': 1532.36, 'duration': 5.919}
+{'text': '닭바베큐 집이나 그게 보면은 일주일에', 'start': 1534.96, 'duration': 6.28}
+{'text': '한우들 쉬요 그러니까 뭐 7일 중에', 'start': 1538.279, 'duration': 4.841}
+{'text': '일요일 날은 쉬고 아무리', 'start': 1541.24, 'duration': 4.48}
+{'text': '자영업자들이 어 일주일에 한 번 정도', 'start': 1543.12, 'duration': 5.4}
+{'text': '쉬거나 아니면 명절 때나 여름휴가 때', 'start': 1545.72, 'duration': 5.52}
+{'text': '막 일주일씩 문닫다 막 5일 정도', 'start': 1548.52, 'duration': 5.759}
+{'text': '막어 5일 정도', 'start': 1551.24, 'duration': 3.039}
+{'text': '문닫고음 그러고 이제 놀러갔다 오고', 'start': 1556.279, 'duration': 5.4}
+{'text': '뭐 3일 정도 문닫고 뭐 며칠간 휴가', 'start': 1558.64, 'duration': 6.639}
+{'text': '휴가 간다고 가고 이렇게 한단', 'start': 1561.679, 'duration': 6.041}
+{'text': '말이야 난 이제 어렸을 때 그게 너무', 'start': 1565.279, 'duration': 5.481}
+{'text': '싫었지 어 우리 집만 맨날 이렇게', 'start': 1567.72, 'duration': 6.16}
+{'text': '일만하고 엄마 아빠가 그리고 왜냐면', 'start': 1570.76, 'duration': 5.32}
+{'text': '엄마 아빠 일하면 나도 해야 돼요', 'start': 1573.88, 'duration': 5.88}
+{'text': '짜증나잖아 어 너무 미련하다 아니', 'start': 1576.08, 'duration': 4.92}
+{'text': '우리 그까', 'start': 1579.76, 'duration': 3.84}
+{'text': '막말로 우리가 너무 힘들고 그러면', 'start': 1581.0, 'duration': 5.32}
+{'text': '몰라 우리가 우리 집안이 너무 힘들고', 'start': 1583.6, 'duration': 5.76}
+{'text': '그면 몰라 꽤 있었어 아니 뭐 장사', 'start': 1586.32, 'duration': 4.599}
+{'text': '잘됐어 우리지 고깃집 우리 동네에서', 'start': 1589.36, 'duration': 5.0}
+{'text': '제일 잘 됐거든 어 고깃집 장사도', 'start': 1590.919, 'duration': 6.521}
+{'text': '잘되고 나름 나 어 어렸을 때 아주', 'start': 1594.36, 'duration': 6.76}
+{'text': '아기 때부터도 막 엄마 아빠가 막', 'start': 1597.44, 'duration': 6.64}
+{'text': '엄청 힘든 힘들었던 순간은 없어 둘의', 'start': 1601.12, 'duration': 5.4}
+{'text': '사이가 힘들었던 적은 있어도 어 막', 'start': 1604.08, 'duration': 4.04}
+{'text': '이렇게 재정적으로는 아빠도 돈 잘', 'start': 1606.52, 'duration': 3.46}
+{'text': '벌었었는데 IMF', 'start': 1608.12, 'duration': 4.64}
+{'text': '[음악]', 'start': 1609.98, 'duration': 6.62}
+{'text': '전까지도음 했는데', 'start': 1612.76, 'duration': 6.36}
+{'text': '뭐야음 그래서 그런게 되게 싫었거든요', 'start': 1616.6, 'duration': 6.24}
+{'text': '엄마랑도 그걸로 엄청 싸우고 막 어', 'start': 1619.12, 'duration': 7.08}
+{'text': '했는데 그 마음을 이제 아는 거지', 'start': 1622.84, 'duration': 6.04}
+{'text': '아버지 이제야', 'start': 1626.2, 'duration': 6.52}
+{'text': '깨달아요 어찌 그렇게 사셨나지는 이제', 'start': 1628.88, 'duration': 6.56}
+{'text': '알겠어요 저도 그렇게 살거든요 이런', 'start': 1632.72, 'duration': 5.24}
+{'text': '느낌이야', 'start': 1635.44, 'duration': 2.52}
+{'text': '지금 젊었을 때 한 푼이라도 더 벌어', 'start': 1638.52, 'duration': 6.279}
+{'text': '두려고 하는 생각 아닐까 저는 그것도', 'start': 1641.679, 'duration': 6.72}
+{'text': '있죠 어 그것도 있는데 그니까 이거', 'start': 1644.799, 'duration': 6.521}
+{'text': '어 유튜버들이 이제 나이대에 비해서', 'start': 1648.399, 'duration': 5.16}
+{'text': '돈을 굉장히 많이 벌고 저도 뭐 어디', 'start': 1651.32, 'duration': 4.359}
+{'text': '가서 못 번다고 안 합니다만 여러분들', 'start': 1653.559, 'duration': 5.72}
+{'text': '덕분에 어 이게 이제 수명이 아무래도', 'start': 1655.679, 'duration': 5.72}
+{'text': '원체 좀 짧다 보니까 그리고 이제', 'start': 1659.279, 'duration': 3.681}
+{'text': '이제 하고 싶은만큼 할 수 있는', 'start': 1661.399, 'duration': 4.321}
+{'text': '직장이 직업이 아니잖아 회사는 참고', 'start': 1662.96, 'duration': 5.559}
+{'text': '견디면 다닐 수 있는데 이거는 참고', 'start': 1665.72, 'duration': 5.72}
+{'text': '견뎌도 못 다니는 경우가 생기잖아요', 'start': 1668.519, 'duration': 6.081}
+{'text': '내가 견딘다고 되는게 아니니까', 'start': 1671.44, 'duration': 6.76}
+{'text': '어 약간 그런 어떤 정', 'start': 1674.6, 'duration': 7.439}
+{'text': '그런 어떤 불안감에 원래 나도 원래', 'start': 1678.2, 'duration': 6.4}
+{'text': '원래는 30살까지', 'start': 1682.039, 'duration': 5.64}
+{'text': '몇 평생 벌 돈 다 벌자 평까지', 'start': 1684.6, 'duration': 6.64}
+{'text': '아니더라도 혼자 살았을 때 혼자', 'start': 1687.679, 'duration': 6.441}
+{'text': '그니까 한두명 정도 키웠을 때 어느', 'start': 1691.24, 'duration': 5.2}
+{'text': '정도 이제 사업 한 세네번 망해도 될', 'start': 1694.12, 'duration': 5.08}
+{'text': '정도 무슨 느낌인지 알죠 어한 원래', 'start': 1696.44, 'duration': 5.16}
+{'text': '30살까지 5년', 'start': 1699.2, 'duration': 5.16}
+{'text': '안에 왜냐면 저는 이제 방송 시작하고', 'start': 1701.6, 'duration': 6.559}
+{'text': '한 6개월 정도 이제 좀 고 기간을', 'start': 1704.36, 'duration': 5.52}
+{'text': '거치고 나서 그다음부터는 그래도', 'start': 1708.159, 'duration': 3.801}
+{'text': '수익이 괜찮았거든 일반 회사원', 'start': 1709.88, 'duration': 4.919}
+{'text': '정도보다는 그래도 벌었으니까 만큼은', 'start': 1711.96, 'duration': 5.719}
+{'text': '벌었으니까 그래가지고 이제 나는 이제', 'start': 1714.799, 'duration': 4.88}
+{'text': '항상 뭐 내 친구들의 뭐 몇 배를', 'start': 1717.679, 'duration': 5.761}
+{'text': '벌어도 이거는 내 친구들의 35살', 'start': 1719.679, 'duration': 5.88}
+{'text': '이후부터의 삶을 내가 지금 미리 벌고', 'start': 1723.44, 'duration': 4.479}
+{'text': '있다 어 그래서 돈도 잘 안 쓰고', 'start': 1725.559, 'duration': 3.681}
+{'text': '그이 시작은 내가 할 수 있어도은', 'start': 1727.919, 'duration': 2.841}
+{'text': '내가 결정하기', 'start': 1729.24, 'duration': 3.64}
+{'text': '어려운 끌어서 버는 거지 난', 'start': 1730.76, 'duration': 3.6}
+{'text': '얘네들보다 지금 더 벌고 있는게', 'start': 1732.88, 'duration': 4.24}
+{'text': '아니야 끌어서 버는 거야 얘네가 4살', 'start': 1734.36, 'duration': 4.6}
+{'text': '때 벌 돈을 난 지금 미리 벌고', 'start': 1737.12, 'duration': 4.84}
+{'text': '있을뿐 어 그래가지고 아무튼간에 그럼', 'start': 1738.96, 'duration': 4.959}
+{'text': '내가 얘네보다 정년 퇴임이 예를', 'start': 1741.96, 'duration': 4.4}
+{'text': '들어서 35 가지라고 쳐 만약 예를', 'start': 1743.919, 'duration': 4.721}
+{'text': '들어서 최하 나 5년 더 한다만', 'start': 1746.36, 'duration': 4.6}
+{'text': '있는데', 'start': 1748.64, 'duration': 5.48}
+{'text': '어 약간 용돈 당겨 봤듯이 그러면은', 'start': 1750.96, 'duration': 6.04}
+{'text': '이제 그때까지 얘네 정년 퇴임 기간', 'start': 1754.12, 'duration': 5.559}
+{'text': '그거를 이제 배수로 내가 계산을 해', 'start': 1757.0, 'duration': 4.64}
+{'text': '이제 뭐 연차 쌓여 가지고 이제 돈', 'start': 1759.679, 'duration': 3.801}
+{'text': '더 벌 것까지 대충 계산 대충만', 'start': 1761.64, 'duration': 4.8}
+{'text': '계산해 가지고 빨리 벌자 이런', 'start': 1763.48, 'duration': 5.799}
+{'text': '마인드였는데 실패했어요 30살까지', 'start': 1766.44, 'duration': 5.88}
+{'text': '불가능해 그 그것까지는 이제 힘들고', 'start': 1769.279, 'duration': 4.961}
+{'text': '이제 두 명 정도는 여유 있게 키울', 'start': 1772.32, 'duration': 4.239}
+{'text': '수 있을 만한 돈 이제 사업 그니까', 'start': 1774.24, 'duration': 5.12}
+{'text': '이거를 30살에 망해도 30살까지', 'start': 1776.559, 'duration': 5.84}
+{'text': '30살에 망해도 사업 한네 다섯 번', 'start': 1779.36, 'duration': 5.6}
+{'text': '실패할 정도까지는 벌어놓자 내 다섯번', 'start': 1782.399, 'duration': 5.0}
+{'text': '다 실패할 수도 있겠지만 그래도 그게', 'start': 1784.96, 'duration': 5.52}
+{'text': '여유돈이 그래도 꽤 된다는 거잖아', 'start': 1787.399, 'duration': 6.081}
+{'text': '어 아무튼간에 이제 어 그래가지고', 'start': 1790.48, 'duration': 4.52}
+{'text': '이제 그렇게 해라', 'start': 1793.48, 'duration': 5.84}
+{'text': '그랬는데음 이제 그게 실패하고', 'start': 1795.0, 'duration': 4.32}
+{'text': '더야 뭐 아무튼간에', 'start': 1803.039, 'duration': 6.401}
+{'text': '이제 뭐야 뭔 얘기하려', 'start': 1805.6, 'duration': 7.4}
+{'text': '그랬냐 뭐 아무튼', 'start': 1809.44, 'duration': 3.56}
+{'text': '그랬어요 잘 안', 'start': 1814.039, 'duration': 5.441}
+{'text': '됐어 그래서 좀 더 잘 안 쓰고', 'start': 1817.12, 'duration': 5.08}
+{'text': '그러기도 했는데 직 유튜버 수명은 뭐', 'start': 1819.48, 'duration': 5.4}
+{'text': '그 정도로 짧지', 'start': 1822.2, 'duration': 6.44}
+{'text': '않죠은 좀 더어 요즘 요즘은 더더욱더', 'start': 1824.88, 'duration': 6.639}
+{'text': '어 그어졌고', 'start': 1828.64, 'duration': 5.879}
+{'text': '응 그리고 약간 솔직히 말하면 저는', 'start': 1831.519, 'duration': 4.52}
+{'text': '그니까 뭐 제가 막 유세 떠는게', 'start': 1834.519, 'duration': 5.321}
+{'text': '아니고 그 그 수준을 좀 넘었지 약간', 'start': 1836.039, 'duration': 5.801}
+{'text': '유튜브 200만이 흔한 건 아니니까', 'start': 1839.84, 'duration': 3.76}
+{'text': '뭐 아무튼', 'start': 1841.84, 'duration': 6.079}
+{'text': '어 그냥 이렇게 먹고 사는', 'start': 1843.6, 'duration': 4.319}
+{'text': '건데음 아 뭐 이거 아니 뭐 망', 'start': 1850.279, 'duration': 5.561}
+{'text': '그니까 그니까 지금 지금은 저는 이제', 'start': 1852.559, 'duration': 6.321}
+{'text': '뭐 뭐 뭐 그래도 먹고 살만 치든 뭐', 'start': 1855.84, 'duration': 6.16}
+{'text': '충분하니까 약간 그런 느낌인데 어', 'start': 1858.88, 'duration': 5.36}
+{'text': '약간 이제 지금 목표는', 'start': 1862.0, 'duration': 6.36}
+{'text': '35가지 어 아 이게 지금 목표지', 'start': 1864.24, 'duration': 6.96}
+{'text': '35가지 이제 두 명 평생 키울 수', 'start': 1868.36, 'duration': 6.52}
+{'text': '있을 정도는 애들 뭐 독립할 때까지는', 'start': 1871.2, 'duration': 6.0}
+{'text': '쓸 정도 돈을 굉장히 많이 모아야', 'start': 1874.88, 'duration': 4.36}
+{'text': '된단 말이지 애 한 명 키우는데 한', 'start': 1877.2, 'duration': 5.319}
+{'text': '어 한 뭐 저기 뭐야 최하루 8억', 'start': 1879.24, 'duration': 5.679}
+{'text': '막이이 정도 걸린다고 하니까 스스 뭐', 'start': 1882.519, 'duration': 6.64}
+{'text': '몇 살까지 키우는데 어', 'start': 1884.919, 'duration': 4.24}
+{'text': '근데 이제 그거죠 그니까 만약에', 'start': 1892.84, 'duration': 5.04}
+{'text': '그러면은 결혼을 할 거 아니 아내가', 'start': 1895.08, 'duration': 5.319}
+{'text': '아내가 8억을 들고 오면 임종할', 'start': 1897.88, 'duration': 5.6}
+{'text': '때까지 방송 유튜브 해 적으로나', 'start': 1900.399, 'duration': 4.561}
+{'text': '법적으로 크게 하자만 없음 백살까지', 'start': 1903.48, 'duration': 4.559}
+{'text': '해도 미방송 볼게 아내가 8억을 들고', 'start': 1904.96, 'duration': 6.12}
+{'text': '오면은 이제 어 저는 이제 연화를', 'start': 1908.039, 'duration': 5.6}
+{'text': '원하니까 한 세네살 연하라고 치고', 'start': 1911.08, 'duration': 5.16}
+{'text': '그냥 원어비 세네살 하라고 치고', 'start': 1913.639, 'duration': 5.04}
+{'text': '27살여자 가 8억이 있어야 돼 나랑', 'start': 1916.24, 'duration': 5.399}
+{'text': '비슷한 나랑 비슷한 35 전까지 나랑', 'start': 1918.679, 'duration': 6.441}
+{'text': '비슷한 수준으로 있어야 되니까', 'start': 1921.639, 'duration': 3.481}
+{'text': '응 힘들지 힘들지', 'start': 1932.519, 'duration': 4.52}
+{'text': '어 그까 집 있고 차 있는 상태로', 'start': 1937.36, 'duration': 6.64}
+{'text': '팔아 집 집 차는 내가 하겠다', 'start': 1940.48, 'duration': 5.6}
+{'text': '이거야이거', 'start': 1944.0, 'duration': 4.12}
+{'text': '예음', 'start': 1946.08, 'duration': 4.24}
+{'text': '근데 이뻐야 돼 이쁘면 근데 갖고', 'start': 1948.12, 'duration': 4.84}
+{'text': '있을 확률이 좀', 'start': 1950.32, 'duration': 2.64}
+{'text': '[음악]', 'start': 1953.58, 'duration': 3.1}
+{'text': '생겨음', 'start': 1958.96, 'duration': 3.0}
+{'text': '아 불가능하고 근데 그거는 예', 'start': 1962.24, 'duration': 5.679}
+{'text': '그러니까 내가 다 모아 놓자 그까', 'start': 1965.399, 'duration': 5.441}
+{'text': '이런 말 있는데', 'start': 1967.919, 'duration': 2.921}
+{'text': '예음', 'start': 1976.039, 'duration': 5.561}
+{'text': '음 8천 있으면 이뻐 볼 것 같은데', 'start': 1978.44, 'duration': 5.599}
+{'text': '전 진짜 막말로 이쁘고 30살까지', 'start': 1981.6, 'duration': 7.559}
+{'text': '8억 모으면 받아주나 27 2일이라', 'start': 1984.039, 'duration': 8.36}
+{'text': '치짜 그러면은 23살에 졸업하자 스', 'start': 1989.159, 'duration': 8.0}
+{'text': '212 23 4학년이 적이니까 24살', 'start': 1992.399, 'duration': 7.16}
+{'text': '되면서 23세 졸업하고 24살부터', 'start': 1997.159, 'duration': 5.201}
+{'text': '사회생활 한다 치자', 'start': 1999.559, 'duration': 6.0}
+{'text': '어 근데 보통 요즘은 1년 정도 휴약', 'start': 2002.36, 'duration': 7.159}
+{'text': '한다고 봐 줘 25부터 한다 치자', 'start': 2005.559, 'duration': 7.281}
+{'text': '그러면 어 여자분들도 보통은 1년', 'start': 2009.519, 'duration': 6.481}
+{'text': '휴학하는 경우 좀 있으니까 25', 'start': 2012.84, 'duration': 7.24}
+{'text': '그러면 25 1년 26 2년 27의', 'start': 2016.0, 'duration': 6.2}
+{'text': '날를 만약에 만나 예를 들어서 28', 'start': 2020.08, 'duration': 6.319}
+{'text': '그래 그러면은 어 3년 4년 4년', 'start': 2022.2, 'duration': 6.599}
+{'text': '정도 사회 생활 했다 치자 일 여덟살', 'start': 2026.399, 'duration': 5.961}
+{'text': '때 만난다고 치면 그러면 어 보통', 'start': 2028.799, 'duration': 6.72}
+{'text': '초봉 한 3천 많이 받으면 3천이나', 'start': 2032.36, 'duration': 6.6}
+{'text': '치짜 그다음에', 'start': 2035.519, 'duration': 3.441}
+{'text': '그러면은 한 달에 내가 봤을 때 월세', 'start': 2039.44, 'duration': 7.199}
+{'text': '포함해서 서울에서 지낸다는 전제하에', 'start': 2043.6, 'duration': 6.559}
+{'text': '그 일반적으로 어 서울에서 지낸다는', 'start': 2046.639, 'duration': 6.28}
+{'text': '전제하에 월세 한 7 80에 원룸', 'start': 2050.159, 'duration': 5.72}
+{'text': '요즘 7 80만 원 하는데 많아요 어', 'start': 2052.919, 'duration': 4.72}
+{'text': '7 80에 뭐', 'start': 2055.879, 'duration': 5.96}
+{'text': '한 뭐야 생활비 한 50만 원 잡아', 'start': 2057.639, 'duration': 8.24}
+{'text': '130만 원이야 에다가', 'start': 2061.839, 'duration': 6.481}
+{'text': '어', 'start': 2065.879, 'duration': 5.2}
+{'text': '130만 원에가 그러면은 이제 뭐', 'start': 2068.32, 'duration': 4.279}
+{'text': '이것저것 조금 뭐 조금 더', 'start': 2071.079, 'duration': 4.32}
+{'text': '들어간다고면 150 정도 든다고 쳐', 'start': 2072.599, 'duration': 5.721}
+{'text': '한 달에 150 * 12 하면 15', 'start': 2075.399, 'duration': 5.321}
+{'text': '12 하면', 'start': 2078.32, 'duration': 4.72}
+{'text': '523 하면은', 'start': 2080.72, 'duration': 6.399}
+{'text': '잠깐만 150 정도 든다', 'start': 2083.04, 'duration': 4.079}
+{'text': '치면은 100 1800', 'start': 2089.599, 'duration': 7.841}
+{'text': '1800에 그러면은 3에서 세금 빼면', 'start': 2093.839, 'duration': 6.361}
+{'text': '한 2,700 1800', 'start': 2097.44, 'duration': 7.2}
+{'text': '빼면 900 900', 'start': 2100.2, 'duration': 7.8}
+{'text': '4년 49 36 3,600만 원만', 'start': 2104.64, 'duration': 6.84}
+{'text': '모아도 돼 나는', 'start': 2108.0, 'duration': 3.48}
+{'text': '진짜 전문대는 안 돼음 그건 뭐', 'start': 2116.0, 'duration': 4.839}
+{'text': '상관없고', 'start': 2119.52, 'duration': 5.4}
+{'text': '예이 27여 살 짜린데 한 그래', 'start': 2120.839, 'duration': 9.201}
+{'text': '오케이 3천 3천만 원 3천만 원', 'start': 2124.92, 'duration': 8.6}
+{'text': '만약에 모아도 나는 아 정상 이렇게', 'start': 2130.04, 'duration': 6.4}
+{'text': '생각할 것 같아 솔직히', 'start': 2133.52, 'duration': 2.92}
+{'text': '말해서 3600은 결혼식 비용도 안', 'start': 2138.359, 'duration': 8.281}
+{'text': '된다고요 괜찮아요 얼굴이 3억이면', 'start': 2141.44, 'duration': 5.2}
+{'text': '돼음 아 딱 말할게 얼굴 2억에 하는', 'start': 2147.359, 'duration': 6.201}
+{'text': '짓 얼굴 2억에 하는 짓 1억이면 난', 'start': 2150.96, 'duration': 5.8}
+{'text': '괜찮아 어 아 진짜 돈 돈이야 뭐', 'start': 2153.56, 'duration': 5.32}
+{'text': '내가 번다 마인드 나는 난 내가 내가', 'start': 2156.76, 'duration': 4.4}
+{'text': '부양한다 마인 드니까', 'start': 2158.88, 'duration': 4.719}
+{'text': '어 얼굴이 8인데 동장이 마이너스', 'start': 2161.16, 'duration': 4.56}
+{'text': '3천이면 그러니까 이제 빚이 있어', 'start': 2163.599, 'duration': 4.24}
+{'text': '버리면 노답이에요 그러니까 3천인데', 'start': 2165.72, 'duration': 4.0}
+{'text': '학자금 대출이 예를 들어서 1400이', 'start': 2167.839, 'duration': 3.48}
+{'text': '있어', 'start': 2169.72, 'duration': 4.72}
+{'text': '그래서 1600을 들고 와 그 괜찮아', 'start': 2171.319, 'duration': 6.52}
+{'text': '나 그러면 정상이자 아 그러면 어', 'start': 2174.44, 'duration': 6.8}
+{'text': '정상 범주 아아음 근데 막 빚지 막', 'start': 2177.839, 'duration': 5.48}
+{'text': '갑자기 24살 때 막 존나 마카론', 'start': 2181.24, 'duration': 3.76}
+{'text': '가게 열었다가 막 8천만 원 빚졌어', 'start': 2183.319, 'duration': 3.841}
+{'text': '막 [\xa0__\xa0] 청담동에서 했다가 그러면', 'start': 2185.0, 'duration': 4.64}
+{'text': '사고지', 'start': 2187.16, 'duration': 2.48}
+{'text': '응 그러면 돈은 많이 못 모았는데', 'start': 2193.359, 'duration': 4.72}
+{'text': '부모님 노후 걱정 없는 집안이라면음', 'start': 2195.76, 'duration': 4.4}
+{'text': '돈은 많이 못 모았는데 부모님 노후', 'start': 2198.079, 'duration': 5.121}
+{'text': '걱정이 없는 집안', 'start': 2200.16, 'duration': 7.12}
+{'text': '어 글쎄요 저는 근데 솔직히 말하면', 'start': 2203.2, 'duration': 6.28}
+{'text': '만약에 좀 냉정하게 가보자 솔직히', 'start': 2207.28, 'duration': 4.52}
+{'text': '마음으로 이제 간다 아이 든데 우리가', 'start': 2209.48, 'duration': 3.639}
+{'text': '뭐 어차피 내가 지금 뭐 여자친구', 'start': 2211.8, 'duration': 2.799}
+{'text': '있는 것도 아니고 그냥 냉정하게', 'start': 2213.119, 'duration': 4.801}
+{'text': '얘기하면 진 우리 현실 운 현실만', 'start': 2214.599, 'duration': 5.921}
+{'text': '얘기하자면 어 만약에 내가 그렇게', 'start': 2217.92, 'duration': 4.679}
+{'text': '차가운 사람이야 난 감성적으로가 근데', 'start': 2220.52, 'duration': 4.839}
+{'text': '나는 나는 얼굴이 사억 쳐 줘 나는', 'start': 2222.599, 'duration': 5.081}
+{'text': '얼굴이 2억이 오케이 2억 쳐주고', 'start': 2225.359, 'duration': 3.96}
+{'text': '이런 말 얘는 2억 들고 오는 거야', 'start': 2227.68, 'duration': 3.6}
+{'text': '나한테 아 2억 원어치에 나한테', 'start': 2229.319, 'duration': 4.8}
+{'text': '행복감을 줄 수 있어 얼굴로 어', 'start': 2231.28, 'duration': 5.319}
+{'text': '외모로만 내 여자친구는 보통 2억이', 'start': 2234.119, 'duration': 5.841}
+{'text': '아 약간 그런 느낌인데 다 조건', 'start': 2236.599, 'duration': 6.801}
+{'text': '충족했는데 번 다녀왔으면 오안돼 근데', 'start': 2239.96, 'duration': 5.359}
+{'text': '아무튼간에 근데 근데 이건 이제 내가', 'start': 2243.4, 'duration': 4.12}
+{'text': '감성적인 개념이고 얼 2억으로', 'start': 2245.319, 'duration': 4.881}
+{'text': '쳐주는게 불가능하잖아 정말 냉정한', 'start': 2247.52, 'duration': 5.4}
+{'text': '현실만 기하고 나라고 얘기하자 만약에', 'start': 2250.2, 'duration': 5.48}
+{'text': '내기준 결혼 못해요 저는 저희 집', 'start': 2252.92, 'duration': 5.08}
+{'text': '노후 걱정 없고요 아 김재키 님', 'start': 2255.68, 'duration': 4.679}
+{'text': '감사합니다 우리 엄마 아빠 내가 용돈', 'start': 2258.0, 'duration': 3.68}
+{'text': '다보다 돈', 'start': 2260.359, 'duration': 5.641}
+{'text': '많아 어 우리 엄마 어 저 우리', 'start': 2261.68, 'duration': 9.6}
+{'text': '아버지 동에서 물주기 때문에 아님', 'start': 2266.0, 'duration': 5.28}
+{'text': '감사합니다 우리 마 나보다 돈 많', 'start': 2273.44, 'duration': 5.679}
+{'text': '용돈 안 숨 삐져 개열받아', 'start': 2276.56, 'duration': 5.68}
+{'text': '아음 욕심쟁이 우후후 어렸을 때 안', 'start': 2279.119, 'duration': 5.681}
+{'text': '쉬는 이유를', 'start': 2282.24, 'duration': 2.56}
+{'text': '알겠어 그리고 나랑 조금만 말싸움하면', 'start': 2286.24, 'duration': 5.079}
+{'text': '이제부터 용돈 주지 말래 나야', 'start': 2289.079, 'duration': 4.52}
+{'text': '땡큐인데 막 그걸로 협박해 너이 새끼', 'start': 2291.319, 'duration': 4.52}
+{'text': '이제부터 엄마 아빠 용돈 주지 마 막', 'start': 2293.599, 'duration': 5.801}
+{'text': '그래 뭐야 아니 나랑 싸웠어 좀', 'start': 2295.839, 'duration': 6.48}
+{'text': '언쟁이 있었어 요번에도 저기 뭐야', 'start': 2299.4, 'duration': 4.56}
+{'text': '아빠가 병균이 형 차 긁어 가지고 내', 'start': 2302.319, 'duration': 3.081}
+{'text': '아빠 너무 뭐라 했다 나도 좀', 'start': 2303.96, 'duration': 3.359}
+{'text': '하면서도 아빠 곧 있으면 터질 거', 'start': 2305.4, 'duration': 3.4}
+{'text': '같은데 터질 거 같은데 생각하면서도', 'start': 2307.319, 'duration': 3.841}
+{'text': '막 아빠 사과를 해야지 병류형 차', 'start': 2308.8, 'duration': 5.76}
+{'text': '끌었으면 투싼 새로 산 건데 씨 하면', 'start': 2311.16, 'duration': 5.36}
+{'text': '아빠 그만해 새끼야 그때 좀 싸웠을', 'start': 2314.56, 'duration': 4.36}
+{'text': '때 너 앞으로 아빠 이용돈 주지', 'start': 2316.52, 'duration': 6.76}
+{'text': '마 나 좋지 아니 나 좋은데 그 그걸', 'start': 2318.92, 'duration': 6.0}
+{'text': '또 이제 내가 덥썩 물어버리면 또 더', 'start': 2323.28, 'duration': 4.12}
+{'text': '삐져 버리니까', 'start': 2324.92, 'duration': 5.48}
+{'text': '응', 'start': 2327.4, 'duration': 3.0}
+{'text': '아 그러니까 뉘앙스만 야 이제부터네', 'start': 2333.88, 'duration': 5.12}
+{'text': '용돈 안 줘이 새끼야 이런 걸 이런', 'start': 2336.92, 'duration': 4.439}
+{'text': '건 줄 알아 나 이제부터 아빠를 용돈', 'start': 2339.0, 'duration': 5.319}
+{'text': '주지 마 너 이런 이런 느낌이야 엄마', 'start': 2341.359, 'duration': 5.76}
+{'text': '아빠 영돈 주지 마이 오히려 좋아', 'start': 2344.319, 'duration': 4.321}
+{'text': '감사합니다', 'start': 2347.119, 'duration': 5.96}
+{'text': '아버지 왜 이거 갖고 박 그 하는', 'start': 2348.64, 'duration': 4.439}
+{'text': '거야 아 그래놓고 내 카드로 막 기름', 'start': 2353.24, 'duration': 7.359}
+{'text': '겁나 어딜 그렇게 다니는 거야', 'start': 2356.44, 'duration': 4.159}
+{'text': '아씨', 'start': 2361.48, 'duration': 6.359}
+{'text': '아 어디 뭐 어디 카페 막 어디', 'start': 2363.96, 'duration': 6.6}
+{'text': '오산에 어디 카페 가가지고 아 아', 'start': 2367.839, 'duration': 5.24}
+{'text': '노인 두 명에서 뭐 카페 가가지고', 'start': 2370.56, 'duration': 4.68}
+{'text': '아메리카 하나를 시켜 먹으 카페 라대', 'start': 2373.079, 'duration': 4.561}
+{'text': '이런 거 먹으면 2만 원씩 막 케이', 'start': 2375.24, 'duration': 5.68}
+{'text': '시키고 막 그래 나도 안 먹는 걸 아', 'start': 2377.64, 'duration': 6.36}
+{'text': '돈은 겁나 용돈 주지 말라고 하면', 'start': 2380.92, 'duration': 5.56}
+{'text': '주문 잘', 'start': 2384.0, 'duration': 2.48}
+{'text': '쓰면서음 아 케이크까지 시켜 버려', 'start': 2388.68, 'duration': 5.919}
+{'text': '내가 두 조각 시켰어 아이 하나만', 'start': 2391.76, 'duration': 5.24}
+{'text': '먹으라니까 아버지 그만 혀 케이크 좀', 'start': 2394.599, 'duration': 5.72}
+{'text': '먹으면 서해 어 아무튼간에 어 우리', 'start': 2397.0, 'duration': 7.04}
+{'text': '집 저기 뭐야 그 엄마 아빠 노 뭐', 'start': 2400.319, 'duration': 6.04}
+{'text': '노후 계획 이런 거 다 있어 어 우리', 'start': 2404.04, 'duration': 4.12}
+{'text': '뭐 내가 뭐 우리가 부양을 안 해도', 'start': 2406.359, 'duration': 3.601}
+{'text': '될 좀도 우리 번 솔직히 말하면', 'start': 2408.16, 'duration': 4.72}
+{'text': '고깃집 잘 됐어 어 뭐 물론 조금', 'start': 2409.96, 'duration': 5.24}
+{'text': '손해 봤지만 마지막에 나올 때도', 'start': 2412.88, 'duration': 4.52}
+{'text': '손해는 그러니까 예를 들면 2억 벌', 'start': 2415.2, 'duration': 4.919}
+{'text': '걸 1억 번 거지 나중에 주택 사라서', 'start': 2417.4, 'duration': 5.8}
+{'text': '마당에 시멘트 깐다고 하니까 그럴거면', 'start': 2420.119, 'duration': 5.401}
+{'text': '아파트에 살으라고 한 소리 리을 좀', 'start': 2423.2, 'duration': 4.72}
+{'text': '받은 거 처리해야 되니까 건물주가', 'start': 2425.52, 'duration': 5.079}
+{'text': '지랄해 가지고 마이너스는 아니었던', 'start': 2427.92, 'duration': 6.36}
+{'text': '거죠 아무튼 잘 치고 나가', 'start': 2430.599, 'duration': 3.681}
+{'text': '가지고음 원수 됐으니까 그죠서 노후', 'start': 2434.8, 'duration': 6.4}
+{'text': '걱정 없어 아 피자 소다니 14개월', 'start': 2438.079, 'duration': 8.52}
+{'text': '감사합니다 어 그리고 인간 오병민', 'start': 2441.2, 'duration': 8.919}
+{'text': '막말로 막말로 내 나이 때에서', 'start': 2446.599, 'duration': 4.841}
+{'text': '부모님의', 'start': 2450.119, 'duration': 4.081}
+{'text': '녹을 받지 않고 막 무슨 사업가로', 'start': 2451.44, 'duration': 6.6}
+{'text': '시작한 이런 친구들 아니면', 'start': 2454.2, 'duration': 7.639}
+{'text': '솔직히 매우 괜찮은 편 매우 솔직히', 'start': 2458.04, 'duration': 5.559}
+{'text': '매우 괜찮은 수준이 아니 저는 솔직히', 'start': 2461.839, 'duration': 5.24}
+{'text': '말하면 어 저 지금 직원 직원', 'start': 2463.599, 'duration': 5.801}
+{'text': '12명이 14명이 나 걔네 월급 다', 'start': 2467.079, 'duration': 5.201}
+{'text': '줘', 'start': 2469.4, 'duration': 2.88}
+{'text': '어 아무튼간에 어 여기 트위치', 'start': 2475.64, 'duration': 6.679}
+{'text': '코리아보 내가 직원이 많아', 'start': 2478.56, 'duration': 3.759}
+{'text': '어 아무든간에 아 뭐 물론 뭐 저기', 'start': 2483.119, 'duration': 6.0}
+{'text': '뭐야 이제 정직원 따지면 한 아홉명', 'start': 2486.88, 'duration': 4.719}
+{'text': '되고 예 그리고 이제 근데 이제 외주', 'start': 2489.119, 'duration': 4.681}
+{'text': '그니까 프리랜서인데 저만 맡아서 하는', 'start': 2491.599, 'duration': 3.801}
+{'text': '친구들까지 하면 12명에서 13명', 'start': 2493.8, 'duration': 4.24}
+{'text': '정도 되죠', 'start': 2495.4, 'duration': 2.64}
+{'text': '응 프리랜서 친구들 중에서는 그 제가', 'start': 2500.079, 'duration': 5.481}
+{'text': '정직원으로 채용한다고 해도 싫다고', 'start': 2503.64, 'duration': 4.6}
+{'text': '해요 왜냐 그게 더 돈을 많이 벌거든', 'start': 2505.56, 'duration': 4.88}
+{'text': '빨리 할 수 있는 애들은 어 그거', 'start': 2508.24, 'duration': 5.56}
+{'text': '이제 거의 많이 없고', 'start': 2510.44, 'duration': 3.36}
+{'text': '아무튼간에', 'start': 2515.24, 'duration': 3.0}
+{'text': '음 아무튼간에 그러다가 아무튼 난 그', 'start': 2518.48, 'duration': 4.639}
+{'text': '정도야 근데 이제 그러면은 냉정하게', 'start': 2520.68, 'duration': 5.04}
+{'text': '봤을 때 그러면은 나랑 비슷해야', 'start': 2523.119, 'duration': 8.2}
+{'text': '되잖아 결혼하려면 요즘 반반 결혼인데', 'start': 2525.72, 'duration': 5.599}
+{'text': '응 그러면 이제 솔직히 말하면', 'start': 2532.319, 'duration': 6.04}
+{'text': '결혼하기 힘들죠 이제', 'start': 2535.0, 'duration': 3.359}
+{'text': '그러면음 냉정하게 가면은 만약에', 'start': 2541.359, 'duration': 5.641}
+{'text': '그러면 이제', 'start': 2544.68, 'duration': 5.0}
+{'text': '그러면은 이제 내가 그니까', 'start': 2547.0, 'duration': 6.359}
+{'text': '여자쪽에서 그 갖고 오는게 덜 있어', 'start': 2549.68, 'duration': 7.439}
+{'text': '덜 뭐이 맞추기가 힘들겠지 어 그러면', 'start': 2553.359, 'duration': 6.401}
+{'text': '이제 포기할 줄 알아야 돼 응', 'start': 2557.119, 'duration': 5.44}
+{'text': '그러면은 이제 뭔가 좀 그 뭐 결혼할', 'start': 2559.76, 'duration': 6.88}
+{'text': '때 있어서 조율이나 이런 면에서', 'start': 2562.559, 'duration': 6.8}
+{'text': '뭐 결혼이라는게 무조건 그렇게 체스', 'start': 2566.64, 'duration': 4.479}
+{'text': '두이 그렇게 안 되겠지만 내가 뭐', 'start': 2569.359, 'duration': 4.321}
+{'text': '폰을 내주면 무조건 뭐 뭐를 갖고 뭐', 'start': 2571.119, 'duration': 4.401}
+{'text': '나이트를 갖고 뭐 이런 건 아니겠지만', 'start': 2573.68, 'duration': 4.639}
+{'text': '냉정하게 만 봤을', 'start': 2575.52, 'duration': 5.799}
+{'text': '때 여자쪽 부모님이 1억 지원해 준다', 'start': 2578.319, 'duration': 6.601}
+{'text': '하면 양반이 그걸 안', 'start': 2581.319, 'duration': 6.601}
+{'text': '되죠', 'start': 2584.92, 'duration': 3.0}
+{'text': '솔직하게 그래서 결혼 언제 하세요', 'start': 2591.16, 'duration': 4.36}
+{'text': '모르겠어요 돈관리는 어떻게 해야', 'start': 2600.96, 'duration': 6.399}
+{'text': '지혜로운 걸까 잘하는 쪽이 게 지혜롭', 'start': 2603.2, 'duration': 7.44}
+{'text': '저는 솔직히 말하면 어떤 여자가 와도', 'start': 2607.359, 'duration': 5.161}
+{'text': '저보다 잘할 거 같지 않아요 솔직히', 'start': 2610.64, 'duration': 5.0}
+{'text': '말하면 근데 나는 근데 이거 죽인데', 'start': 2612.52, 'duration': 6.72}
+{'text': '나는 용돈 받고 살고 싶어 아 솔직히', 'start': 2615.64, 'duration': 5.56}
+{'text': '약간 와이프한테 잘 보이고 약간 이거', 'start': 2619.24, 'duration': 6.68}
+{'text': '나는 약간 가스 라이팅 당했나', 'start': 2621.2, 'duration': 4.72}
+{'text': '어 약간', 'start': 2627.839, 'duration': 4.561}
+{'text': '로망 플스 사 달라고 쪼르고 약간', 'start': 2630.0, 'duration': 3.4}
+{'text': '이런', 'start': 2632.4, 'duration': 6.24}
+{'text': '거 와이프로 어 기억 아', 'start': 2633.4, 'duration': 5.24}
+{'text': '감사합니다', 'start': 2640.0, 'duration': 3.0}
+{'text': '아 비상금 숨겨두고 그래 그런 거 나', 'start': 2646.44, 'duration': 4.72}
+{'text': '이런 좀 좋아', 'start': 2649.68, 'duration': 4.24}
+{'text': '근데 아마 그건 불가능 불가능할 것', 'start': 2651.16, 'duration': 5.32}
+{'text': '같고 그냥 좋다 뿐이지 실제로 하면', 'start': 2653.92, 'duration': 5.52}
+{'text': '좋 같죠 이상한 농님 있네 변태인가', 'start': 2656.48, 'duration': 4.8}
+{'text': '나 그 그런면 좀', 'start': 2659.44, 'duration': 4.119}
+{'text': '귀엽잖아 와이프 한 달 30만 원', 'start': 2661.28, 'duration': 4.039}
+{'text': '이래 버 이혼하지 근데 이제 그런 거', 'start': 2663.559, 'duration': 3.52}
+{'text': '아니고 이제 좀 약간 이렇게 넉넉하게', 'start': 2665.319, 'duration': 3.52}
+{'text': '이렇게 있는데 더 갖고 싶을 때 간', 'start': 2667.079, 'duration': 3.371}
+{'text': '이럴 때 하는 거지 나는', 'start': 2668.839, 'duration': 4.701}
+{'text': '[음악]', 'start': 2670.45, 'duration': 3.09}
+{'text': '어 아 와이프님 감사합니다 예 저는', 'start': 2674.839, 'duration': 6.24}
+{'text': '이제 지금의 나한테 현실 제일', 'start': 2678.96, 'duration': 5.2}
+{'text': '현실적인 거는 어 내가 돈 관리를', 'start': 2681.079, 'duration': 5.601}
+{'text': '하고 와이프가 그럼 좀 서운할 수', 'start': 2684.16, 'duration': 6.36}
+{'text': '있잖아 그러면은 그 나는 와이프의 뭐', 'start': 2686.68, 'duration': 5.36}
+{'text': '친구들 이런 것도 되게 중요하다고', 'start': 2690.52, 'duration': 3.92}
+{'text': '생각하거든 그 이렇게 남과 비교하는게', 'start': 2692.04, 'duration': 5.039}
+{'text': '좋지 않지만 어 나는 내 와이프가', 'start': 2694.44, 'duration': 4.679}
+{'text': '누군가와 자기를 비교했을 때 결코', 'start': 2697.079, 'duration': 5.401}
+{'text': '떨어지지 않았으면 좋겠어 그러면은 그', 'start': 2699.119, 'duration': 7.081}
+{'text': '예를 들어서 예를 들어서 내 와이프가', 'start': 2702.48, 'duration': 6.0}
+{'text': '뭐 친구들이랑 이렇게 얘기를 해 근데', 'start': 2706.2, 'duration': 3.8}
+{'text': '친구들은 다 자기들이 돈 관리를', 'start': 2708.48, 'duration': 3.48}
+{'text': '하는데 내 와이프는 자기 돈 관리를', 'start': 2710.0, 'duration': 3.68}
+{'text': '안 해 우리 집 우리 집 동갈 내가', 'start': 2711.96, 'duration': 3.8}
+{'text': '해 만약에 그럼 조 약간 좀 상할', 'start': 2713.68, 'duration': 5.32}
+{'text': '수도 있잖아 까오가 그러면 나는', 'start': 2715.76, 'duration': 7.079}
+{'text': '그 친구 그니까 내 와이프의 친구들이', 'start': 2719.0, 'duration': 6.0}
+{'text': '그 돈관리하는 수가 있을 거 아니에요', 'start': 2722.839, 'duration': 5.28}
+{'text': '전 그걸 용돈 줘요 무슨 말인지 알아', 'start': 2725.0, 'duration': 5.839}
+{'text': '어 그 난 그런다는 마인드야 그래서', 'start': 2728.119, 'duration': 5.761}
+{'text': '될진 모르겠지만 만약에 만약에 한', 'start': 2730.839, 'duration': 5.681}
+{'text': '달에 뭐 예를 들어서 예를 들어서', 'start': 2733.88, 'duration': 4.64}
+{'text': '예를 들어서 한 달에 300만', 'start': 2736.52, 'duration': 4.839}
+{'text': '원을 돈 관리를 해 그럼 내 와이프의', 'start': 2738.52, 'duration': 4.599}
+{'text': '용돈이 300만 원인 거야 난 약간', 'start': 2741.359, 'duration': 4.681}
+{'text': '이런 마인드 내 패턴 뻔해 어 난', 'start': 2743.119, 'duration': 5.521}
+{'text': '약간 그런 느낌인 거지음 나는 우리', 'start': 2746.04, 'duration': 4.799}
+{'text': '남편한테 용돈 받아 그러면 야 넌', 'start': 2748.64, 'duration': 4.16}
+{'text': '네가 관리 안 해 막 그러면서 야', 'start': 2750.839, 'duration': 3.881}
+{'text': '그럼 어떻게 살아 막 만약에 그래', 'start': 2752.8, 'duration': 3.68}
+{'text': '그러면 아 용돈', 'start': 2754.72, 'duration': 4.48}
+{'text': '나네 너 그거 답답해서 어떻게 용돈', 'start': 2756.48, 'duration': 6.359}
+{'text': '얼마 주는데 와 남편이 이한', 'start': 2759.2, 'duration': 5.6}
+{'text': '달', 'start': 2762.839, 'duration': 5.681}
+{'text': '어 약간 이런 이런 느낌을 원해 나는', 'start': 2764.8, 'duration': 6.04}
+{'text': '아직 아직 그렇게까지 힘든데', 'start': 2768.52, 'duration': 5.409}
+{'text': '[음악]', 'start': 2770.84, 'duration': 3.089}
+{'text': '충족키 170 이상이면 그건 상관없죠', 'start': 2780.319, 'duration': 7.481}
+{'text': '조금', 'start': 2784.8, 'duration': 3.0}
+{'text': '와 오킹 와이프 연봉', 'start': 2788.839, 'duration': 5.441}
+{'text': '3600g 근데 치시한 여잔 진짜', 'start': 2791.68, 'duration': 6.399}
+{'text': '걸러야 돼 그니까 저는 아 그니까', 'start': 2794.28, 'duration': 6.279}
+{'text': '이거예요 메트로시티 가방 메고 다녀야', 'start': 2798.079, 'duration': 5.681}
+{'text': '돼 내가 그걸 샤넬로 바꿔 주는게 내', 'start': 2800.559, 'duration': 6.201}
+{'text': '그거 때문에 메트로시티 뭐 아니면', 'start': 2803.76, 'duration': 5.88}
+{'text': '약간', 'start': 2806.76, 'duration': 7.359}
+{'text': '실내화가방 어 실내화가방 들고', 'start': 2809.64, 'duration': 4.479}
+{'text': '다니고음', 'start': 2814.8, 'duration': 3.68}
+{'text': '약간 그러고 다니는데 약간 그 뭐라', 'start': 2816.64, 'duration': 3.88}
+{'text': '하죠 이거 이거 이거 뭐라 하지 이거', 'start': 2818.48, 'duration': 3.839}
+{'text': '실내 가방 뭐라 하더라 요즘말로', 'start': 2820.52, 'duration': 5.16}
+{'text': '에코백 에코백 에코백 에코백 에코백을', 'start': 2822.319, 'duration': 5.52}
+{'text': '들고 다녀 에코백도 [\xa0__\xa0]', 'start': 2825.68, 'duration': 4.04}
+{'text': '2,000원짜리 자기가 그렸어 막', 'start': 2827.839, 'duration': 4.041}
+{'text': '오리 같은 거 그려가지고 들고 다녀', 'start': 2829.72, 'duration': 4.92}
+{'text': '난 그냥 애 는데요 상이지 그렇게', 'start': 2831.88, 'duration': 5.04}
+{'text': '300씩 저도 안 쓰고 계속', 'start': 2834.64, 'duration': 3.8}
+{'text': '저축하면', 'start': 2836.92, 'duration': 5.199}
+{'text': '만약에 만약에 와이프가 내가 막 예를', 'start': 2838.44, 'duration': 5.52}
+{'text': '들어서 막 300은 좀 오바고 혹시', 'start': 2842.119, 'duration': 3.641}
+{'text': '그 실내화가 방을 샤넬에서 만들었나요', 'start': 2843.96, 'duration': 4.8}
+{'text': '00은 불가능하고 지금 제 수준에서', 'start': 2845.76, 'duration': 9.079}
+{'text': '어 만약에 뭐 한 뭐 뭐 150 뭐', 'start': 2848.76, 'duration': 6.079}
+{'text': '150이라는 스스로가 명품인 여성을', 'start': 2855.2, 'duration': 5.0}
+{'text': '원화가는 거구나 아 그런 느낌보다는', 'start': 2857.52, 'duration': 4.839}
+{'text': '아무튼간에 그니까 사치를 너무 부리는', 'start': 2860.2, 'duration': 4.72}
+{'text': '건 좀 그래 그러니까 막 그니까', 'start': 2862.359, 'duration': 5.081}
+{'text': '이거지 뭐 뭐 예를 들어서 한 달에', 'start': 2864.92, 'duration': 4.12}
+{'text': '200 200만 원 250만 원', 'start': 2867.44, 'duration': 3.639}
+{'text': '버는데 샤넬백 매고 다녀 난 별로야', 'start': 2869.04, 'duration': 5.16}
+{'text': '솔직히 말아', 'start': 2871.079, 'duration': 3.121}
+{'text': '어', 'start': 2874.72, 'duration': 5.44}
+{'text': '형 그 정도면 알 살짝 모자란 거', 'start': 2877.2, 'duration': 6.96}
+{'text': '아님 알트 너어서 살짝 모자란 거', 'start': 2880.16, 'duration': 8.199}
+{'text': '아니냐고요 그죠 저는 메 저는 그거', 'start': 2884.16, 'duration': 8.36}
+{'text': '내 와이프 내 아들 딸 내 와이프', 'start': 2888.359, 'duration': 7.2}
+{'text': '아들딸 까오가 제일 중요해 나는 내', 'start': 2892.52, 'duration': 6.559}
+{'text': '아내가 어디서 나 때문에 면이 죽는다', 'start': 2895.559, 'duration': 4.921}
+{'text': '절대 없어', 'start': 2899.079, 'duration': 4.921}
+{'text': '그거 나 때문에 막나 때문에 까오가', 'start': 2900.48, 'duration': 6.24}
+{'text': '죽는다 절대 없어 만약에 내가 약간', 'start': 2904.0, 'duration': 3.64}
+{'text': '좀', 'start': 2906.72, 'duration': 3.72}
+{'text': '가부장적이고 좀 약간 좀 유난 떨어', 'start': 2907.64, 'duration': 4.64}
+{'text': '와이프가 그걸 또 맞춰줬어 내 그런', 'start': 2910.44, 'duration': 4.0}
+{'text': '성향의 여자를 만나겠죠 그래서 이제', 'start': 2912.28, 'duration': 5.039}
+{'text': '맞춰줬어 근데 와이프 여자친구들을', 'start': 2914.44, 'duration': 5.52}
+{'text': '만나 와이프의 친구들을 만나 나 그냥', 'start': 2917.319, 'duration': 6.321}
+{'text': '머슴이 그냥 예 바로 기사 돼 가지고', 'start': 2919.96, 'duration': 7.879}
+{'text': '[\xa0__\xa0] 리무진 버스 딱 내가 트럭 면허', 'start': 2923.64, 'duration': 6.24}
+{'text': '따가지고 내 와이프 친구들이랑', 'start': 2927.839, 'duration': 4.401}
+{'text': '쿠알라룸프 보내 줘 내가 어 해가지고', 'start': 2929.88, 'duration': 3.959}
+{'text': '딱 인천구 내려가지고 내리십시오', 'start': 2932.24, 'duration': 3.72}
+{'text': '사모님들 해가지고 다 그런느낌 나', 'start': 2933.839, 'duration': 3.561}
+{'text': '약간 무슨 느낌인지', 'start': 2935.96, 'duration': 3.92}
+{'text': '알죠 마이바 바로 빌려 버려 그', 'start': 2937.4, 'duration': 5.32}
+{'text': '하루에 막 발 100만 원 내고', 'start': 2939.88, 'duration': 6.0}
+{'text': '해외여행할 때 여친구 와이프가', 'start': 2942.72, 'duration': 5.44}
+{'text': '친구들끼리 놀러갔는데데 와이프를', 'start': 2945.88, 'duration': 4.52}
+{'text': '거기에 여왕으로 만들어 나는 그', 'start': 2948.16, 'duration': 4.8}
+{'text': '친구들 사이에 실제로 영왕이 그전까진', 'start': 2950.4, 'duration': 7.28}
+{'text': '여왕이 아니었어도 오빠 트럭 어디 안', 'start': 2952.96, 'duration': 7.72}
+{'text': '가네 와이프가 친구들이랑 브라더', 'start': 2957.68, 'duration': 5.08}
+{'text': '샤워한 근데 나한테 돈달라 소리하면', 'start': 2960.68, 'duration': 5.2}
+{'text': '헤어져 근데 그게 아니야 근데 대가', 'start': 2962.76, 'duration': 5.12}
+{'text': '소소하게 해가지고 하기로 했어서', 'start': 2965.88, 'duration': 4.12}
+{'text': '어디서 해어 아 나 어제 야놀자에서', 'start': 2967.88, 'duration': 4.959}
+{'text': '12만 원 죽을 거야 빌렸어러 [\xa0__\xa0]', 'start': 2970.0, 'duration': 6.2}
+{'text': '내 그 내가 핸드폰 와이프 핸드폰', 'start': 2972.839, 'duration': 5.361}
+{'text': '뺏어 버려 [\xa0__\xa0] 뺏은 다음에 야자', 'start': 2976.2, 'duration': 3.72}
+{'text': '어플 지워 그다음에 실라 호텔 예약', 'start': 2978.2, 'duration': 3.919}
+{'text': '그널 사워 아니야 어 그럼 와이프', 'start': 2979.92, 'duration': 4.6}
+{'text': '뒷목잡고 실라 호텔가 던져 놀아 갔다', 'start': 2982.119, 'duration': 5.561}
+{'text': '와 2박 3일', 'start': 2984.52, 'duration': 3.16}
+{'text': '응 약간 이런', 'start': 2988.68, 'duration': 5.84}
+{'text': '[박수]', 'start': 2991.62, 'duration': 5.62}
+{'text': '마인드', 'start': 2994.52, 'duration': 4.4}
+{'text': '반대로 월급 500인데 명품 하나', 'start': 2997.24, 'duration': 4.28}
+{'text': '없고 7,000원', 'start': 2998.92, 'duration': 2.6}
+{'text': '가방이면음 약간 그런 느낌', 'start': 3001.76, 'duration': 7.359}
+{'text': '응 룸 서비스 친구들끼리 넉넉하게', 'start': 3005.319, 'duration': 6.441}
+{'text': '먹으라고 그냥 몇 백만 원 미리 긁고', 'start': 3009.119, 'duration': 5.24}
+{'text': '놔 [\xa0__\xa0]', 'start': 3011.76, 'duration': 5.52}
+{'text': '어 한네 명 보통 그 브라더 샤워 몇', 'start': 3014.359, 'duration': 5.601}
+{'text': '명 있어요 한 샤워 뭐 그 물이', 'start': 3017.28, 'duration': 5.2}
+{'text': '그렇게 많지 않은 샤워 욕조가 이렇게', 'start': 3019.96, 'duration': 4.839}
+{'text': '크지 않을 거 네다네 다섯 명 사나', 'start': 3022.48, 'duration': 4.96}
+{'text': '응', 'start': 3024.799, 'duration': 2.641}
+{'text': '다섯 여섯 명 정도 그러 다섯 여섯', 'start': 3031.0, 'duration': 5.72}
+{'text': '명이서 아무리 먹어도 남을 정도의 룸', 'start': 3033.72, 'duration': 5.119}
+{'text': '서비스 비용을 미리 긁어 놔 어', 'start': 3036.72, 'duration': 5.2}
+{'text': '그다음에 뭐야 막 이제 밤에 뭐 뭐', 'start': 3038.839, 'duration': 4.72}
+{'text': '이제 밤 되기 전에 자기야 뭐 해', 'start': 3041.92, 'duration': 3.159}
+{'text': '내가 카톡 하겠지 아 나 이제', 'start': 3043.559, 'duration': 2.8}
+{'text': '친구들이랑 밥 먹으려고 그래 뭐', 'start': 3045.079, 'duration': 3.72}
+{'text': '먹으려고 아 지금 옆 엽기떡 시키려고', 'start': 3046.359, 'duration': 5.44}
+{'text': '해 그러 봐요 한 다음에 바로', 'start': 3048.799, 'duration': 5.04}
+{'text': '룸서비스 바로 내가 호텔에 전화해', 'start': 3051.799, 'duration': 3.721}
+{'text': '1401호 스위트룸에 지금 지금', 'start': 3053.839, 'duration': 3.121}
+{'text': '룸서비스 80만 원치 넣어 주세요', 'start': 3055.52, 'duration': 4.079}
+{'text': '해가지고 새우랑 막 관자랑 막 해서', 'start': 3056.96, 'duration': 7.0}
+{'text': '갖고 와 그거 먹어 어', 'start': 3059.599, 'duration': 4.361}
+{'text': '바로음 그리고 다음 달에 영 먹 영', 'start': 3065.52, 'duration': 3.92}
+{'text': '먹고', 'start': 3068.599, 'duration': 4.561}
+{'text': '싶은데 그럼 그건 시켜먹 그걸 수', 'start': 3069.44, 'duration': 5.56}
+{'text': '시켜먹고', 'start': 3073.16, 'duration': 6.05}
+{'text': '어 아 엽 좋아해 아 그 아', 'start': 3075.0, 'duration': 7.92}
+{'text': '[웃음]', 'start': 3079.21, 'duration': 7.109}
+{'text': '그러면 무서워서 뭔 말을 못하 프가', 'start': 3082.92, 'duration': 8.919}
+{'text': '아 그니까 그 정도로 챙겨준다는 거지', 'start': 3086.319, 'duration': 5.52}
+{'text': '어 아 역개 모자랑 중국당면', 'start': 3092.96, 'duration': 6.04}
+{'text': '먹어야된다고 꺼지라고 좀', 'start': 3095.76, 'duration': 7.68}
+{'text': '중국당 그걸 내가 좀 그 부족했네요', 'start': 3099.0, 'duration': 7.16}
+{'text': '저 새끼 또', 'start': 3103.44, 'duration': 2.72}
+{'text': '유난이야 와이프 자 나한테 와 오빠', 'start': 3109.28, 'duration': 5.079}
+{'text': '와 왜', 'start': 3112.44, 'duration': 5.56}
+{'text': '그니까 주에 뭐 자기 그 저기 뭐야', 'start': 3114.359, 'duration': 5.881}
+{'text': '그 여자 뭐 친구 있는데 사이 안', 'start': 3118.0, 'duration': 4.68}
+{'text': '좋았던 앤데 걔 뭐 저기 해가지고', 'start': 3120.24, 'duration': 4.68}
+{'text': '결혼식 뭐 아니면은 뭐 걔랑 마주칠', 'start': 3122.68, 'duration': 3.52}
+{'text': '일 있어 다른 애 결혼식에 이렇게', 'start': 3124.92, 'duration': 3.159}
+{'text': '둘이 가해서 아 걔랑 마주치기 싫은데', 'start': 3126.2, 'duration': 4.08}
+{'text': '결혼식은 가야겠고 막 그래 그러면 왜', 'start': 3128.079, 'duration': 3.961}
+{'text': '왜 사이가 안 좋은데 그러니까 아 막', 'start': 3130.28, 'duration': 3.6}
+{'text': '대학교 때 막 고등학교 때 나 되게', 'start': 3132.04, 'duration': 4.96}
+{'text': '좀 괴롭히고 어 막 약간 그랬던 애야', 'start': 3133.88, 'duration': 5.84}
+{'text': '막 이러면서 막 그래 어 아 막', 'start': 3137.0, 'duration': 4.599}
+{'text': '그러면 약간 어 그래가지고 나 좀', 'start': 3139.72, 'duration': 3.599}
+{'text': '힘들고 막 나 되게 막 그때 대학교', 'start': 3141.599, 'duration': 3.24}
+{'text': '때 힘들었을 때 막 걔가 막 이렇게', 'start': 3143.319, 'duration': 5.0}
+{'text': '놀리고 막 그랬어 그러면은 어 [\xa0__\xa0]', 'start': 3144.839, 'duration': 8.24}
+{'text': '바로 어 바로 뒷목 잡고 백화저 1층', 'start': 3148.319, 'duration': 8.201}
+{'text': '데려가음 1층에', 'start': 3153.079, 'duration': 3.441}
+{'text': '[웃음]', 'start': 3160.84, 'duration': 9.84}
+{'text': '던져 무조건 개 네배로 걸쳐', 'start': 3166.4, 'duration': 7.28}
+{'text': '지금부터', 'start': 3170.68, 'duration': 3.0}
+{'text': '자친 직업이네 맨날 던지고 진짜 잘', 'start': 3174.24, 'duration': 6.92}
+{'text': '논다 약간 그런', 'start': 3178.16, 'duration': 6.679}
+{'text': '느낌이지음 팀복 스발 안 나아', 'start': 3181.16, 'duration': 8.04}
+{'text': '나겠네 그 빨진 오지네', 'start': 3184.839, 'duration': 7.72}
+{'text': '크 에르 근데 그 친구가 에르메스', 'start': 3189.2, 'duration': 6.52}
+{'text': '버킷 팩 들고 있어 [\xa0__\xa0] 바로 뒷목', 'start': 3192.559, 'duration': 6.04}
+{'text': '력으로 신고 먹겠다 그다음 차 매장가', 'start': 3195.72, 'duration': 5.879}
+{'text': '[\xa0__\xa0] 양재로 꺾어 버려 양재로 꺾어', 'start': 3198.599, 'duration': 5.52}
+{'text': '버킷백 이길 수 있는 거 차밖에 없어', 'start': 3201.599, 'duration': 5.561}
+{'text': '상상이 김내 재', 'start': 3204.119, 'duration': 3.041}
+{'text': '양제 오토', 'start': 3207.559, 'duration': 2.641}
+{'text': '갤러리가 어머님 혹시 아들 환불', 'start': 3216.4, 'duration': 5.76}
+{'text': '될까요 딱 가가지고 이제 딜러한테', 'start': 3224.0, 'duration': 5.48}
+{'text': '여자한테 제일 인기많은 자동차 뭐예요', 'start': 3226.319, 'duration': 6.04}
+{'text': '물어보면 아이 차랑이 차랑 한요 차', 'start': 3229.48, 'duration': 4.92}
+{'text': '정도요 세 개 중에 세 개를 제일', 'start': 3232.359, 'duration': 5.2}
+{'text': '좋아합니다 가주세요 [\xa0__\xa0] 오빠 차들', 'start': 3234.4, 'duration': 8.28}
+{'text': '하나밖에 못 타 엮어 씨 견인해서가', 'start': 3237.559, 'duration': 5.121}
+{'text': '씨음 키키키키키키키키키 와이프', 'start': 3245.0, 'duration': 5.359}
+{'text': '목디스크 올때 키세요 감사니다', 'start': 3247.72, 'duration': 6.48}
+{'text': '예 기차처럼 가면돼', 'start': 3250.359, 'duration': 9.601}
+{'text': '씨 화산 하겠네 카라반 카라반', 'start': 3254.2, 'duration': 10.24}
+{'text': '럼음 와이프 레인지로버 차 뒤에다가', 'start': 3259.96, 'duration': 7.599}
+{'text': '오빠 그 친구보다 오빠가 더 무서워', 'start': 3264.44, 'duration': 6.72}
+{'text': '지바겐 와이프 지바겐 차 뒤에다가', 'start': 3267.559, 'duration': 5.481}
+{'text': '저기 뭐야 페라리 로마 였고 그', 'start': 3271.16, 'duration': 4.199}
+{'text': '뒤에다 견인 다 해버려 어 쫙 엮어', 'start': 3273.04, 'duration': 4.12}
+{'text': '가지고여여 친구 이제 그 운전해서가', 'start': 3275.359, 'duration': 5.361}
+{'text': '그럼 버킷백 이겨 그러면', 'start': 3277.16, 'duration': 3.56}
+{'text': '응', 'start': 3283.52, 'duration': 3.0}
+{'text': '아 피가로가 앞장 서야지 키키 그', 'start': 3288.079, 'duration': 6.401}
+{'text': '정도로 와이프의 가오를 살려준다 약간', 'start': 3291.16, 'duration': 5.679}
+{'text': '그런 마인드야 야', 'start': 3294.48, 'duration': 4.8}
+{'text': '어 근까 와이프가 되는 사람은 저', 'start': 3296.839, 'duration': 5.401}
+{'text': '샤우팅을 맨날 들어야', 'start': 3299.28, 'duration': 2.96}
+{'text': '해 환상의 나라에 오신 것을', 'start': 3305.799, 'duration': 6.04}
+{'text': '환영합니다 사파리 투어', 'start': 3308.72, 'duration': 7.119}
+{'text': '출발 청력 떨어질', 'start': 3311.839, 'duration': 4.0}
+{'text': '듯음 걱정말라 아직 안 태어났다', 'start': 3318.04, 'duration': 4.84}
+{'text': '김치복 사발 그린게 그런 그런 이런', 'start': 3320.28, 'duration': 6.72}
+{'text': '뉘앙스라 거죠 예', 'start': 3322.88, 'duration': 4.12}
+{'text': '근데 그걸 바라면 안 돼 되게 중요해', 'start': 3327.799, 'duration': 5.24}
+{'text': '이거 남자들 인정 그러니까', 'start': 3330.079, 'duration': 6.48}
+{'text': '이게 만약에 자기 친구가 유럽 여행을', 'start': 3333.039, 'duration': 5.881}
+{'text': '한 달 동안 갔다 왔대 어 만약에', 'start': 3336.559, 'duration': 3.721}
+{'text': '유럽 여행을 한 달 동안 갔다 그럼', 'start': 3338.92, 'duration': 2.84}
+{'text': '나는 내 마음으로는 [\xa0__\xa0] 여자친구', 'start': 3340.28, 'duration': 3.2}
+{'text': '한비야 만들어 버려 지구 밖으로 행군', 'start': 3341.76, 'duration': 4.76}
+{'text': '시켜 나는 근데 마음으로는 그런데', 'start': 3343.48, 'duration': 5.4}
+{'text': '그걸 의도 내가 그럴 걸 알고', 'start': 3346.52, 'duration': 5.0}
+{'text': '의도하고 오빠 내 친구는 유럽여행 한', 'start': 3348.88, 'duration': 4.76}
+{'text': '달 동안 갔다 왔다이이 이러 존나', 'start': 3351.52, 'duration': 5.48}
+{'text': '별로야 어', 'start': 3353.64, 'duration': 3.36}
+{'text': '그럼 심나', 'start': 3360.599, 'duration': 2.72}
+{'text': '가리지 내가 스스로 알아야 돼 뭔지', 'start': 3365.359, 'duration': 7.121}
+{'text': '알죠 그러면 바로 모두해 와이프가 내', 'start': 3368.88, 'duration': 5.8}
+{'text': '와이프가 내 와이프의이 친구를 약간', 'start': 3372.48, 'duration': 4.079}
+{'text': '띠꺼워 하는 걸 알아 내가 그', 'start': 3374.68, 'duration': 4.6}
+{'text': '와이프도 내가 나는 내 여자친 난 늘', 'start': 3376.559, 'duration': 5.361}
+{'text': '그래 오는데 여자친구의 친구들한테', 'start': 3379.28, 'duration': 5.64}
+{'text': '잘해 어 내 여자친구랑 싸워 내가 기', 'start': 3381.92, 'duration': 5.8}
+{'text': '하지만 난 진짜로 존나 잘해 그럼 내', 'start': 3384.92, 'duration': 5.32}
+{'text': '여자친구가 나랑 싸워 그럼 보통', 'start': 3387.72, 'duration': 5.52}
+{'text': '여자애들은 여자 친구들은 보통 싸우면', 'start': 3390.24, 'duration': 5.319}
+{'text': '자기 친구들한테 이렇게 쫙 얘기해', 'start': 3393.24, 'duration': 4.96}
+{'text': '구체적으로는 얘기 안 하겠지만 어', 'start': 3395.559, 'duration': 4.721}
+{'text': '나도 마찬가지지 나도 막 여자친구랑', 'start': 3398.2, 'duration': 4.04}
+{'text': '존나 싸워 자세인 얘기 안 하지마', 'start': 3400.28, 'duration': 3.759}
+{'text': '여진이랑 권이 불러가지고 술 마시면서', 'start': 3402.24, 'duration': 4.28}
+{'text': '아 [\xa0__\xa0] 또 남사친이랑 놀러갔다 [\xa0__\xa0]', 'start': 3404.039, 'duration': 4.361}
+{'text': '이러면서 말 한단 말이야', 'start': 3406.52, 'duration': 4.64}
+{'text': '어데 여자들이 내가 내가 생각해서', 'start': 3408.4, 'duration': 5.08}
+{'text': '개인적으로 생각해서 여자분들이 좀 더', 'start': 3411.16, 'duration': 4.12}
+{'text': '그 친구에 대한 의존도가 조금 더', 'start': 3413.48, 'duration': 5.28}
+{'text': '높아 어 그 여자 친구들도 마찬가지로', 'start': 3415.28, 'duration': 5.44}
+{'text': '친구들이 오히려 역으로 더 욕하면', 'start': 3418.76, 'duration': 3.76}
+{'text': '[\xa0__\xa0] 우리 오빠한테 왜 그래 이렇게', 'start': 3420.72, 'duration': 4.24}
+{'text': '하겠지만 그 의존도가 조금 더 높고', 'start': 3422.52, 'duration': 4.12}
+{'text': '친구들과의 그게 유대가 훨씬 더', 'start': 3424.96, 'duration': 3.72}
+{'text': '끈끈해 여자들이 내가 생각했을 때는', 'start': 3426.64, 'duration': 5.32}
+{'text': '그런 남자 친구의 그 어떤 뒷담하는', 'start': 3428.68, 'duration': 5.56}
+{'text': '아니고 약간 그런 연애 관계에서의 그', 'start': 3431.96, 'duration': 4.32}
+{'text': '트러블이 발생했을 때 조율에서', 'start': 3434.24, 'duration': 3.44}
+{'text': '친구들이 매우 큰 역할을 한다', 'start': 3436.28, 'duration': 3.759}
+{'text': '여자들은 난 내가 생각했을 그래 그다', 'start': 3437.68, 'duration': 3.879}
+{'text': '그래서 여자친구 사기면 여자친구', 'start': 3440.039, 'duration': 3.841}
+{'text': '친구들한테 존나 잘해 물심양면 그래서', 'start': 3441.559, 'duration': 5.401}
+{'text': '[\xa0__\xa0] 여행 갈 때 프러 갈 때도 어', 'start': 3443.88, 'duration': 5.0}
+{'text': '마이바흐 빌려가지고 데려다주고 막', 'start': 3446.96, 'duration': 4.52}
+{'text': '그렇게 하고 싶어 약간음 와이프가', 'start': 3448.88, 'duration': 4.6}
+{'text': '씹덕의 친구 없으면 그러면 만약에', 'start': 3451.48, 'duration': 4.24}
+{'text': '존나 싸워 나랑 싸웠어 그럼 여자', 'start': 3453.48, 'duration': 4.599}
+{'text': '친구가 친구들한테 얘기하겠지 야', 'start': 3455.72, 'duration': 4.16}
+{'text': '이렇게 해가지고 우빠 싸웠어 또 뭐', 'start': 3458.079, 'duration': 3.841}
+{'text': '아니 남사친 뭐 누구랑 논다고 막', 'start': 3459.88, 'duration': 4.239}
+{'text': '그래 막 그러면 이제 여자 친구의', 'start': 3461.92, 'duration': 3.72}
+{'text': '친구들이 나를 좋게 봤을 거 아니야', 'start': 3464.119, 'duration': 4.121}
+{'text': '내가 엄청 잘해 줬으니까 그러면 단은', 'start': 3465.64, 'duration': 4.36}
+{'text': '아니더라도 거기 일부는 내 편은 안', 'start': 3468.24, 'duration': 4.799}
+{'text': '들어 절대 내 편은 안 들지만 어', 'start': 3470.0, 'duration': 5.48}
+{'text': '약간 아 빠 되게 좋아 보이던데 왜', 'start': 3473.039, 'duration': 5.481}
+{'text': '그랬을까 까진 해 줘 뭔지 알지 내', 'start': 3475.48, 'duration': 5.92}
+{'text': '편은 안 들지 내 편은 안 들지만 어', 'start': 3478.52, 'duration': 6.039}
+{'text': '아 고빠 뭔가 좀 오해가 있었나 보지', 'start': 3481.4, 'duration': 5.56}
+{'text': '라거나 아니면은', 'start': 3484.559, 'duration': 4.841}
+{'text': '뭐음 아 뭐 딴게 뭐 그런게', 'start': 3486.96, 'duration': 5.119}
+{'text': '있었나까지 해 줘 어 뭐야 그 새끼야', 'start': 3489.4, 'duration': 4.24}
+{'text': '어쩐지 내가 이상하다 그랬잖아 그', 'start': 3492.079, 'duration': 3.641}
+{'text': '새끼 코도 존나 말랑거리고 헤어줘', 'start': 3493.64, 'duration': 4.199}
+{'text': '이런 것까지 안 해버려 그런 것까지', 'start': 3495.72, 'duration': 5.44}
+{'text': '안 해 주는 것만으로도 충분해', 'start': 3497.839, 'duration': 3.321}
+{'text': '어', 'start': 3503.72, 'duration': 4.52}
+{'text': '미리 노비에서 외교적으로 최소한 적은', 'start': 3505.92, 'duration': 3.24}
+{'text': '안', 'start': 3508.24, 'duration': 3.48}
+{'text': '만든다 그게 바로 책이에요 아 라이님', 'start': 3509.16, 'duration': 5.159}
+{'text': '감사합니다', 'start': 3511.72, 'duration': 2.599}
+{'text': '예 약간 그런 마인드', 'start': 3516.359, 'duration': 6.321}
+{'text': '어 그러면 이제 내가가 미안한데 나', 'start': 3519.44, 'duration': 5.399}
+{'text': '메가 커피 먹게 했어 아 가서 먹어', 'start': 3522.68, 'duration': 4.08}
+{'text': '그럼 내가 이제 그 주변 이제', 'start': 3524.839, 'duration': 4.441}
+{'text': '친구들이랑 그 이제 여자친구의', 'start': 3526.76, 'duration': 4.319}
+{'text': '친구들이 어느 정도 친해지고 인스타', 'start': 3529.28, 'duration': 3.48}
+{'text': '팔로우도 좀 어느 정도 했어 근데', 'start': 3531.079, 'duration': 2.641}
+{'text': '이제', 'start': 3532.76, 'duration': 3.0}
+{'text': '여자친구가 들 중에서 좀 띠꺼워', 'start': 3533.72, 'duration': 4.16}
+{'text': '하거나 약간 조금 뭐 질투를 하거나', 'start': 3535.76, 'duration': 4.839}
+{'text': '이런 경우가 있을 수도 있잖아 어', 'start': 3537.88, 'duration': 4.36}
+{'text': '그래가지고 이제 그러면은 이제 여애', 'start': 3540.599, 'duration': 3.44}
+{'text': '친구가 와가지고 아 그 친구가 만약', 'start': 3542.24, 'duration': 3.52}
+{'text': '유럽 예행 갔다 왔어 너무 부러워 돼', 'start': 3544.039, 'duration': 4.32}
+{'text': '여자친구가 그럼 오빠 나가 너무', 'start': 3545.76, 'duration': 5.2}
+{'text': '부러워 이러면 안 돼 그 헤어져 근데', 'start': 3548.359, 'duration': 4.96}
+{'text': '내가 딱 봤는데 유럽미 갔는데 내', 'start': 3550.96, 'duration': 4.96}
+{'text': '친가 이거는 좀 부러워할 거 같아', 'start': 3553.319, 'duration': 4.881}
+{'text': '라거나 약간 질투를 할 거 같아 그럼', 'start': 3555.92, 'duration': 4.639}
+{'text': '바로 뒷목 진짜로 나는 바로', 'start': 3558.2, 'duration': 5.44}
+{'text': '하나투어로 끌고가', 'start': 3560.559, 'duration': 6.081}
+{'text': '골라', 'start': 3563.64, 'duration': 3.0}
+{'text': '인스타 하나는 여친이면 아니 저 지금', 'start': 3574.559, 'duration': 5.961}
+{'text': '죄송한데 친구들 얘기했어요', 'start': 3577.2, 'duration': 3.32}
+{'text': '예 일단 여친이랑 병원부터', 'start': 3589.28, 'duration': 4.2}
+{'text': '가야겠는데 병원 데고', 'start': 3593.64, 'duration': 3.719}
+{'text': '가라 뭐 아무튼 약간 그런 느낌이죠', 'start': 3604.28, 'duration': 8.319}
+{'text': '아 힘들다 한라도', 'start': 3607.4, 'duration': 5.199}
+{'text': '네비다', 'start': 3613.2, 'duration': 3.0}
+{'text': '어 팔이 있는데 왜 뒷목을 잡냐', 'start': 3617.079, 'duration': 6.361}
+{'text': '그걸로는 나의이 보내주고 싶은 의지를', 'start': 3620.96, 'duration': 5.599}
+{'text': '표현할 수 없어 응', 'start': 3623.44, 'duration': 3.119}
+{'text': '그리고 뒷목이 그립감이', 'start': 3637.559, 'duration': 3.76}
+{'text': '[웃음]', 'start': 3639.43, 'duration': 4.889}
+{'text': '좋아요 이게 어 딱', 'start': 3641.319, 'duration': 5.121}
+{'text': '이렇게 이렇게 마사지도 해주면서', 'start': 3644.319, 'duration': 5.881}
+{'text': '이렇게 끌고 가는 거지', 'start': 3646.44, 'duration': 6.399}
+{'text': '어 피가 혈류가 잘', 'start': 3650.2, 'duration': 6.2}
+{'text': '돌아 미래 킹 와이프 분들은 뒷목', 'start': 3652.839, 'duration': 6.401}
+{'text': '근육만 들고', 'start': 3656.4, 'duration': 2.84}
+{'text': '오세요 약간 그런', 'start': 3659.92, 'duration': 5.24}
+{'text': '마인드음', 'start': 3662.16, 'duration': 3.0}
+{'text': '[음악]', 'start': 3668.34, 'duration': 3.019}
+{'text': '잘못됐나요 하지만 나한텐 목을', 'start': 3669.48, 'duration': 5.16}
+{'text': '잡아주는 여친은 오히려 좋아', 'start': 3671.359, 'duration': 5.76}
+{'text': '아 오늘 대학 축제에 프로미스 나인', 'start': 3674.64, 'duration': 5.199}
+{'text': '와서 보고 오늘 아지 앞에서서 착수', 'start': 3677.119, 'duration': 5.361}
+{'text': '하이 잘못된 건 아닌데 뒷목이 너무', 'start': 3679.839, 'duration': 5.48}
+{'text': '아플 것 같아요 오케이', 'start': 3682.48, 'duration': 7.319}
+{'text': '세 번 중에 한 번은 팔 잡겠어음', 'start': 3685.319, 'duration': 4.48}
+{'text': '따라와 말투는 꼭 그렇게 해야 돼', 'start': 3702.2, 'duration': 4.919}
+{'text': '응 난 뒷목이 낫겠다 더 아플 듯', 'start': 3711.279, 'duration': 6.641}
+{'text': '오케이 백화점에서', 'start': 3719.72, 'duration': 3.879}
+{'text': '고성방가 오빠 오늘 이비누과 다녀올게', 'start': 3724.96, 'duration': 6.96}
+{'text': '귀에서', 'start': 3729.839, 'duration': 4.24}
+{'text': '[웃음]', 'start': 3731.92, 'duration': 4.679}
+{'text': '피나 운동하고 이제 들어왔다고 늦어서', 'start': 3734.079, 'duration': 4.921}
+{'text': '뭐 아 김가', 'start': 3736.599, 'duration': 4.72}
+{'text': '감사합니다 여자 친구가 뒷목을', 'start': 3739.0, 'duration': 4.359}
+{'text': '잡아주면', 'start': 3741.319, 'duration': 5.561}
+{'text': '감미이 어 해봐 와이프분 파리 나가든', 'start': 3743.359, 'duration': 8.24}
+{'text': '기가 나가든 뭐든 나갈 것 같아 바로', 'start': 3746.88, 'duration': 4.719}
+{'text': '해버려 여자친구 목디스크에 팔빠짐', 'start': 3752.039, 'duration': 6.401}
+{'text': '추가가 키키 키읔 아 별사 감사합니다', 'start': 3754.559, 'duration': 3.881}
+{'text': '예 뒷목 잡으면 뽀뽀 쪽 해야지', 'start': 3767.079, 'duration': 6.28}
+{'text': '여자친구가 뒷목', 'start': 3771.359, 'duration': 5.0}
+{'text': '잡으면음', 'start': 3773.359, 'duration': 3.0}
+{'text': '저는 여시가 만약에 뒷목을 딱 잡는다', 'start': 3782.279, 'duration': 5.881}
+{'text': '그러면 어 어쭈구리 한 다음에 어 딱', 'start': 3784.359, 'duration': 5.641}
+{'text': '뒷목을 만약에 에잇 하면서 잡아 내가', 'start': 3788.16, 'duration': 4.36}
+{'text': '못했지요 정도 있겠지에 하면 잡으면', 'start': 3790.0, 'duration': 5.4}
+{'text': '어쭈구리 하고서 바로 그 뒷목 잡은', 'start': 3792.52, 'duration': 6.039}
+{'text': '거 그대로 들어가지고 그 책가방 앞에', 'start': 3795.4, 'duration': 7.6}
+{'text': '매는 거 있죠 그런 것처럼 개 그러고', 'start': 3798.559, 'duration': 4.441}
+{'text': '다녀', 'start': 3803.279, 'duration': 3.0}
+{'text': '오킹 와이프 조건 승모근 이빠이', 'start': 3813.76, 'duration': 7.279}
+{'text': '키우고 보청기 필수 제 여친구 조건은', 'start': 3816.92, 'duration': 6.6}
+{'text': '이제 전생의 나무늘보 뭐 약간 요런', 'start': 3821.039, 'duration': 4.921}
+{'text': '거', 'start': 3823.52, 'duration': 2.44}
+{'text': '응 코알라 와이프가 그거 당하기 전에', 'start': 3827.96, 'duration': 5.319}
+{'text': '바로 초크 갈', 'start': 3831.599, 'duration': 4.68}
+{'text': '거야', 'start': 3833.279, 'duration': 3.0}
+{'text': '막 나무 파먹고 아니 아니요 나무', 'start': 3840.0, 'duration': 4.2}
+{'text': '안에 있는 막 벌레 같은 거 먹으면', 'start': 3842.44, 'duration': 4.52}
+{'text': '개사 고데 싫어요 예 벌레 벌레', 'start': 3844.2, 'duration': 5.159}
+{'text': '싫어하기', 'start': 3846.96, 'duration': 2.399}
+{'text': '때문에 유칼립투스 입 먹고 막 그럼', 'start': 3857.52, 'duration': 6.039}
+{'text': '난 안 돼 뽀뽀를 못 해버려 유칼리스', 'start': 3860.68, 'duration': 5.599}
+{'text': '이벤 는 독이 들어 있거든요 여자친구', 'start': 3863.559, 'duration': 5.161}
+{'text': '그거 나무늘 보러 뭐 코알라 그래서', 'start': 3866.279, 'duration': 4.32}
+{'text': '그거 먹고 나랑 뽑아 나 죽어버려 어', 'start': 3868.72, 'duration': 4.52}
+{'text': '독성이 있어', 'start': 3870.599, 'duration': 2.641}
+{'text': '버려 그거 먹어서 코알라를 14시간씩', 'start': 3876.68, 'duration': 6.52}
+{'text': '잔다고 아빠 내 친구 이번 여름방', 'start': 3880.119, 'duration': 7.16}
+{'text': '학대 노르웨이 다녀왔대 나도 가고', 'start': 3883.2, 'duration': 6.159}
+{'text': '싶어', 'start': 3887.279, 'duration': 4.441}
+{'text': '누구 나 힘좀 세다고 남친이랑', 'start': 3889.359, 'duration': 5.641}
+{'text': '씨름하다가 가지 나가 어', 'start': 3891.72, 'duration': 5.8}
+{'text': '아 아들이 아들이 나한테 친구가', 'start': 3895.0, 'duration': 4.24}
+{'text': '여름방 때 노로 갔다 나도 가고 싶고', 'start': 3897.52, 'duration': 3.64}
+{'text': '그래 아다 펀치머신 980점 나오면', 'start': 3899.24, 'duration': 3.24}
+{'text': '비목 잡기', 'start': 3901.16, 'duration': 4.6}
+{'text': '가능 그럼 빠다 존나 쳐야지 어이', 'start': 3902.48, 'duration': 7.119}
+{'text': '쌍놈 새끼 나 잘못 키웠다 엎드려', 'start': 3905.76, 'duration': 3.839}
+{'text': '어 딸이면이 쌍놈 새끼 내가 잘못', 'start': 3913.2, 'duration': 5.56}
+{'text': '키웠다', 'start': 3916.44, 'duration': 2.32}
+{'text': '엎드려지 오빠랑 똑같은 소리 하네', 'start': 3921.72, 'duration': 6.48}
+{'text': '이로 와 엎드려 [\xa0__\xa0] 오늘의 장볼 거', 'start': 3923.76, 'duration': 6.2}
+{'text': '대파 도끼 마이이 홍순이 병원놀이', 'start': 3928.2, 'duration': 5.2}
+{'text': '세트 응 아 가이 놀리', 'start': 3929.96, 'duration': 3.44}
+{'text': '감사합니다', 'start': 3936.96, 'duration': 5.839}
+{'text': '아빠 난 한국이 좋아졌어 그래', 'start': 3938.68, 'duration': 8.08}
+{'text': '학교가 잘 갔다', 'start': 3942.799, 'duration': 3.961}
+{'text': '와라음', 'start': 3953.079, 'duration': 3.0}
+{'text': '다정하게 해 줘 잘 갔다', 'start': 3959.599, 'duration': 3.76}
+{'text': '와라 아들 딸이 선생님한테 개기면', 'start': 3975.799, 'duration': 6.56}
+{'text': '뒤져 진짜 난 집에서 안 패 학교에서', 'start': 3979.24, 'duration': 6.76}
+{'text': '패 그러면', 'start': 3982.359, 'duration': 3.641}
+{'text': '아빠 나 학교에서 친구랑 싸웠는데', 'start': 3987.52, 'duration': 3.519}
+{'text': '맞고', 'start': 3990.119, 'duration': 4.561}
+{'text': '왔어음 아 싸울 수도 있지 친구들끼리', 'start': 3991.039, 'duration': 6.201}
+{'text': '다음에 꼭', 'start': 3994.68, 'duration': 2.56}
+{'text': '이겨라음', 'start': 4013.0, 'duration': 6.559}
+{'text': '지고 왔으면 옆 들려 엎드려', 'start': 4015.96, 'duration': 7.119}
+{'text': '팍팍 오늘부터', 'start': 4019.559, 'duration': 3.52}
+{'text': '[웃음]', 'start': 4026.42, 'duration': 6.26}
+{'text': '특훈이다 아빠 친구가 아빠한테', 'start': 4030.359, 'duration': 4.96}
+{'text': '돼지라고 했는데 수긍 했어', 'start': 4032.68, 'duration': 5.879}
+{'text': '엎드려 친구도 데려와 어 너가 우리', 'start': 4035.319, 'duration': 6.76}
+{'text': '아들 친구구나 엎드려이', 'start': 4038.559, 'duration': 3.52}
+{'text': '새끼야', 'start': 4042.92, 'duration': 4.76}
+{'text': '아니 남의 아들한테 왜 그래요 아', 'start': 4045.68, 'duration': 5.879}
+{'text': '아버님이요 엎드려 씨 이발', 'start': 4047.68, 'duration': 3.879}
+{'text': '놈아 얜 그래도 돼 넌 안 돼 이일로', 'start': 4055.559, 'duration': 5.081}
+{'text': '와 아빠 나 방금 다이아 찍었는데', 'start': 4067.24, 'duration': 3.839}
+{'text': '아빠 언제', 'start': 4069.64, 'duration': 3.679}
+{'text': '올라와 딸 아빠 나 돈대 끼고 왔어', 'start': 4071.079, 'duration': 5.24}
+{'text': '구님 그건 불가능해 내 아들이 내', 'start': 4073.319, 'duration': 5.081}
+{'text': '아들은 다이아가 될 수 없어 종자가', 'start': 4076.319, 'duration': 4.561}
+{'text': '플레거든 사가 안해요 형아 아 문발', 'start': 4078.4, 'duration': 5.12}
+{'text': '님 14개월', 'start': 4080.88, 'duration': 2.64}
+{'text': '감사합니다 친구 아빠', 'start': 4088.359, 'duration': 3.68}
+{'text': '사인좀 아빠 나 천만 유튜버인데 아빠', 'start': 4097.04, 'duration': 8.799}
+{'text': '언제 돼 청초한 진이네음', 'start': 4100.92, 'duration': 4.919}
+{'text': '아빠 나는 마스터인데 아빠는 왜', 'start': 4107.319, 'duration': 6.4}
+{'text': '실딱이 실딱 그 아니야 미안한데', 'start': 4109.0, 'duration': 7.44}
+{'text': '응 너 이렇게 말로 아빠를 팬이', 'start': 4113.719, 'duration': 5.281}
+{'text': '새끼고 후해 자식이네 아빠 나 동생', 'start': 4116.44, 'duration': 5.12}
+{'text': '가지고 싶어 진짜야 엄마한테 말해 봐', 'start': 4119.0, 'duration': 4.64}
+{'text': '빨리 엄마한테 말하고 뭐라 대답하나', 'start': 4121.56, 'duration': 5.36}
+{'text': '빨리 알려 줘 빨리 가서', 'start': 4123.64, 'duration': 3.28}
+{'text': '빨리가 아들아 아빠는', 'start': 4130.679, 'duration': 5.12}
+{'text': '쌉가능이다 엄마가 근데 애매해 가서', 'start': 4136.12, 'duration': 7.079}
+{'text': '물어봐 그래서 아빠는', 'start': 4139.56, 'duration': 3.639}
+{'text': '어떻게 엄마가 아빠 내일 모래 끄러', 'start': 4148.319, 'duration': 7.321}
+{'text': '간다는데 아빠 금식 문인 걸 내일', 'start': 4152.04, 'duration': 7.0}
+{'text': '모래 아빠 내일 코라로 풀가 엄마한테', 'start': 4155.64, 'duration': 6.519}
+{'text': '뭐했는데 아빠가 능력이 안된데', 'start': 4159.04, 'duration': 6.679}
+{'text': '도망가야지 그', 'start': 4162.159, 'duration': 3.56}
+{'text': '더아 엄마', 'start': 4166.4, 'duration': 4.959}
+{'text': '엎드려 내가 나이가 좀 많이 들었어', 'start': 4168.88, 'duration': 4.64}
+{'text': '그 진짜 능력이 좀 부족해 약의', 'start': 4171.359, 'duration': 6.081}
+{'text': '기운을 빌리면 돼', 'start': 4173.52, 'duration': 3.92}
+{'text': '처방받아 남자의 메커니즘은 단순해 어', 'start': 4179.4, 'duration': 6.279}
+{'text': '아 처방 바로 받아버려 비뇨기과 바로', 'start': 4183.239, 'duration': 4.881}
+{'text': '가버려', 'start': 4185.679, 'duration': 2.441}
+{'text': '비 비아그라 나서 삐약 그라 바로', 'start': 4191.88, 'duration': 4.16}
+{'text': '주세요', 'start': 4194.84, 'duration': 4.28}
+{'text': '예 많이 힘드신가요 아 와이프가 제', 'start': 4196.04, 'duration': 4.92}
+{'text': '자존심 건드려서 더 안', 'start': 4199.12, 'duration': 6.96}
+{'text': '돼요 아들한테 제가 능력이 없대요 아', 'start': 4200.96, 'duration': 5.12}
+{'text': '어음 아버지 저 학교에서 담패 피다', 'start': 4208.239, 'duration': 8.241}
+{'text': '걸렸어요 그럼 난 바로 셀 락바 텀이', 'start': 4211.84, 'duration': 4.64}
+{'text': '진짜로음 아들아 내가 태어나던 론', 'start': 4221.32, 'duration': 5.96}
+{'text': '로데론이 내 이름을 속삭였단다', 'start': 4223.88, 'duration': 3.4}
+{'text': '뭐라고 라빠 텀 할 때 세레모니도', 'start': 4232.88, 'duration': 4.56}
+{'text': '해줌', 'start': 4237.679, 'duration': 3.0}
+{'text': '옆집에 아빠 나중에 아빠랑 결혼할', 'start': 4242.679, 'duration': 6.52}
+{'text': '거야 딸이 어우 그거는 대한민국', 'start': 4245.84, 'duration': 6.8}
+{'text': '사회에서는 있을 수가 없어 미안하지만', 'start': 4249.199, 'duration': 6.441}
+{'text': '어', 'start': 4252.64, 'duration': 3.0}
+{'text': '그건 해외도 안', 'start': 4260.52, 'duration': 3.0}
+{'text': '된다 아빠 나중에 아빠랑 결혼할 거야', 'start': 4273.8, 'duration': 7.359}
+{'text': '그 기분은 좋을 듯 진짜 아 좋아하고', 'start': 4276.92, 'duration': 6.0}
+{'text': '10년 뒤 그 다섯살 네살 정도', 'start': 4281.159, 'duration': 3.08}
+{'text': '되겠지', 'start': 4282.92, 'duration': 2.16}
+{'text': '아빠', 'start': 4284.239, 'duration': 4.721}
+{'text': '나가라고 들어올 때 녹', 'start': 4285.08, 'duration': 3.88}
+{'text': '[음악]', 'start': 4293.52, 'duration': 4.199}
+{'text': '하라고 아빠 나 나중에 아빠랑 결혼할', 'start': 4295.239, 'duration': 3.48}
+{'text': '거야', 'start': 4297.719, 'duration': 4.44}
+{'text': '덜렁덜렁 아', 'start': 4298.719, 'duration': 3.44}
+{'text': '감사합니다 근데 결혼하면 아내가', 'start': 4309.199, 'duration': 6.081}
+{'text': '하자고 해도 남편이 도망 가던데음 아', 'start': 4311.84, 'duration': 6.24}
+{'text': '아 영돌이 2,000원 원 고맙고', 'start': 4315.28, 'duration': 6.959}
+{'text': '응 애들 일찍 재웠어 한잔', 'start': 4318.08, 'duration': 8.559}
+{'text': '할까 와이프가 근데 나는 아직 미', 'start': 4322.239, 'duration': 7.281}
+{'text': '혼자잖아 어 존나 좋을 거 같은데', 'start': 4326.639, 'duration': 7.321}
+{'text': '어콜 어 어', 'start': 4329.52, 'duration': 4.44}
+{'text': '진짜', 'start': 4342.48, 'duration': 3.0}
+{'text': '술 한 잔만 술 한 잔 할 거야 진짜', 'start': 4352.52, 'duration': 4.92}
+{'text': '오늘 히비키 한잔 술 한 잔 할 거야', 'start': 4355.52, 'duration': 6.0}
+{'text': '아니면은 뭐 어떻게 왜 나이들', 'start': 4357.44, 'duration': 7.68}
+{'text': '준 빨리 얘기해야 돼 엄마 아빠 어제', 'start': 4361.52, 'duration': 6.24}
+{'text': '밤에 아빠 힘들어', 'start': 4365.12, 'duration': 5.72}
+{'text': '보이던데음 아 아들님 감사합니다 엄마', 'start': 4367.76, 'duration': 6.919}
+{'text': '아빠 어젯밤에 아빠 힘들어 보이던데음', 'start': 4370.84, 'duration': 7.44}
+{'text': '음 괜찮아 너희 엄마만 행복할 수', 'start': 4374.679, 'duration': 8.0}
+{'text': '있다면 나 이한몸 한 불살라 나빌레라', 'start': 4378.28, 'duration': 4.399}
+{'text': '응 서치 뉴', 'start': 4386.8, 'duration': 6.72}
+{'text': '패더 뭐라', 'start': 4389.719, 'duration': 3.801}
+{'text': '마 그래서 여치는 있는', 'start': 4401.84, 'duration': 7.68}
+{'text': '거지 이이', 'start': 4405.679, 'duration': 3.841}
+{'text': '[\xa0__\xa0]', 'start': 4413.719, 'duration': 6.241}
+{'text': '아 여자 만날 시간이 없다 아 예지당', 'start': 4416.32, 'duration': 5.839}
+{'text': '님', 'start': 4419.96, 'duration': 2.199}
+{'text': '감사합니다음 아 야 봐 이게 다', 'start': 4428.08, 'duration': 7.28}
+{'text': '꿈이었다 크크', 'start': 4431.4, 'duration': 3.96}
+{'text': '외롭다 외롭다 외롭다 외롭다 외롭다', 'start': 4436.08, 'duration': 4.14}
+{'text': '외롭다 외롭다 외롭다 속에 버전', 'start': 4437.84, 'duration': 5.89}
+{'text': '[웃음]', 'start': 4440.22, 'duration': 3.51}
+{'text': '다운로드 장윤정도 결혼했다 내가', 'start': 4445.32, 'duration': 6.879}
+{'text': '얘기하지 진짜 웃기는 소리가 아니라', 'start': 4448.28, 'duration': 6.12}
+{'text': '방탄도 연애하는데 네가 왜 못해', 'start': 4452.199, 'duration': 4.881}
+{'text': '구라가 아니라 방탄도 하루에 6시간', 'start': 4454.4, 'duration': 4.64}
+{'text': '7시간씩 생방송만 하라고', 'start': 4457.08, 'duration': 5.2}
+{'text': '해 김 진짜 거짓말', 'start': 4459.04, 'duration': 7.119}
+{'text': '보 바쁠 수도 있어 진짜로 밥 효율은', 'start': 4462.28, 'duration': 6.879}
+{'text': '존나 낫겠지 방탄은 일주일에 한 번만', 'start': 4466.159, 'duration': 5.48}
+{'text': '방송 나와도 나이 2배를 벌겠지', 'start': 4469.159, 'duration': 6.52}
+{'text': '그거랑 다르잖아 무슨 느낌인지 알지', 'start': 4471.639, 'duration': 4.04}
+{'text': '어 페이가 다를뿐 바쁜 건 내가도', 'start': 4479.84, 'duration': 5.08}
+{'text': '바쁠 수 있다니까 진짜 하루에이 일에', 'start': 4482.639, 'duration': 4.681}
+{'text': '다가 쓰는 쏟는 그 시간 생각하면', 'start': 4484.92, 'duration': 4.719}
+{'text': '리얼로 그치 BTS 보다 하루에 숨', 'start': 4487.32, 'duration': 4.8}
+{'text': '다실 수도', 'start': 4489.639, 'duration': 2.481}
+{'text': '있지음 BTS 효율이 존나 좋겠지', 'start': 4492.28, 'duration': 4.959}
+{'text': '존나 유명하고 존나', 'start': 4495.08, 'duration': 6.04}
+{'text': '잘생겼으니까 딸들 그래서 우리 언제', 'start': 4497.239, 'duration': 5.951}
+{'text': '만나 힘들어요', 'start': 4501.12, 'duration': 5.0}
+{'text': '[음악]', 'start': 4503.19, 'duration': 5.57}
+{'text': '예 어이 오시 시간 뵙지 말고', 'start': 4506.12, 'duration': 5.64}
+{'text': '실버타운 올릴 땅이나', 'start': 4508.76, 'duration': 3.0}
+{'text': '알아봐 그러니까 말랑 코고 코도', 'start': 4522.199, 'duration': 6.0}
+{'text': '말랑거리고 좀 애매 애매 모사하기', 'start': 4525.639, 'duration': 5.441}
+{'text': '생겼어 그럼 돈이라도 많아야 돼 돈을', 'start': 4528.199, 'duration': 5.48}
+{'text': '많이 벌 돈을 많이 벌어야 그나마 좀', 'start': 4531.08, 'duration': 5.24}
+{'text': '개천에서 용날 구멍이 생겨 여자', 'start': 4533.679, 'duration': 5.121}
+{'text': '여자분들 이제 그 매료시키기 위해서', 'start': 4536.32, 'duration': 4.359}
+{'text': '그래서 돈을 많이 벌려면 일을 많이', 'start': 4538.8, 'duration': 4.16}
+{'text': '해야 돼 일을 많이 하면 여자를 못', 'start': 4540.679, 'duration': 5.281}
+{'text': '만나 돈 받아서 뭐해 [\xa0__\xa0] 죽어서', 'start': 4542.96, 'duration': 7.32}
+{'text': '개줘 [\xa0__\xa0] 그럼 크면 검은 벌로', 'start': 4545.96, 'duration': 4.32}
+{'text': '끄나', 'start': 4552.199, 'duration': 4.071}
+{'text': '[음악]', 'start': 4553.2, 'duration': 3.07}
+{'text': '알바노 슬퍼하지 마 백미 오늘 나', 'start': 4560.36, 'duration': 3.52}
+{'text': '남친이랑 헤어지고', 'start': 4562.48, 'duration': 6.88}
+{'text': '왔다군요 호 아 세명도 감사합니다', 'start': 4563.88, 'duration': 5.48}
+{'text': '예 너 좋다 여자 만나 본 적 있어', 'start': 4573.239, 'duration': 5.721}
+{'text': '뭐 지금까지 사귀던 여자들 다 저', 'start': 4576.36, 'duration': 6.04}
+{'text': '좋다고 했겠죠 먼저 좋아하고 그걸 떠', 'start': 4578.96, 'duration': 7.199}
+{'text': '발 아 맞지 감사합니다', 'start': 4582.4, 'duration': 3.759}
+{'text': '예 걱정마 그래도 병미 꿈에서는 여친', 'start': 4586.52, 'duration': 8.119}
+{'text': '있잖아 꿈도 못 고요 요즘은', 'start': 4590.48, 'duration': 4.159}
+{'text': '[\xa0__\xa0] 요즘 씨 요즘 꿈에서 군대가 씨', 'start': 4597.44, 'duration': 8.96}
+{'text': '좆같아 옛날에 그래도 병사 요즘', 'start': 4601.8, 'duration': 4.6}
+{'text': '장교 요즘', 'start': 4611.32, 'duration': 7.08}
+{'text': '간 요즘 밥 먹을 시간은 있지 밥', 'start': 4614.96, 'duration': 5.88}
+{'text': '존나 잘', 'start': 4618.4, 'duration': 2.44}
+{'text': '먹어요 삼삼 속에 와이프라고 있는게', 'start': 4624.08, 'duration': 4.4}
+{'text': '어디요 중대장 실망인 오병민', 'start': 4633.08, 'duration': 4.32}
+{'text': '키읔', 'start': 4642.0, 'duration': 4.499}
+{'text': '[음악]', 'start': 4643.42, 'duration': 3.079}
+{'text': '형은 말랑 코가 문제가 아니야 살빼고', 'start': 4646.679, 'duration': 2.921}
+{'text': '꾸며 놓으면 그래도 수요 있는', 'start': 4648.44, 'duration': 4.32}
+{'text': '얼굴이야 인생', 'start': 4649.6, 'duration': 3.16}
+{'text': '망했어 유단자 여치는 어다', 'start': 4667.32, 'duration': 7.68}
+{'text': '아', 'start': 4672.0, 'duration': 3.0}
+{'text': '에 밥을', 'start': 4676.4, 'duration': 4.0}
+{'text': '잡순', 'start': 4678.32, 'duration': 4.44}
+{'text': '아네 유단자', 'start': 4680.4, 'duration': 6.36}
+{'text': '여친 뭐 뭐 권투 뭐 이런 거 여군', 'start': 4682.76, 'duration': 6.479}
+{'text': '만나려나', 'start': 4686.76, 'duration': 2.479}
+{'text': '보다 완전 유단자', 'start': 4692.56, 'duration': 5.8}
+{'text': '어 아 장', 'start': 4696.199, 'duration': 5.44}
+{'text': '감니다 만약에 완전 제 진짜 씹', 'start': 4698.36, 'duration': 6.08}
+{'text': '진지빨고 진짜 진짜 진지 빨고 다깨면', 'start': 4701.639, 'duration': 5.641}
+{'text': '제가 이길 걸요 그래도', 'start': 4704.44, 'duration': 2.84}
+{'text': '예음 일단 체급에서 차이가 확 나기', 'start': 4719.159, 'duration': 4.601}
+{'text': '때문에 나도 말랑코 그 돈이라도', 'start': 4721.8, 'duration': 3.399}
+{'text': '모아야지 그러면 남자 생기겠지 아', 'start': 4723.76, 'duration': 4.36}
+{'text': '당당히 감사합니다 예 키키키', 'start': 4725.199, 'duration': 5.361}
+{'text': '여자친구를 왜 진심으로 다 깰 생각을', 'start': 4728.12, 'duration': 6.8}
+{'text': '하냐 아니 뭐 유단 자라길래 어', 'start': 4730.56, 'duration': 4.36}
+{'text': '너 근육이 아니라 다 물 살이잖아', 'start': 4739.48, 'duration': 3.8}
+{'text': '키키', 'start': 4741.0, 'duration': 2.28}
+{'text': '키읔 그럼 밤 기술 유단 5단이 아', 'start': 4747.32, 'duration': 6.839}
+{'text': '그건 몰라요 예', 'start': 4750.92, 'duration': 3.239}
+{'text': '아무튼간에 진짜 사람이', 'start': 4754.92, 'duration': 5.68}
+{'text': '별로다 아 익수 님 감사 산님', 'start': 4757.639, 'duration': 6.201}
+{'text': '감사합니다 아무리 유자도 은 진짜 씹', 'start': 4760.6, 'duration': 4.92}
+{'text': '진지하게 다이 깨면 이길 수 있다 마', 'start': 4763.84, 'duration': 4.08}
+{'text': '있든데', 'start': 4765.52, 'duration': 2.4}
+{'text': '응 뭘 하든 누굴 만나든 행복하면', 'start': 4774.639, 'duration': 4.481}
+{'text': '그만', 'start': 4777.639, 'duration': 5.04}
+{'text': '아닌가음 주지 수가 이제 체급을', 'start': 4779.12, 'duration': 5.519}
+{'text': '역전할 수 있는 거의 유일한', 'start': 4782.679, 'duration': 4.241}
+{'text': '스포츠라고 보통 얘기하는데 모든', 'start': 4784.639, 'duration': 4.401}
+{'text': '충전해 될 것다 보통 얘기하는데', 'start': 4786.92, 'duration': 5.319}
+{'text': '그것도 이제 그거 나름이죠 예 관절기', 'start': 4789.04, 'duration': 5.44}
+{'text': '그냥 내가 이제 좀 작은 체구의', 'start': 4792.239, 'duration': 4.361}
+{'text': '여자들을 좋아하잖아 난 156에', 'start': 4794.48, 'duration': 5.08}
+{'text': '159 뭐 161 정도 만약에 내', 'start': 4796.6, 'duration': 4.32}
+{'text': '팔에 안바를 걸라 그러면 그대로', 'start': 4799.56, 'duration': 4.76}
+{'text': '들어서 찍으면 되는 거 아니야', 'start': 4800.92, 'duration': 3.4}
+{'text': '만약에음 그 정도는 하지', 'start': 4806.679, 'duration': 4.441}
+{'text': '어 그니까 안바 걸기 전에', 'start': 4814.239, 'duration': 5.92}
+{'text': '그냥', 'start': 4818.199, 'duration': 4.321}
+{'text': '존나 여자친구 얘기하는 거 아니에요', 'start': 4820.159, 'duration': 4.601}
+{'text': '지금', 'start': 4822.52, 'duration': 2.24}
+{'text': '진심으로 싸웠는데 와사바리 털려서 개', 'start': 4826.239, 'duration': 4.721}
+{'text': '발리면 억음 죄송한데 저도 병신은', 'start': 4828.04, 'duration': 6.24}
+{'text': '아니에요 저한테 저도 어디 가서 막', 'start': 4830.96, 'duration': 6.08}
+{'text': '맞고 다시지', 'start': 4834.28, 'duration': 2.76}
+{'text': '않아가지고음 이걸 이겨먹으려고 하네', 'start': 4838.12, 'duration': 6.079}
+{'text': '아니 뭐 진짜 진지하게 스포츠 mma', 'start': 4840.92, 'duration': 5.08}
+{'text': '하자 그러면은', 'start': 4844.199, 'duration': 3.321}
+{'text': '뭐', 'start': 4846.0, 'duration': 5.239}
+{'text': '응 진짜 뭐 아무리 주수를 배웠어도', 'start': 4847.52, 'duration': 6.639}
+{'text': '여친이 온 려고 하면은 그대로 그냥', 'start': 4851.239, 'duration': 4.96}
+{'text': '하고 여기를 존나 패면 되는 거', 'start': 4854.159, 'duration': 4.401}
+{'text': '아니야 만약에 진짜 진지하게 맞장을', 'start': 4856.199, 'duration': 6.04}
+{'text': '뜬다고 하면 갑자기 여자친구랑 스퍼링', 'start': 4858.56, 'duration': 7.24}
+{'text': '들 얘기하고 있데 크 그까 주제로만', 'start': 4862.239, 'duration': 6.92}
+{'text': '싸우는게 아니잖아 만 여자친구 주지수', 'start': 4865.8, 'duration': 5.68}
+{'text': '까만 띠야 나는 뭐 주지수 하얀 띠야', 'start': 4869.159, 'duration': 5.52}
+{'text': '그러면 이제 그려봤자 노란띠 그러면은', 'start': 4871.48, 'duration': 5.28}
+{'text': '뭐 주지 수로만 하자 그럼 내가', 'start': 4874.679, 'duration': 4.721}
+{'text': '분리하겠다 근데 뭐 그냥 100kg', 'start': 4876.76, 'duration': 4.16}
+{'text': '깔고 뭉게면 뭐 어떻게 할 수', 'start': 4879.4, 'duration': 3.759}
+{'text': '있겠냐만은 그전에 뭐 이게 발로 막', 'start': 4880.92, 'duration': 4.04}
+{'text': '어떻게 그럼 막 발로 안 발을 걸려고', 'start': 4883.159, 'duration': 4.761}
+{'text': '할 거 아니 그여 존나 때는 니 아니', 'start': 4884.96, 'duration': 5.32}
+{'text': '몸무게 두반은 못 이기지', 'start': 4887.92, 'duration': 6.799}
+{'text': '예 저 이런 말', 'start': 4890.28, 'duration': 4.439}
+{'text': '줬는데 아니 진지하게 아니 아까 다', 'start': 4895.12, 'duration': 4.8}
+{'text': '이게 자에', 'start': 4898.4, 'duration': 5.64}
+{'text': '나 30초 안 걸릴 거', 'start': 4899.92, 'duration': 4.12}
+{'text': '같은데음 10초 10초 정도', 'start': 4907.719, 'duration': 7.201}
+{'text': '본다 총 들고 오면 님지 시오다', 'start': 4911.639, 'duration': 9.0}
+{'text': '응 못났다 못 났어 아니 만약에', 'start': 4914.92, 'duration': 9.04}
+{'text': '진짜게 형 너 이건 커버 못 쳐져', 'start': 4920.639, 'duration': 7.961}
+{'text': '아니 아니 만약에 진지하게 어', 'start': 4923.96, 'duration': 4.64}
+{'text': '하면은 속고 오킹 여자 한방 컷 가는', 'start': 4929.639, 'duration': 6.121}
+{'text': '8 장 사격 배 여친이라고 가능 어', 'start': 4932.88, 'duration': 5.72}
+{'text': '아니 사람들', 'start': 4935.76, 'duration': 2.84}
+{'text': '사랑으로음이 사람이 여자친구가 없는', 'start': 4938.8, 'duration': 5.76}
+{'text': '이유 하다 어', 'start': 4940.88, 'duration': 3.68}
+{'text': '[음악]', 'start': 4947.07, 'duration': 4.86}
+{'text': '디디다 님 10개월 감사합니다', 'start': 4949.84, 'duration': 4.68}
+{'text': '[음악]', 'start': 4951.93, 'duration': 7.15}
+{'text': '예 한남자 그 자체 왜 하 남자야 왜', 'start': 4954.52, 'duration': 6.719}
+{'text': '한', 'start': 4959.08, 'duration': 2.159}
+{'text': '남자야 오킨 여친 지원해 보려다가도', 'start': 4965.719, 'duration': 5.801}
+{'text': '마음이 쏙 사라지네 너가 유단자', 'start': 4969.04, 'duration': 5.52}
+{'text': '아니잖아 그럼 됐어', 'start': 4971.52, 'duration': 3.04}
+{'text': '음 하영님 히응 아 감사합니다 여자', 'start': 4974.6, 'duration': 6.4}
+{'text': '친구를 이겨 먹으려고 하네 그럼 뭐', 'start': 4978.92, 'duration': 4.92}
+{'text': '난 이겨도 되냐', 'start': 4981.0, 'duration': 2.84}
+{'text': '그러면음 언제 여자친구가 다이 깨자고', 'start': 4985.56, 'duration': 7.72}
+{'text': '했냐 만약에 깨자고', 'start': 4989.0, 'duration': 4.28}
+{'text': '하면 오킹 여친 되려면 뒷목과 길를', 'start': 4996.639, 'duration': 6.321}
+{'text': '내줘야 하고 싸움 잘해야 됨 깨자고', 'start': 5000.32, 'duration': 5.64}
+{'text': '해도 안 깨겠지', 'start': 5002.96, 'duration': 3.0}
+{'text': '예 오빠 여자 친구랑 밤에 단둘', 'start': 5006.32, 'duration': 4.44}
+{'text': '전화할 때도 남자들은 흥분해 예', 'start': 5008.719, 'duration': 4.92}
+{'text': '몰라요 예 팩도 싸우 여자친구라도', 'start': 5010.76, 'duration': 3.84}
+{'text': '있었으면', 'start': 5013.639, 'duration': 3.6}
+{'text': '좋겠다 만약에 여자친구가 사람을', 'start': 5014.6, 'duration': 5.96}
+{'text': '때리는 사람이야 날 때려 만약에 존나', 'start': 5017.239, 'duration': 4.801}
+{'text': '그럼 만약 여자 친구가 뽀 아이라면', 'start': 5020.56, 'duration': 3.599}
+{'text': '어떨 것 같아 그건 상관없고 어', 'start': 5022.04, 'duration': 4.199}
+{'text': '만약에 때리는 사람이야 그럼 막 나는', 'start': 5024.159, 'duration': 4.641}
+{'text': '어 팍팍팍 때려 막 자기는 때려도', 'start': 5026.239, 'duration': 5.361}
+{'text': '되는 줄 알아 진지하게 만약에 막', 'start': 5028.8, 'duration': 5.08}
+{'text': '싸우면서 막 때리려 그래 난 때리는', 'start': 5031.6, 'duration': 5.36}
+{'text': '거 세 똑같이 갚아 나는음 나 완전', 'start': 5033.88, 'duration': 5.6}
+{'text': '평등 펀치 바로가 버리지', 'start': 5036.96, 'duration': 6.44}
+{'text': '나는 서로 때리면 안 되는', 'start': 5039.48, 'duration': 3.92}
+{'text': '거야음 에이스 나서 때리는 건 그건', 'start': 5044.6, 'duration': 5.28}
+{'text': '괜찮아요 뭐 둘이 뭐 이렇게 근데', 'start': 5047.719, 'duration': 6.241}
+{'text': '제가 근데 맞는 걸 싫어하기 때문에', 'start': 5049.88, 'duration': 4.08}
+{'text': '예 찐텐으로 때리는 건 오바지', 'start': 5057.84, 'duration': 6.52}
+{'text': '리얼게', 'start': 5061.36, 'duration': 3.0}
+{'text': '등이지음음 서로 안 때리는게 맞지', 'start': 5076.92, 'duration': 6.96}
+{'text': '어 여잔 남자 때려도 되고 남자 여자', 'start': 5081.08, 'duration': 5.8}
+{'text': '때려도 되는 거 없잖아요', 'start': 5083.88, 'duration': 3.0}
+{'text': '예 그건 여자친구 아니야 어떤', 'start': 5087.92, 'duration': 5.96}
+{'text': '누군가가 누구든간에 날 때려 엄마', 'start': 5091.36, 'duration': 5.6}
+{'text': '아빠 재회 엄마 아빠 재회 누구든간에', 'start': 5093.88, 'duration': 7.319}
+{'text': '만약에 날 때려 난 새 똑같지', 'start': 5096.96, 'duration': 4.239}
+{'text': '때려음 때릴 수 있는 사람은 없죠', 'start': 5106.239, 'duration': 5.841}
+{'text': '엄마 아빠는 이유가 있죠 어 저를', 'start': 5109.28, 'duration': 5.68}
+{'text': '피조 했잖아요', 'start': 5112.08, 'duration': 2.88}
+{'text': '예', 'start': 5121.28, 'duration': 3.0}
+{'text': '어 얼굴 맞으셨나요', 'start': 5128.32, 'duration': 4.28}
+{'text': '응 약간 제 마인드에 그렇다고 뭐', 'start': 5142.92, 'duration': 6.48}
+{'text': '사람을 때리진 않지만 어 뭐 내가', 'start': 5145.56, 'duration': 6.079}
+{'text': '고통받은만큼 갚아준다 마인 드지 다른', 'start': 5149.4, 'duration': 4.88}
+{'text': '방법으로든', 'start': 5151.639, 'duration': 2.641}
+{'text': '그니까 여자친구랑 만약에 싸워', 'start': 5162.76, 'duration': 4.52}
+{'text': '여자친구가 날를 때려 근데 때리는게', 'start': 5165.32, 'duration': 5.76}
+{'text': '막 어 막 때리게 나를 막 [\xa0__\xa0]', 'start': 5167.28, 'duration': 7.0}
+{'text': '이러면서 때리면 세지 근데 막 어 왜', 'start': 5171.08, 'duration': 5.52}
+{'text': '그래 하면서 이런 거 있지 이런 주먹', 'start': 5174.28, 'duration': 6.04}
+{'text': '뭔지 알죠 왜 그러냐고 하면 막 이런', 'start': 5176.6, 'duration': 8.32}
+{'text': '거는 만대 맞아도 아', 'start': 5180.32, 'duration': 4.6}
+{'text': '진짜 양념 펀치 받아라 아 님', 'start': 5187.96, 'duration': 5.199}
+{'text': '감사합니다', 'start': 5191.32, 'duration': 4.399}
+{'text': '예 펀치 같은 건', 'start': 5193.159, 'duration': 5.08}
+{'text': '애교지 근데이 리얼로 좀 기분이', 'start': 5195.719, 'duration': 4.361}
+{'text': '상했어 근데 막 이렇게 막 하는 거', 'start': 5198.239, 'duration': 3.601}
+{'text': '있잖아 무슨 느낌인지 알죠 진짜로', 'start': 5200.08, 'duration': 5.44}
+{'text': '화나 화가 났어도 이렇게 때리는 것과', 'start': 5201.84, 'duration': 5.96}
+{'text': '어 막 이렇게 하는 거 있잖아 만약에', 'start': 5205.52, 'duration': 5.0}
+{'text': '이렇게 해 어 그거 은근히 아파 난', 'start': 5207.8, 'duration': 5.439}
+{'text': '속으로 생각하겠지지 않아 그런 걸', 'start': 5210.52, 'duration': 4.88}
+{'text': '세진 않고 속으로 생각해 어차피 이거', 'start': 5213.239, 'duration': 4.561}
+{'text': '이것도 은근 아파 멍이 들어 멍이 들', 'start': 5215.4, 'duration': 5.48}
+{'text': '정도로 아파 그러면 어차피지가 약', 'start': 5217.8, 'duration': 7.04}
+{'text': '발라 줘야 되는데지 손해지 뭐 하', 'start': 5220.88, 'duration': 3.96}
+{'text': '맞아 저는 약간 그런 마인드', 'start': 5232.32, 'duration': 4.24}
+{'text': '응', 'start': 5241.119, 'duration': 5.841}
+{'text': '발라준다고 안 했는데음 화해하고', 'start': 5244.119, 'duration': 4.721}
+{'text': '그렇게 만들어', 'start': 5246.96, 'duration': 6.32}
+{'text': '나는 얘가 발라 주게끔', 'start': 5248.84, 'duration': 4.44}
+{'text': '만들어다 그래서 여자', 'start': 5255.719, 'duration': 3.681}
+{'text': '친구는음에 약 안 발라주면 어떻게', 'start': 5259.52, 'duration': 6.159}
+{'text': '되냐고요 그러면 진짜 내가 후회', 'start': 5261.639, 'duration': 6.321}
+{'text': '후회할 정도로 삐져 줄게', 'start': 5265.679, 'duration': 4.321}
+{'text': '장담하건데지가 때려 놔서 내가 멍이', 'start': 5267.96, 'duration': 4.759}
+{'text': '들었는데 약을 안 발라 준다고 한다', 'start': 5270.0, 'duration': 5.56}
+{'text': '와이프가 술만 먹으면 길에 침찍찍 해', 'start': 5272.719, 'duration': 6.4}
+{'text': '혼자 혼자 집에 가서 아 [\xa0__\xa0] 아', 'start': 5275.56, 'duration': 5.8}
+{'text': '진짜 발라 줄걸 나를 욕을 안 하게', 'start': 5279.119, 'duration': 5.401}
+{'text': '해 나는 자기를 욕해 아 내가 발라줄', 'start': 5281.36, 'duration': 5.64}
+{'text': '걸 아 저새끼 저 언제까지 아', 'start': 5284.52, 'duration': 5.119}
+{'text': '큰일났다 [\xa0__\xa0] 할 정도로 자책할', 'start': 5287.0, 'duration': 5.36}
+{'text': '정도로 만들어 버리', 'start': 5289.639, 'duration': 2.721}
+{'text': '나는음 아 그냥 발라줄 걸 아 내가', 'start': 5297.32, 'duration': 5.799}
+{'text': '때렸는데 아 그래 마다 오는 아 내가', 'start': 5300.719, 'duration': 4.48}
+{'text': '때려놓고 내가 약을 안 발라줘 아', 'start': 5303.119, 'duration': 4.56}
+{'text': '내가 실수했다 아 나 큰 실수할', 'start': 5305.199, 'duration': 4.841}
+{'text': '뻔했어 하면서 이제 류승범 될 때까지', 'start': 5307.679, 'duration': 5.201}
+{'text': '나는 찌 삐져 버려', 'start': 5310.04, 'duration': 2.84}
+{'text': '응', 'start': 5315.88, 'duration': 3.0}
+{'text': '아 진짜 [\xa0__\xa0] 바 남자다 아들아 아빠', 'start': 5319.28, 'duration': 8.32}
+{'text': '또 삐졌다 너는 아빠 보고 배우면 안', 'start': 5322.88, 'duration': 4.72}
+{'text': '돼 찌찌 만질래 하면', 'start': 5329.719, 'duration': 6.48}
+{'text': '조금 풀어 줄 거야 그러면은', 'start': 5332.88, 'duration': 3.319}
+{'text': '응음 그럼 째금 풀어 줄 거야 조금', 'start': 5342.679, 'duration': 6.321}
+{'text': '풀고 된장', 'start': 5345.52, 'duration': 3.48}
+{'text': '발라주면 그러니까 약간 그런 거지', 'start': 5350.96, 'duration': 4.84}
+{'text': '만약에 여자친구가 나를 때렸어 내가', 'start': 5353.639, 'duration': 6.721}
+{'text': '멍이 들었어 아 이제 화해했어 이거', 'start': 5355.8, 'duration': 7.68}
+{'text': '네가 나 멍들게 했으니까 약 발라 줘', 'start': 5360.36, 'duration': 7.52}
+{'text': '했네 아 싫어 이러면 진짜 후회할만큼', 'start': 5363.48, 'duration': 8.159}
+{'text': '삐져 그러 이제 여충 하 았 없어 아', 'start': 5367.88, 'duration': 6.2}
+{'text': '찌지 만지 찌지 안 줘 아 았 약', 'start': 5371.639, 'duration': 5.881}
+{'text': '발라줄게 하면 응 안 해 안 발라 안', 'start': 5374.08, 'duration': 7.0}
+{'text': '발를 거야 하고 한데', 'start': 5377.52, 'duration': 7.32}
+{'text': '만약에음 만약에 그러고 나서 뭐야 아', 'start': 5381.08, 'duration': 6.559}
+{'text': '알았어 찌지 만져', 'start': 5384.84, 'duration': 6.16}
+{'text': '그 또 안 만질 거야 근데 알았어', 'start': 5387.639, 'duration': 5.08}
+{'text': '만지고 발라줄게 오케 하면 오케이', 'start': 5391.0, 'duration': 6.0}
+{'text': '그럼 그럼 콜 그러면 이제', 'start': 5392.719, 'duration': 4.281}
+{'text': '풀어 쉽지', 'start': 5413.92, 'duration': 4.799}
+{'text': '않네', 'start': 5416.08, 'duration': 5.119}
+{'text': '까다롭다어요네 팔자야 하느님 저를', 'start': 5418.719, 'duration': 5.881}
+{'text': '구원해 가 때려서 다 들었으면 자기가', 'start': 5421.199, 'duration': 6.201}
+{'text': '자기가 발라줘야지을 그거부터 문제야', 'start': 5424.6, 'duration': 6.32}
+{'text': '[\xa0__\xa0] 맞잖아 아니야지가 때려서 멍들게', 'start': 5427.4, 'duration': 5.88}
+{'text': '했으면 그걸 발라 줘야지 맞잖아', 'start': 5430.92, 'duration': 4.199}
+{'text': '그거부터', 'start': 5433.28, 'duration': 4.56}
+{'text': '문제야', 'start': 5435.119, 'duration': 6.961}
+{'text': '어씨 맞아 아니야 맞아 아니야 그럼', 'start': 5437.84, 'duration': 6.839}
+{'text': '멍 안 들면 괜찮음 여자친구가 때렸어', 'start': 5442.08, 'duration': 4.2}
+{'text': '그래서 집에 와서 확인하면 멍이 안', 'start': 5444.679, 'duration': 3.281}
+{'text': '들었어 어 발라 달라고 못 해 그럼', 'start': 5446.28, 'duration': 3.48}
+{'text': '찌찌도 못', 'start': 5447.96, 'duration': 5.199}
+{'text': '만져 내가 더 때려', 'start': 5449.76, 'duration': 6.359}
+{'text': '사회 공가를 해버려', 'start': 5453.159, 'duration': 2.96}
+{'text': '나는 진짜 미친 새끼', 'start': 5461.92, 'duration': 7.4}
+{'text': '아니냐고 장난이에요 진짜 이렇게 하진', 'start': 5465.84, 'duration': 7.16}
+{'text': '않죠 아 진 다 장난이에요', 'start': 5469.32, 'duration': 3.68}
+{'text': '하긴 남친이 자기가 때려서 다쳤는데', 'start': 5473.6, 'duration': 5.44}
+{'text': '약 수 있는 기회 절개하고 기', 'start': 5476.28, 'duration': 4.48}
+{'text': '내밀면', 'start': 5479.04, 'duration': 4.52}
+{'text': '아 때릴 수 있는 기회 줄게 하고', 'start': 5480.76, 'duration': 5.84}
+{'text': '궁디 애미라 아 내 여자친구가 약간', 'start': 5483.56, 'duration': 6.679}
+{'text': '애미야 그러면은 나는 얼마든지 맞춰', 'start': 5486.6, 'duration': 6.44}
+{'text': '애쓰면 좀 곤란해 애쓰면 좀 곤란한데', 'start': 5490.239, 'duration': 6.241}
+{'text': '여친가 만약에 미면 나는 얼마든지', 'start': 5493.04, 'duration': 5.119}
+{'text': '아이', 'start': 5496.48, 'duration': 5.44}
+{'text': '씨 야 누가 봐도 진심이었어 응 나는', 'start': 5498.159, 'duration': 7.0}
+{'text': '뭐 나는 뭐지 뭐 난 강약 조절까지', 'start': 5501.92, 'duration': 5.92}
+{'text': '가능해 아 진짜 어 나 바로 선풍기', 'start': 5505.159, 'duration': 5.641}
+{'text': '돼버려 아 진짜 친가 만약에 나한테', 'start': 5507.84, 'duration': 5.6}
+{'text': '뭐 한대 쳐달라 그래 그러면 뭐 아이', 'start': 5510.8, 'duration': 6.319}
+{'text': '뭐 미풍 중풍 강풍 골라라 어', 'start': 5513.44, 'duration': 6.52}
+{'text': '때렸는데 멍이 아니라 뼈에 금이 가면', 'start': 5517.119, 'duration': 6.0}
+{'text': '는거 안 끝나', 'start': 5519.96, 'duration': 6.159}
+{'text': '짜 나는 바로 장구 무형문화제 돼 아', 'start': 5523.119, 'duration': 5.201}
+{'text': '진짜 오늘 약발 아냐고 스킨십', 'start': 5526.119, 'duration': 5.08}
+{'text': '사기꾼이네 큰 여친가 원한다면 여친가', 'start': 5528.32, 'duration': 5.399}
+{'text': '원한다면 난 바로 장고 무형문화 동기', 'start': 5531.199, 'duration': 5.641}
+{'text': '덕공 더 자진모리 휘모리 다 해버려', 'start': 5533.719, 'duration': 5.841}
+{'text': '다 외워와 나는 그거 어 안단테 안단', 'start': 5536.84, 'duration': 6.839}
+{'text': '티는 모데라토 다 외 온다고 나는음', 'start': 5539.56, 'duration': 4.119}
+{'text': '어휴 급한 직업이 여기', 'start': 5555.679, 'duration': 8.601}
+{'text': '[웃음]', 'start': 5558.69, 'duration': 9.949}
+{'text': '있었네 약간 그런 마인드라 그 그런', 'start': 5564.28, 'duration': 6.56}
+{'text': '마인드라는 거죠 예 그렇다고 제가', 'start': 5568.639, 'duration': 3.56}
+{'text': '막막 때리는 거 좋아 그런 건', 'start': 5570.84, 'duration': 4.68}
+{'text': '아니에요 그런 건 아닌데 원한다면', 'start': 5572.199, 'duration': 6.241}
+{'text': '얼마든지 어 아 진짜 아주 카면 같은', 'start': 5575.52, 'duration': 6.8}
+{'text': '남자야면 도망가라고 할', 'start': 5578.44, 'duration': 3.88}
+{'text': '거야 방금 들어왔는데 오늘도 상상', 'start': 5588.6, 'duration': 5.24}
+{'text': '여침 얘기하고 있네', 'start': 5591.119, 'duration': 2.721}
+{'text': '키키키키키키네 여친이 김지면 억 팔이', 'start': 5597.76, 'duration': 5.8}
+{'text': '사라질 텐데 찌지', 'start': 5600.36, 'duration': 3.2}
+{'text': '평생에 미래 여친들의 방송 보고 있을', 'start': 5606.679, 'duration': 7.081}
+{'text': '텐데 상을 친 뭔 상관 내가 뭐', 'start': 5609.92, 'duration': 6.84}
+{'text': '이상한 말했냐 이상한 말이긴 해 텔린', 'start': 5613.76, 'duration': 4.72}
+{'text': '말은 없었어 아 엄마 이상한 영상', 'start': 5616.76, 'duration': 3.56}
+{'text': '아니야 그냥 이상한 말이긴 이상해', 'start': 5618.48, 'duration': 3.719}
+{'text': '조금 이상하긴 한데', 'start': 5620.32, 'duration': 6.12}
+{'text': '뭐 뭐 엄청 뭐 이상한 뭐', 'start': 5622.199, 'duration': 4.241}
+{'text': '어 그런 말을 한 건 아니야 맞잖아', 'start': 5627.239, 'duration': 5.241}
+{'text': '어', 'start': 5630.56, 'duration': 3.92}
+{'text': '그럼 넘어서서 막 더 해달라 하면', 'start': 5632.48, 'duration': 7.36}
+{'text': '오케 크 나는 나는 진짜 난 자신', 'start': 5634.48, 'duration': 12.84}
+{'text': '있어 만약에 뭐 진짜 뭐 왜지', 'start': 5639.84, 'duration': 7.48}
+{'text': '뭐 덜 해라 이러면 조금 힘들지만 더', 'start': 5647.639, 'duration': 5.161}
+{'text': '해라 그러면', 'start': 5650.48, 'duration': 5.88}
+{'text': '뭐 얼마든지', 'start': 5652.8, 'duration': 3.56}
+{'text': '응', 'start': 5660.48, 'duration': 6.56}
+{'text': '와 야발 야봉이 됐네 지금이라도 한국', 'start': 5663.239, 'duration': 7.121}
+{'text': '들까 야붕이가 뭐예요', 'start': 5667.04, 'duration': 3.32}
+{'text': '예 천원 펀치 오병민 님 감사합니다', 'start': 5677.52, 'duration': 7.0}
+{'text': '원펀치 뭐야 오병민 왼손 오른손', 'start': 5680.56, 'duration': 6.04}
+{'text': '감사합니다', 'start': 5684.52, 'duration': 5.92}
+{'text': '예 원펀치', 'start': 5686.6, 'duration': 3.84}
+{'text': '뭐해', 'start': 5690.48, 'duration': 3.0}
+{'text': '천원 펀치 천원', 'start': 5696.56, 'duration': 6.8}
+{'text': '펀치 댐프', 'start': 5699.92, 'duration': 3.44}
+{'text': '시 근데 보다 님들 여러분 중에 열', 'start': 5704.52, 'duration': 4.28}
+{'text': '아은 바속 같잖아 그 맞잖아 아야', 'start': 5706.96, 'duration': 4.4}
+{'text': '남자들 중에 내 말에 반대하는 사람', 'start': 5708.8, 'duration': 4.76}
+{'text': '있어 얘기해 봐 천원', 'start': 5711.36, 'duration': 5.64}
+{'text': '펀치 천원 펀치 아', 'start': 5713.56, 'duration': 8.4}
+{'text': '감사합니다음 맞긴해 다 똑같아 어', 'start': 5717.0, 'duration': 8.88}
+{'text': '넌 왜 가지 껴 원펀치 뭐야 솔직히', 'start': 5721.96, 'duration': 5.92}
+{'text': '남자들은 특이한 것만 아니라면 다', 'start': 5725.88, 'duration': 4.68}
+{'text': '맞춰주지 않나 진짜 막 진짜 막', 'start': 5727.88, 'duration': 5.96}
+{'text': '이상한 거 막 진짜 막네 감사합니다', 'start': 5730.56, 'duration': 6.04}
+{'text': '저는 안 그래요 만약에 여자 친구가', 'start': 5733.84, 'duration': 5.799}
+{'text': '나한테 뭔가를 부탁하는데 그 부탁하는', 'start': 5736.6, 'duration': 6.519}
+{'text': '정도가 그 막말로 근데 나', 'start': 5739.639, 'duration': 6.401}
+{'text': '같아도 아 오님 만원 후원까지 아', 'start': 5743.119, 'duration': 7.281}
+{'text': '감사합니다 어 아 고마워요', 'start': 5746.04, 'duration': 8.639}
+{'text': '충분해요 맛이 어떠냐 달아요 엄청', 'start': 5750.4, 'duration': 6.759}
+{'text': '엄청 달아요 만원 되게 좋아하거든요', 'start': 5754.679, 'duration': 4.081}
+{'text': '아 만원', 'start': 5757.159, 'duration': 4.601}
+{'text': '감사합니다', 'start': 5758.76, 'duration': 3.0}
+{'text': '치 그니까 남자들은 제가 딱', 'start': 5763.76, 'duration': 6.04}
+{'text': '말씀드릴게요 남자들은 원펀치 우리', 'start': 5766.719, 'duration': 6.801}
+{'text': '백이도 마찬가지지만 남자들은 간하면', 'start': 5769.8, 'duration': 8.0}
+{'text': '진짜 거의 다 맞춰 거의다 그니까 그', 'start': 5773.52, 'duration': 6.8}
+{'text': '기준이 좀 여자들 입장에서는 어', 'start': 5777.8, 'duration': 5.2}
+{'text': '이것까지도 이것까지도 하면서 약간 좀', 'start': 5780.32, 'duration': 5.12}
+{'text': '이렇게 좀 애매할 수도 있잖아 아', 'start': 5783.0, 'duration': 4.44}
+{'text': '이런 것까지 좋 나 좀 약간 내 여자', 'start': 5785.44, 'duration': 4.0}
+{'text': '있는데 특이해 내가 어 좀 나 이런', 'start': 5787.44, 'duration': 4.32}
+{'text': '걸 좀 좋아해 그래서 간 못 해 줄', 'start': 5789.44, 'duration': 5.64}
+{'text': '건 뭐람 그렇다니까 근데 약간 그니까', 'start': 5791.76, 'duration': 6.04}
+{'text': '그 기준이 애매하면 본인의 그런 어떤', 'start': 5795.08, 'duration': 4.52}
+{'text': '취향이라 그지 그런게 뭐 아니면 약간', 'start': 5797.8, 'duration': 4.6}
+{'text': '좀 판타지가 있을 거 아니야 그걸', 'start': 5799.6, 'duration': 7.0}
+{'text': '일반적 나 [\xa0__\xa0] 없 이상한 막 다쿠', 'start': 5802.4, 'duration': 7.36}
+{'text': '말고 일반적인 야동 사이트에다가 잘', 'start': 5806.6, 'duration': 5.2}
+{'text': '안 나오면 그냥 물어보지 마 그러면', 'start': 5809.76, 'duration': 5.359}
+{'text': '돼 이게 딱 기준 그럼 어느 정도면', 'start': 5811.8, 'duration': 4.439}
+{'text': '못', 'start': 5815.119, 'duration': 5.0}
+{'text': '맞춰서 일반적인 야동 사이트에다가 내', 'start': 5816.239, 'duration': 6.281}
+{'text': '어떤 취향이나 판타지에 대한 검색을', 'start': 5820.119, 'duration': 5.841}
+{'text': '했는데 잘 안 나와 그러면은 좀', 'start': 5822.52, 'duration': 5.119}
+{'text': '조심할 필요가', 'start': 5825.96, 'duration': 4.4}
+{'text': '있어 그러면은 좀 어 그러면은 좀', 'start': 5827.639, 'duration': 6.08}
+{'text': '조심할 필요가 있는데', 'start': 5830.36, 'duration': 6.24}
+{'text': '어 내가 좀 진짜 리얼로 특이한 걸', 'start': 5833.719, 'duration': 6.44}
+{'text': '수도 있으니까 어 근데 내가 야동', 'start': 5836.6, 'duration': 8.0}
+{'text': '사이에다 내취 나 내 판타지를 검색해', 'start': 5840.159, 'duration': 8.761}
+{'text': '보니까 더어 나와 그럼 말해 남자 다', 'start': 5844.6, 'duration': 7.4}
+{'text': '해줘 진짜 이거', 'start': 5848.92, 'duration': 5.6}
+{'text': '진짜어야 여자 유튜버 중에 이런 사람', 'start': 5852.0, 'duration': 5.36}
+{'text': '없냐 나도 가서 보게 [\xa0__\xa0] 아이 진짜', 'start': 5854.52, 'duration': 5.159}
+{'text': '개꿀 팁이야 아', 'start': 5857.36, 'duration': 6.08}
+{'text': '진짜로어야 남자들 틀려 맞아 아 진짜', 'start': 5859.679, 'duration': 7.081}
+{'text': '어 남자들 틀려 맞아 응 거의', 'start': 5863.44, 'duration': 7.92}
+{'text': '그렇다니까 인정이야 어 진 정', 'start': 5866.76, 'duration': 8.52}
+{'text': '알았어음 아 감사합니다', 'start': 5871.36, 'duration': 3.92}
+{'text': '예음 침까지 흘려가면서 말하니까게', 'start': 5878.119, 'duration': 6.12}
+{'text': '분에 있는게', 'start': 5881.52, 'duration': 2.719}
+{'text': '아니 아 엄마 들어와서 그냥 아까', 'start': 5887.8, 'duration': 7.48}
+{'text': '보던 야동 마저 틀었다', 'start': 5891.679, 'duration': 3.601}
+{'text': '히네 잘 들었습니다 개소리 같지만', 'start': 5896.84, 'duration': 6.72}
+{'text': '진짜 맞 여러분들 백미가 가스라이팅', 'start': 5901.159, 'duration': 4.361}
+{'text': '하는 거예요 진짜 만약에 본인의', 'start': 5903.56, 'duration': 4.4}
+{'text': '취향이나 판타지를 좀 검 거 약간', 'start': 5905.52, 'duration': 3.92}
+{'text': '남자친구 좀 싫어할 수 있을 거 같아', 'start': 5907.96, 'duration': 3.4}
+{'text': '그래서 오킹 말대로 야동 사이트에다가', 'start': 5909.44, 'duration': 4.12}
+{'text': '검색해 봤어 키워드나 이런 것들을', 'start': 5911.36, 'duration': 4.52}
+{'text': '약간 이제 뭐 3대 이제 큰 대형', 'start': 5913.56, 'duration': 5.28}
+{'text': '사이트에다가 근데 맨 위에 막 별표', 'start': 5915.88, 'duration': 5.0}
+{'text': '달려 있는 영상이나 돈 내고 봐야', 'start': 5918.84, 'duration': 3.92}
+{'text': '되는 거거든요 그런게 있으면 매우', 'start': 5920.88, 'duration': 3.319}
+{'text': '안전한 거예요 그러니까 그게 그만큼', 'start': 5922.76, 'duration': 3.68}
+{'text': '메이저한 취향이라는 거고 나는', 'start': 5924.199, 'duration': 5.281}
+{'text': '특이하다고 생각할지 현정 어 나는', 'start': 5926.44, 'duration': 5.32}
+{'text': '특이하다고 생각할지 현정 굉장히', 'start': 5929.48, 'duration': 5.119}
+{'text': '보편적인 수준의 그거 때문에 왜냐면', 'start': 5931.76, 'duration': 5.04}
+{'text': '우리가 생각하는 진짜 이상한 취향', 'start': 5934.599, 'duration': 4.52}
+{'text': '있죠 진짜 남자들도 받아주기 힘든', 'start': 5936.8, 'duration': 5.12}
+{'text': '그런 취향들을 그 사이트에서 별표를', 'start': 5939.119, 'duration': 5.761}
+{'text': '안 달아 줘요 돈 내고 못 봐 그런', 'start': 5941.92, 'duration': 4.96}
+{'text': '진짜 어두운 데로 가야 돼 아 진짜', 'start': 5944.88, 'duration': 5.2}
+{'text': '그늘의 그늘로 가야 돼', 'start': 5946.88, 'duration': 3.2}
+{'text': '응 개소리 같겠지만 맞습니다 개소리', 'start': 5954.119, 'duration': 7.04}
+{'text': '저기 학생 시식하고 구매해 봐 그', 'start': 5957.76, 'duration': 6.24}
+{'text': '팩트 리얼 맞춰준다 오히려 취향이', 'start': 5961.159, 'duration': 5.361}
+{'text': '있어 주길', 'start': 5964.0, 'duration': 2.52}
+{'text': '바람 제가 요즘 유튜브에서 로몬 남자', 'start': 5967.44, 'duration': 5.44}
+{'text': '솔로 남자들에 대한 솔로몬 진짜', 'start': 5970.679, 'duration': 5.0}
+{'text': '여자들 이거 진짜 개꿀 팁인데 [\xa0__\xa0]', 'start': 5972.88, 'duration': 4.64}
+{'text': '나 업신 여기는 거 존나 봐 성을', 'start': 5975.679, 'duration': 4.321}
+{'text': '어떻게 물 진데 이거 그냥 성향', 'start': 5977.52, 'duration': 4.679}
+{'text': '어떠냐 물어봐 아 아우 나 이거 지금', 'start': 5980.0, 'duration': 4.36}
+{'text': '천기도 설이야 남자애들이 야 남자', 'start': 5982.199, 'duration': 3.881}
+{'text': '친구들이 나한테 DM 존 나온다고', 'start': 5984.36, 'duration': 4.52}
+{'text': '말하지 말라고 [\xa0__\xa0] 다들 켰다고', 'start': 5986.08, 'duration': 6.519}
+{'text': '진짜야 아이씨 근데 방금 같은 것들은', 'start': 5988.88, 'duration': 6.08}
+{'text': '남자들도 좋아 피곤하면 여친이 하고', 'start': 5992.599, 'duration': 4.921}
+{'text': '싶다고 해도 하기 싫을 수 있나요 아', 'start': 5994.96, 'duration': 4.88}
+{'text': '그럴 수 있죠 예 그 남자도 뭐 뭐', 'start': 5997.52, 'duration': 5.52}
+{'text': '에너자이저가 아니기 때문에 예', 'start': 5999.84, 'duration': 7.2}
+{'text': '시금 그쪽도 오박사 님을 아세요 따랑', 'start': 6003.04, 'duration': 6.32}
+{'text': '땅', 'start': 6007.04, 'duration': 2.32}
+{'text': '따랑 그러니까 남자는 어느 정도냐면', 'start': 6012.44, 'duration': 6.799}
+{'text': '딱 말씀드릴게요 만약에 너무 피곤해데', 'start': 6015.52, 'duration': 6.199}
+{'text': '여자 친구는 안 피곤해 그럴 수', 'start': 6019.239, 'duration': 4.48}
+{'text': '있잖아 난 오늘 일을 너무 열심히', 'start': 6021.719, 'duration': 4.601}
+{'text': '하고 왔어 내 여자친구는 방금 자고', 'start': 6023.719, 'duration': 5.321}
+{'text': '일어난 풀이야 내 여자친구 부엉이야', 'start': 6026.32, 'duration': 4.879}
+{'text': '그래가지고 어 갑자기 나 밤에 이제', 'start': 6029.04, 'duration': 5.119}
+{'text': '잘려고 가는데서', 'start': 6031.199, 'duration': 8.841}
+{'text': '하면서 맹금 존나해 그러면 힘들잖아', 'start': 6034.159, 'duration': 5.881}
+{'text': '어 힘들 수', 'start': 6042.0, 'duration': 4.56}
+{'text': '있잖아 그러면 이제 여자친구가 하기', 'start': 6044.04, 'duration': 5.32}
+{'text': '싫을 수 있냐고 하는데 하기 싫을 순', 'start': 6046.56, 'duration': 6.48}
+{'text': '있어 하기을 있는데 어차피 내 친구는', 'start': 6049.36, 'duration': 5.839}
+{'text': '반응할 거야 그러면은 여자친구한테', 'start': 6053.04, 'duration': 5.639}
+{'text': '넌지시 물어봐 그렇다면 어 그렇다면', 'start': 6055.199, 'duration': 5.361}
+{'text': '오늘은 좀 네가 능동적으로 돼보는 건', 'start': 6058.679, 'duration': 3.801}
+{'text': '어떨까 오늘은 네가 좀 진취적으로', 'start': 6060.56, 'duration': 4.88}
+{'text': '한번 나는 일단 어 오늘은 약간 좀', 'start': 6062.48, 'duration': 5.08}
+{'text': '파라우 메타로 가보는게 어때 물어볼', 'start': 6065.44, 'duration': 5.719}
+{'text': '수도 있잖아 아 진짜로', 'start': 6067.56, 'duration': 3.599}
+{'text': '어', 'start': 6079.84, 'duration': 3.0}
+{'text': '근데 결국 답정너 아니야 뭐 응 아니', 'start': 6085.84, 'duration': 6.92}
+{'text': '너무 힘들어 그러면 오케이야 어 내가', 'start': 6089.84, 'duration': 6.24}
+{'text': '너무 힘들어 막 그 내가 내가 좀', 'start': 6092.76, 'duration': 5.839}
+{'text': '부단히 노력을 해야 되고 막 만약에', 'start': 6096.08, 'duration': 5.039}
+{'text': '어 그러면은 이제 조금 하기 싫 힘들', 'start': 6098.599, 'duration': 3.921}
+{'text': '수도 있잖 나 오늘 너무 피곤한데', 'start': 6101.119, 'duration': 3.04}
+{'text': '잘게 그러 가지고', 'start': 6102.52, 'duration': 4.36}
+{'text': '뿌뿌 자고 그럼 이제 서로 속이 상할', 'start': 6104.159, 'duration': 5.201}
+{'text': '수가 있는데 만약에 여자친구는 완전', 'start': 6106.88, 'duration': 4.96}
+{'text': '불인데 나는 좀 피곤해 너무 많이', 'start': 6109.36, 'duration': 4.799}
+{'text': '근데 여자친 자꾸 옆에서 이렇게 후부', 'start': 6111.84, 'duration': 5.16}
+{'text': '해 그러면 내가 아 그러면 혐의를', 'start': 6114.159, 'duration': 7.161}
+{'text': '보자 어 그러면은 한번 아 아 진짜', 'start': 6117.0, 'duration': 6.719}
+{'text': '그러면 아 말 진짜 막말로 맞아', 'start': 6121.32, 'duration': 5.0}
+{'text': '아니야 내 말이 들려 그러면 괜찮아', 'start': 6123.719, 'duration': 7.121}
+{'text': '만약 친구가 본인도 진취적으로 오케이', 'start': 6126.32, 'duration': 7.0}
+{'text': '하면 나는 그냥 아 좋 걔 그러면', 'start': 6130.84, 'duration': 5.6}
+{'text': '오케이 그냥 그 진짜 편하게 그냥 아', 'start': 6133.32, 'duration': 6.44}
+{'text': '이게 서로 아 그만 알려주라고도 빨리', 'start': 6136.44, 'duration': 7.64}
+{'text': '사람 잖아 어 아 남자들 틀려 어', 'start': 6139.76, 'duration': 6.959}
+{'text': '아이 뭐야', 'start': 6144.08, 'duration': 5.76}
+{'text': '그냥 아나스타샤를 해버리네 그러면', 'start': 6146.719, 'duration': 5.801}
+{'text': '되는 거니까', 'start': 6149.84, 'duration': 2.68}
+{'text': '예 형 안아죠', 'start': 6156.88, 'duration': 6.719}
+{'text': '안아줘요', 'start': 6160.599, 'duration': 3.0}
+{'text': '안아줘요 약간 그런 느낌이죠 예 예', 'start': 6167.96, 'duration': 6.96}
+{'text': '그렇지만 그냥 그냥 뭐 어 여태까지', 'start': 6171.119, 'duration': 8.52}
+{'text': '늘 뭐 그냥 비동사 플러스 비동사', 'start': 6174.92, 'duration': 6.64}
+{'text': '플러스 그냥 동사형 이었다면 오늘은', 'start': 6179.639, 'duration': 4.881}
+{'text': '난 좀 비동사 피형 되어짐을 당하고', 'start': 6181.56, 'duration': 5.96}
+{'text': '싶다 이런 거 좀 아 해보자 어 아', 'start': 6184.52, 'duration': 7.0}
+{'text': '왜냐면 또 늘 내가 좀 너무', 'start': 6187.52, 'duration': 4.0}
+{'text': '어음 나 나는 늘 능동태 있지만', 'start': 6193.679, 'duration': 5.801}
+{'text': '오늘은 좀 수동태로 되어짐을 당하다', 'start': 6196.4, 'duration': 4.799}
+{'text': '어 해보고 싶다', 'start': 6199.48, 'duration': 4.32}
+{'text': '어 오늘가 너가 능동 라면 내가', 'start': 6201.199, 'duration': 4.201}
+{'text': '수동태가', 'start': 6203.8, 'duration': 5.799}
+{'text': '될게 약간 이러면서', 'start': 6205.4, 'duration': 4.199}
+{'text': '어 진짜 개쌉', 'start': 6211.719, 'duration': 3.88}
+{'text': '변태네 죄송한데 정상이라고 불러', 'start': 6215.8, 'duration': 4.2}
+{'text': '주세요 오자마자 맨날 디디 안산', 'start': 6222.88, 'duration': 5.44}
+{'text': '락스타 님', 'start': 6225.8, 'duration': 2.52}
+{'text': '감사합니다음', 'start': 6229.679, 'duration': 3.0}
+{'text': '죄송한데', 'start': 6236.239, 'duration': 5.801}
+{'text': '죄송한데 정상과 변태 남자들 세계에서', 'start': 6237.88, 'duration': 8.48}
+{'text': '정상과 변태는 이음 동의어입니다 그럼', 'start': 6242.04, 'duration': 5.88}
+{'text': '남자 엄청 지쳐 있어도 가슴만 질라', 'start': 6246.36, 'duration': 3.759}
+{'text': '하나면 풀린다는 거야 풀린다는게', 'start': 6247.92, 'duration': 5.88}
+{'text': '아니고 네가 네가 조금 더 열심히 해', 'start': 6250.119, 'duration': 6.361}
+{'text': '줘야지음 이게 왜 변태야 남자들 다', 'start': 6253.8, 'duration': 8.799}
+{'text': '이럴 텐데 남사 그지 아이 진짜 어', 'start': 6256.48, 'duration': 10.679}
+{'text': '개변태 말은 다르지만 같은 뜻이에요', 'start': 6262.599, 'duration': 9.241}
+{'text': '정상과 변태는 남자들 세상에서 내가', 'start': 6267.159, 'duration': 8.801}
+{'text': '변태라면 부부터 변태 내가 내가', 'start': 6271.84, 'duration': 8.56}
+{'text': '정상이라면 내가 변태라면 난 정상이야', 'start': 6275.96, 'duration': 8.44}
+{'text': '내가 병원에 가서 어 내', 'start': 6280.4, 'duration': 6.799}
+{'text': '신체 건강 검진을 받았는데 정상이', 'start': 6284.4, 'duration': 5.52}
+{'text': '떴어 그럼 난 변태야 무슨 말인지', 'start': 6287.199, 'duration': 5.361}
+{'text': '알아', 'start': 6289.92, 'duration': 2.64}
+{'text': '전세계 남자 90% 다 이래요 이게', 'start': 6295.76, 'duration': 5.399}
+{'text': '팩트예요 다 그렇지', 'start': 6298.52, 'duration': 6.44}
+{'text': '않겠죠 대부분 정상입니다 건강 우리', 'start': 6301.159, 'duration': 5.321}
+{'text': '어차피 확률 게임이야 나 너네', 'start': 6304.96, 'duration': 4.4}
+{'text': '남자친구 몰라 [\xa0__\xa0] 누구야 민석이가', 'start': 6306.48, 'duration': 5.48}
+{'text': '누구야 처음 봐 오늘 태어나서 처음', 'start': 6309.36, 'duration': 4.879}
+{'text': '봤어 너네 남자친구 누군지 몰라 너', 'start': 6311.96, 'duration': 7.52}
+{'text': '쌈 썸 누군지 몰라 먹어 어피', 'start': 6314.239, 'duration': 9.241}
+{'text': '라정 수의 남자들을 대할 때 어 가장', 'start': 6319.48, 'duration': 6.96}
+{'text': '확률이 높은 그 결을 나는 알려주는', 'start': 6323.48, 'duration': 6.04}
+{'text': '거야 이건 진짜 천기누설 급이다 진짜', 'start': 6326.44, 'duration': 5.96}
+{'text': '이거 개꿀 팁임 근데 리얼로 어', 'start': 6329.52, 'duration': 4.679}
+{'text': '여자들 본인의 취향에 얼마나', 'start': 6332.4, 'duration': 4.839}
+{'text': '마이너하고 메이지 잘 모르겠다 야동', 'start': 6334.199, 'duration': 4.96}
+{'text': '사이트 가서 검색해 내 남자친구가 내', 'start': 6337.239, 'duration': 4.0}
+{'text': '취향을 받아줄지 모르겠다 검색해 봐', 'start': 6339.159, 'duration': 4.96}
+{'text': '별표 있는지 확인만 하면 돼 남자들은', 'start': 6341.239, 'duration': 4.88}
+{'text': '그거 몰라 평생을', 'start': 6344.119, 'duration': 5.361}
+{'text': '섞 진짜로', 'start': 6346.119, 'duration': 6.361}
+{'text': '어', 'start': 6349.48, 'duration': 3.0}
+{'text': '내 친구 중에 막 다른 애가 발효된', 'start': 6354.08, 'duration': 3.559}
+{'text': '애도 있어 취향이 결국에는', 'start': 6355.96, 'duration': 4.08}
+{'text': '여자친구한테 말 못해 가지고 여자들은', 'start': 6357.639, 'duration': 4.641}
+{'text': '그런 걱정을 할 필요가 없다니까 본인', 'start': 6360.04, 'duration': 5.159}
+{'text': '취향이 검색해 봐 잘 안 나와 그럼', 'start': 6362.28, 'duration': 4.28}
+{'text': '썩혀 너도', 'start': 6365.199, 'duration': 4.321}
+{'text': '발효시켜 좀 다른 생각을 가져봐 다른', 'start': 6366.56, 'duration': 5.28}
+{'text': '취향을', 'start': 6369.52, 'duration': 2.32}
+{'text': '찾아보고 운동 시작한지 얼마 안 데고', 'start': 6376.119, 'duration': 4.801}
+{'text': '피곤해서 안 하고 싶대요', 'start': 6378.76, 'duration': 6.6}
+{'text': '음 남자 친구가 그러니까 그러면 봐봐', 'start': 6380.92, 'duration': 8.88}
+{'text': '아 씨발이야 남은 줘에서 별 심', 'start': 6385.36, 'duration': 6.4}
+{'text': '그래도 나는 지금', 'start': 6389.8, 'duration': 5.24}
+{'text': '굉장히 지금 15세 이용가를 유지하고', 'start': 6391.76, 'duration': 5.76}
+{'text': '있는 거야 나는 진짜 5는 아니고', 'start': 6395.04, 'duration': 5.8}
+{'text': '17 정도 어 진짜 19로 넘어가 봐', 'start': 6397.52, 'duration': 5.52}
+{'text': '커플은 좀 닥쳐 봐 아 만갱', 'start': 6400.84, 'duration': 5.319}
+{'text': '감사합니다 리미트 프 야 남자친구가', 'start': 6403.04, 'duration': 5.76}
+{'text': '운동 시작하지 얼마 안 됐고 피곤해서', 'start': 6406.159, 'duration': 5.56}
+{'text': '만약에 자기 너무 힘들대', 'start': 6408.8, 'duration': 6.6}
+{'text': '아 딱 물어볼게 너 어떻게 해야 될', 'start': 6411.719, 'duration': 5.121}
+{'text': '거', 'start': 6415.4, 'duration': 4.239}
+{'text': '같아 너 알걸', 'start': 6416.84, 'duration': 5.879}
+{'text': '[\xa0__\xa0] 너 어떻게 해야 될 거 같아', 'start': 6419.639, 'duration': 6.681}
+{'text': '너가 제발 조용이해 제발 야 이건', 'start': 6422.719, 'duration': 8.92}
+{'text': '남자들도 도와주는 거야 야 이건', 'start': 6426.32, 'duration': 5.319}
+{'text': '남자들도 아 야 그 남자친구가 아니야', 'start': 6435.28, 'duration': 6.48}
+{'text': '그 친고 치 하고 내가 정말 사랑하는', 'start': 6438.48, 'duration': 5.239}
+{'text': '그냥 동성 친구야 그냥 마음으로서', 'start': 6441.76, 'duration': 4.2}
+{'text': '동성으로 사랑하는 친구야 만약에 예를', 'start': 6443.719, 'duration': 5.96}
+{'text': '들어서 얘가 오늘 나랑 오늘 뭐 이제', 'start': 6445.96, 'duration': 5.96}
+{'text': '일 끝나고 저녁에 같이 레고를', 'start': 6449.679, 'duration': 4.721}
+{'text': '조립하기로 했어 어', 'start': 6451.92, 'duration': 4.88}
+{'text': '아니야 어 같이 뭐 레고를 조립하고', 'start': 6454.4, 'duration': 3.799}
+{'text': '해서 동성 친구라 만약에 동성', 'start': 6456.8, 'duration': 4.319}
+{'text': '친구라도네 뭐 예를 들어서 여진이랑', 'start': 6458.199, 'duration': 5.04}
+{'text': '어 그러면은 어 취민 생활을 같이', 'start': 6461.119, 'duration': 3.52}
+{'text': '하기로 했어 뭐 볼링을 치고 아', 'start': 6463.239, 'duration': 3.281}
+{'text': '볼링은 같이 할 만한 거 레고 조립을', 'start': 6464.639, 'duration': 3.281}
+{'text': '같이 하기로 했어 이렇게 뭐 페라리', 'start': 6466.52, 'duration': 2.8}
+{'text': '데이 통화를 같이 조립하기로 했어', 'start': 6467.92, 'duration': 3.48}
+{'text': '만약에', 'start': 6469.32, 'duration': 3.799}
+{'text': '근데 여진이가 나는 오늘 일이 별로', 'start': 6471.4, 'duration': 3.52}
+{'text': '안 힘들었는데 난 오늘 레고 조립에', 'start': 6473.119, 'duration': 4.321}
+{'text': '대한 그 의지가 매우 충만해 근데', 'start': 6474.92, 'duration': 4.36}
+{'text': '여진이는 레고 조립 못 하겠 너무', 'start': 6477.44, 'duration': 3.88}
+{'text': '피곤하대 아 오늘은 나 아 나 너무', 'start': 6479.28, 'duration': 3.959}
+{'text': '힘들어서 조립 이거 끼는 거는 못', 'start': 6481.32, 'duration': 4.68}
+{'text': '하고 아 좀 피곤한데 잘하겠는데', 'start': 6483.239, 'duration': 4.96}
+{'text': '이러면은 내가 나는 근데 레고 조립을', 'start': 6486.0, 'duration': 4.679}
+{'text': '너무 하고 싶어 그건 내내 동성', 'start': 6488.199, 'duration': 5.201}
+{'text': '친구여도 얘 내 친구가 너무 힘들잖아', 'start': 6490.679, 'duration': 4.721}
+{'text': '그러면 내가 좀 더 찾아서 한번', 'start': 6493.4, 'duration': 4.44}
+{'text': '해볼게 난 이건 계속 하고 싶다면', 'start': 6495.4, 'duration': 3.839}
+{'text': '레고', 'start': 6497.84, 'duration': 4.6}
+{'text': '조립을 찾아볼게 내가 찾 찾는 거', 'start': 6499.239, 'duration': 4.801}
+{'text': '힘든 거 내가 다 할테니까 너는 그럼', 'start': 6502.44, 'duration': 5.12}
+{'text': '조립만 해 어 친구여도 그런다고', 'start': 6504.04, 'duration': 7.559}
+{'text': '하물며 남자 친구면', 'start': 6507.56, 'duration': 6.32}
+{'text': '자기야 갑자기 레고 조립도 왜 이렇게', 'start': 6511.599, 'duration': 5.441}
+{'text': '하 너무 당연한 거잖아 너무 당연한', 'start': 6513.88, 'duration': 7.92}
+{'text': '거잖아 어 아 진짜 만약에 그래', 'start': 6517.04, 'duration': 7.559}
+{'text': '기만해 레고를 그러면은 그 이제', 'start': 6521.8, 'duration': 5.04}
+{'text': '남자친구와의 관계 남자친구 즘 운동도', 'start': 6524.599, 'duration': 3.881}
+{'text': '하고 너무 많이 힘들대 즘 너무', 'start': 6526.84, 'duration': 5.24}
+{'text': '힘든데 피곤해서 아 저 하기 싫은데', 'start': 6528.48, 'duration': 6.92}
+{'text': '만약 얘기 만약에 하물며 동성 친구도', 'start': 6532.08, 'duration': 5.599}
+{'text': '그러는데 너의 남자친구 너의 피앙새', 'start': 6535.4, 'duration': 5.16}
+{'text': '만약에 그럼 어떻게 해야 돼 어 그', 'start': 6537.679, 'duration': 6.641}
+{'text': '남자친구한테 바로 그냥 유튜브 어', 'start': 6540.56, 'duration': 6.079}
+{'text': 'DJ 퇴진 노래방 들어가 가지고 바로', 'start': 6544.32, 'duration': 6.72}
+{'text': '그냥 어 그냥 남자 끼기 그냥 넌', 'start': 6546.639, 'duration': 6.08}
+{'text': '끼기만 해라 나 그냥 알아서 할게', 'start': 6551.04, 'duration': 4.48}
+{'text': '내가 어 후 하면 되잖아 레고', 'start': 6552.719, 'duration': 6.4}
+{'text': '조립하는 것처럼 레고 조립을', 'start': 6555.52, 'duration': 7.56}
+{'text': '남자친구랑 진짜로', 'start': 6559.119, 'duration': 3.961}
+{'text': '어 레고 레고 레고 남자 친구가 밤에', 'start': 6566.4, 'duration': 5.6}
+{'text': '레고 조립 하고 싶을 때 친구해도', 'start': 6569.48, 'duration': 3.84}
+{'text': '그렇게 안돼 남자 친구만 어떻게', 'start': 6572.0, 'duration': 3.199}
+{'text': '해야겠어 네가 내가 다 할 수 있는데', 'start': 6573.32, 'duration': 3.72}
+{'text': '18 남자 이건 내가 안 알려 줘도', 'start': 6575.199, 'duration': 6.361}
+{'text': '돼 너 알아 어 아', 'start': 6577.04, 'duration': 4.52}
+{'text': '맞잖아 편집장님 이거 안 될 거', 'start': 6582.0, 'duration': 4.56}
+{'text': '같아요 허허 다 아는 거야 이건', 'start': 6584.52, 'duration': 3.24}
+{'text': '당연한 거야', 'start': 6586.56, 'duration': 3.52}
+{'text': '인간관계에서 같이 해야 되는 건데', 'start': 6587.76, 'duration': 4.64}
+{'text': '같이 원래 늘 하던 건데 레고', 'start': 6590.08, 'duration': 5.72}
+{'text': '조립을 어려워 테크닉 레고 테크닉', 'start': 6592.4, 'duration': 4.88}
+{'text': '되게 어려워 테크닉이 원래 어려운', 'start': 6595.8, 'duration': 6.359}
+{'text': '거야 어 해야 되는데 뭐야 이게', 'start': 6597.28, 'duration': 7.879}
+{'text': '만약에 아 테크닉 레고 테크닉이라고', 'start': 6602.159, 'duration': 5.601}
+{'text': '있습니다 레고의 테크닉이라고 있어요', 'start': 6605.159, 'duration': 4.44}
+{'text': '좀 어려워요 이거 막 엔진 조립 이거', 'start': 6607.76, 'duration': 5.399}
+{'text': '해야 되고 막 그래요 이게 어 엔진', 'start': 6609.599, 'duration': 5.161}
+{'text': '조립해 가지고 안에서 피스톤 움직이는', 'start': 6613.159, 'duration': 4.04}
+{'text': '것도 확인해야 돼 레고가 진짜야 이거', 'start': 6614.76, 'duration': 4.28}
+{'text': '내가 웃기게 야하게 얘기하는게 아니라', 'start': 6617.199, 'duration': 4.96}
+{'text': '진짜야 어 아 방님 감사합니다 고를', 'start': 6619.04, 'duration': 6.0}
+{'text': '위해서 아래에서 끼우기만 해 아이', 'start': 6622.159, 'duration': 6.401}
+{'text': '진짜 보여줄 아이', 'start': 6625.04, 'duration': 3.52}
+{'text': '진짜 아니 야 야 야 여기 엔진이', 'start': 6635.44, 'duration': 7.239}
+{'text': '있어 조립 엔진 피스톤 아마 증말', 'start': 6639.76, 'duration': 4.919}
+{'text': '여기 야 여기 엔진요 안에 보이지요', 'start': 6642.679, 'duration': 4.241}
+{'text': '안에 이게 피스톤이 그든 이게 내가', 'start': 6644.679, 'duration': 4.761}
+{'text': '굴리면 아 이게 노란색이라서 안', 'start': 6646.92, 'duration': 5.04}
+{'text': '보이는구나', 'start': 6649.44, 'duration': 3.96}
+{'text': '아 그러니까 리를 위해서 아래로', 'start': 6651.96, 'duration': 3.92}
+{'text': '피스톤을 어 봐봐 피스톤 있잖아 이게', 'start': 6653.4, 'duration': 5.679}
+{'text': '내가 앞바퀴가 이거', 'start': 6655.88, 'duration': 3.199}
+{'text': '어 아이 [\xa0__\xa0] 고장났네 이거 아씨 야', 'start': 6661.079, 'duration': 7.481}
+{'text': '안에 뭐가 이게 굴러야', 'start': 6665.36, 'duration': 3.2}
+{'text': '되는데 쿵짝 쿵짝 쿵짝짝 쿵짜 내박자', 'start': 6670.92, 'duration': 8.04}
+{'text': '속개 이거 원래', 'start': 6675.599, 'duration': 5.56}
+{'text': '되는데', 'start': 6678.96, 'duration': 3.96}
+{'text': '얼마나 답답하면 저렇게까지 설명을', 'start': 6681.159, 'duration': 4.04}
+{'text': '해키키', 'start': 6682.92, 'duration': 6.52}
+{'text': '키읔 어 된다 된다 응 자 봐봐여', 'start': 6685.199, 'duration': 6.44}
+{'text': '굴리아 뒤에 돌리면 피스트 움직는', 'start': 6689.44, 'duration': 4.32}
+{'text': '보이지 그 앞뒤로 왔다 갔다', 'start': 6691.639, 'duration': 4.401}
+{'text': '이렇게이이 이게 엔진이 움직인다고', 'start': 6693.76, 'duration': 5.56}
+{'text': '레고 테크닉이 이게 레고', 'start': 6696.04, 'duration': 3.28}
+{'text': '테크닉이라고', 'start': 6701.159, 'duration': 5.161}
+{'text': '이렇게이 테크닉만 한 거야 무슨', 'start': 6703.96, 'duration': 4.92}
+{'text': '얘기하는 거야', 'start': 6706.32, 'duration': 2.56}
+{'text': '지금', 'start': 6708.96, 'duration': 3.0}
+{'text': '피스톤도 테크닉이 중요하다는', 'start': 6712.199, 'duration': 4.281}
+{'text': '거지 어후 오늘 방송 조그마지 라네에', 'start': 6717.639, 'duration': 7.721}
+{'text': '너다 됐따 약간 그런', 'start': 6721.119, 'duration': 8.08}
+{'text': '느낌이에요 테크닉이 왔다', 'start': 6725.36, 'duration': 7.44}
+{'text': '갔다 남사스러운 철리 치워 저 저게', 'start': 6729.199, 'duration': 7.561}
+{'text': '왜 남사스러워 만야 저 이상 알았어', 'start': 6732.8, 'duration': 5.04}
+{'text': '누가', 'start': 6736.76, 'duration': 4.959}
+{'text': '뭐래 아무튼간에 어 남자친구가 요즘', 'start': 6737.84, 'duration': 6.16}
+{'text': '운동하느라 너무 힘들어 하면 친구도', 'start': 6741.719, 'duration': 4.241}
+{'text': '레고 조립을 같이 이런 레고 조립을', 'start': 6744.0, 'duration': 4.679}
+{'text': '하나 하더라도 놀이를 응 하나의', 'start': 6745.96, 'duration': 5.88}
+{'text': '플레이 놀이를 하나 하더라도 내', 'start': 6748.679, 'duration': 4.681}
+{'text': '친구가 더 힘들어하면 내가 좀 더', 'start': 6751.84, 'duration': 3.759}
+{'text': '찾아주고 내가 좀 더 하고 너는 그냥', 'start': 6753.36, 'duration': 4.12}
+{'text': '이것만 그냥 레고 내가 찾아준 거', 'start': 6755.599, 'duration': 4.841}
+{'text': '레고만 끼기만 해라 하면 되잖아', 'start': 6757.48, 'duration': 6.88}
+{'text': '하물며 남자 친구랑인스교환', 'start': 6760.44, 'duration': 3.92}
+{'text': '어 내가 만약에 레고를 조립하고 싶어', 'start': 6770.639, 'duration': 4.801}
+{'text': '내가 더 남자친구보다 원래 같이 하던', 'start': 6773.119, 'duration': 5.12}
+{'text': '건데 어 조립하 그리고 내가', 'start': 6775.44, 'duration': 5.4}
+{'text': '장담하는데 평소에는 남자친구가 좀 더', 'start': 6778.239, 'duration': 5.641}
+{'text': '열심히 찾아 줬을', 'start': 6780.84, 'duration': 3.04}
+{'text': '걸가 솔직하게', 'start': 6784.04, 'duration': 8.72}
+{'text': '얘기해봐여 운동하기 전에는 일반적으로', 'start': 6786.56, 'duration': 6.2}
+{'text': '[음악]', 'start': 6795.13, 'duration': 6.31}
+{'text': '어 주로 그런 편이지', 'start': 6796.88, 'duration': 6.719}
+{'text': '근데 여자가 운동하다 별로 재미', 'start': 6801.44, 'duration': 5.56}
+{'text': '없으면게 내고 테크닉도 재미가', 'start': 6803.599, 'duration': 7.0}
+{'text': '없대음 그건 다음 얘기하고 아 레고가', 'start': 6807.0, 'duration': 5.719}
+{'text': '이렇게 재밌는 거였네 어 남자친구가', 'start': 6810.599, 'duration': 4.281}
+{'text': '너무 힘들어한다 어 너무 어떻게 해야', 'start': 6812.719, 'duration': 6.0}
+{'text': '되냐 어 다 너는 정답을 알고 있어', 'start': 6814.88, 'duration': 6.239}
+{'text': '난 도망', 'start': 6818.719, 'duration': 2.4}
+{'text': '쳐야겠네요 아님 그 얘기야 야', 'start': 6821.88, 'duration': 5.839}
+{'text': '만약에 남자 친구가', 'start': 6825.48, 'duration': 6.84}
+{'text': '아야 자기가 힘들다 어 나 오늘 레고', 'start': 6827.719, 'duration': 6.641}
+{'text': '어 나 레고 안 볼래 아 나 레고', 'start': 6832.32, 'duration': 4.24}
+{'text': '레고 조립 안 할래 만약에 피곤한', 'start': 6834.36, 'duration': 3.799}
+{'text': '사람이 더 열심히 하면 돼 오가 오가', 'start': 6836.56, 'duration': 4.119}
+{'text': '24개월이다 24개월 오킹 데수 아', 'start': 6838.159, 'duration': 4.281}
+{'text': '나 오늘 레고조립 안 할래 만약에', 'start': 6840.679, 'duration': 3.601}
+{'text': '이렇게 해 그러면은 그럼 네가 막', 'start': 6842.44, 'duration': 3.56}
+{'text': '그까 지금 내가 얘기한 대로 원래', 'start': 6844.28, 'duration': 4.48}
+{'text': '친구여도 했던 걸 너가 나한테 물어볼', 'start': 6846.0, 'duration': 5.28}
+{'text': '필요도 없어 어 물어볼 필요도 없는데', 'start': 6848.76, 'duration': 4.28}
+{'text': '네가 친구한테 내가 지금 얘기했던', 'start': 6851.28, 'duration': 4.04}
+{'text': '대로 그대로 얘기해 만약에', 'start': 6853.04, 'duration': 6.8}
+{'text': '어 히야 야할 이야기 좋은나 재밌다', 'start': 6855.32, 'duration': 6.319}
+{'text': '아 자기야 오늘 레고 조립비 하기', 'start': 6859.84, 'duration': 3.48}
+{'text': '싫어 아 요즘 운동하느라 많이', 'start': 6861.639, 'duration': 4.161}
+{'text': '힘들었구나 아 그러면 일단 내가 그냥', 'start': 6863.32, 'duration': 4.799}
+{'text': '일단 한번 노력을 해 볼게 예', 'start': 6865.8, 'duration': 5.919}
+{'text': '남자친구야 아 싫다고 때려치라고 씨', 'start': 6868.119, 'duration': 6.12}
+{'text': '헤어져 당 형님 덕분에 제품이 잘', 'start': 6871.719, 'duration': 5.761}
+{'text': '팔리고 있어요 그럴 애는 없어 그럼', 'start': 6874.239, 'duration': 6.0}
+{'text': '너 잘못 사인 거야 어', 'start': 6877.48, 'duration': 6.4}
+{'text': '아면서 맞아 내가 미안해 만약에 너가', 'start': 6880.239, 'duration': 5.601}
+{'text': '아 내가 좀 더 해볼게 그 아 일단', 'start': 6883.88, 'duration': 3.799}
+{'text': '일단 네가 그냥 레고 조립을 시작을', 'start': 6885.84, 'duration': 6.0}
+{'text': '해 그러면 남자친구도 너무', 'start': 6887.679, 'duration': 6.721}
+{'text': '피곤해 너무 비곤 돼 여자친구의 그런', 'start': 6891.84, 'duration': 6.08}
+{'text': '어떤 어떤 그런 조금 더의 그런 희생', 'start': 6894.4, 'duration': 5.679}
+{'text': '어떤 노력 그런 어떤 아니야 아니야', 'start': 6897.92, 'duration': 5.0}
+{'text': '나 다리 나도 내가 그런 걸 보면서', 'start': 6900.079, 'duration': 4.481}
+{'text': '남자친구 다시 한번 더 생각을 하는', 'start': 6902.92, 'duration': 4.52}
+{'text': '거지 마음을 보면서 아 내가 잘못', 'start': 6904.56, 'duration': 5.88}
+{'text': '생각했다 어 그럼 바로 얘도 이제', 'start': 6907.44, 'duration': 8.48}
+{'text': '파이링 해야지 파이링 바로 그냥', 'start': 6910.44, 'duration': 5.48}
+{'text': '어이 거를', 'start': 6918.599, 'duration': 4.321}
+{'text': '씨 필요 없는 걸 물어보고 있어', 'start': 6920.639, 'duration': 4.56}
+{'text': '당연한 거를 씨 그냥 이거는 그냥', 'start': 6922.92, 'duration': 4.719}
+{'text': '남녀 관계가 아니어도 돼 동성 친구', 'start': 6925.199, 'duration': 4.44}
+{'text': '레고 조리 동성 친구끼리 레고 조리', 'start': 6927.639, 'duration': 3.801}
+{'text': '팔 때도 그렇게 되는', 'start': 6929.639, 'duration': 5.08}
+{'text': '건데 근데 우 피곤하다는 사람 자고', 'start': 6931.44, 'duration': 5.56}
+{'text': '하긴', 'start': 6934.719, 'duration': 2.281}
+{'text': '미안하잖아요 그냥', 'start': 6937.8, 'duration': 5.799}
+{'text': '씨 오늘 조립 세개 하자 불거 안', 'start': 6940.44, 'duration': 6.12}
+{'text': '뭐야도 할 수 있어', 'start': 6943.599, 'duration': 2.961}
+{'text': '조용이', 'start': 6948.599, 'duration': 6.12}
+{'text': '님 내고서 아빠랑 같이 조립해도', 'start': 6950.119, 'duration': 7.841}
+{'text': '돼지 그럼', 'start': 6954.719, 'duration': 3.241}
+{'text': '[\xa0__\xa0] 동성 친구끼리 되고 조리', 'start': 6958.44, 'duration': 5.32}
+{'text': '야 뭐 때문에 이렇게 열변을 토하는거', 'start': 6967.719, 'duration': 4.44}
+{'text': '그런 고민하는게 부럽다 나는 고민 안', 'start': 6970.32, 'duration': 5.799}
+{'text': '한지 하도 오래됐네 나도', 'start': 6972.159, 'duration': 3.96}
+{'text': '[\xa0__\xa0] 아 다시 한번 알려드립니다 원래', 'start': 6978.52, 'duration': 7.04}
+{'text': '이런 방송입니다 오해마세요', 'start': 6981.92, 'duration': 3.64}
+{'text': '[음악]', 'start': 6992.66, 'duration': 3.38}
+{'text': '아빠가고', 'start': 6994.239, 'duration': 3.351}
+{'text': '혼자지', 'start': 6996.04, 'duration': 4.64}
+{'text': '[음악]', 'start': 6997.59, 'duration': 3.09}
+{'text': '말아요 그', 'start': 7007.159, 'duration': 5.281}
+{'text': '다시', 'start': 7010.32, 'duration': 4.44}
+{'text': '헤어지자', 'start': 7012.44, 'duration': 6.08}
+{'text': '말아요 늦었지만 미속 면자 다 나가라', 'start': 7014.76, 'duration': 6.68}
+{'text': '혹시라도', 'start': 7018.52, 'duration': 2.92}
+{'text': '그 5개월인데 구치', 'start': 7025.48, 'duration': 4.32}
+{'text': '마렵다', 'start': 7029.88, 'duration': 3.0}
+{'text': '왜요 오파오파 오늘 시이지고 와땅', 'start': 7036.239, 'duration': 5.161}
+{'text': '백밀 귀엽', 'start': 7038.92, 'duration': 2.48}
+{'text': '고마워', 'start': 7045.36, 'duration': 3.0}
+{'text': '[음악]', 'start': 7048.71, 'duration': 5.969}
+{'text': '네네 했다 이제 백수다 축하해줘라', 'start': 7051.199, 'duration': 9.681}
+{'text': '미땡 마 고마워 망 아 감사합니다 예', 'start': 7054.679, 'duration': 10.241}
+{'text': '들어도 들어도 들어도 노래는 힘들다', 'start': 7060.88, 'duration': 4.04}
+{'text': '형', 'start': 7068.4, 'duration': 5.08}
+{'text': '오형 작년 국토 대장정 때 땅끝', 'start': 7071.079, 'duration': 4.201}
+{'text': '해남에서 당감 졌던 군인데 네이버', 'start': 7073.48, 'duration': 3.599}
+{'text': '카페에서 인터넷 판매 중에 게시물에', 'start': 7075.28, 'duration': 3.52}
+{'text': '유명 유튜버 오도', 'start': 7077.079, 'duration': 3.481}
+{'text': '맛있게으면', 'start': 7078.8, 'duration': 4.48}
+{'text': '주님 5만 원원 감사합니다 저희', 'start': 7080.56, 'duration': 5.28}
+{'text': '상업적 이용은 안 돼요 죄송한데 예', 'start': 7083.28, 'duration': 6.04}
+{'text': '5만 원 후원 감사합니다 감사합니다', 'start': 7085.84, 'duration': 6.799}
+{'text': '예음 상업적 이용은 저희는 이제 저', 'start': 7089.32, 'duration': 7.399}
+{'text': '그 다 그 대처를 하기 때문에 그러면', 'start': 7092.639, 'duration': 5.44}
+{'text': '이제 저 돈 주고 쓰는 사람들이', 'start': 7096.719, 'duration': 4.601}
+{'text': '병신이 되죠', 'start': 7098.079, 'duration': 3.241}
+{'text': '당연하게도음 아마 선박에서도 아마', 'start': 7102.119, 'duration': 3.6}
+{'text': '연락이 가고 그럴 거야 만약에 그런', 'start': 7104.36, 'duration': 3.52}
+{'text': '거', 'start': 7105.719, 'duration': 2.161}
+{'text': '있으면음 그런게 있으면 돈 주고', 'start': 7107.96, 'duration': 5.52}
+{'text': '써야지 어 합법 합당한 아 5만 원', 'start': 7109.92, 'duration': 6.6}
+{'text': '감사합니다 잘 먹었습니다', 'start': 7113.48, 'duration': 3.04}
+{'text': '예 올해 초에 이제 저 그 함부로 그', 'start': 7121.239, 'duration': 6.201}
+{'text': '2차 광고 쓰고 막 그지랄 하다가', 'start': 7125.44, 'duration': 5.719}
+{'text': '오늘도 백비는 혼자 외고를 조립합니다', 'start': 7127.44, 'duration': 6.84}
+{'text': '지금은 이제 다 처리가 됐는데 어', 'start': 7131.159, 'duration': 6.96}
+{'text': '끝까지 개기 던 업체들도 지금 다', 'start': 7134.28, 'duration': 3.839}
+{'text': '내렸습니다', 'start': 7143.52, 'duration': 5.24}
+{'text': '끝까지 그랬으면 내가 이제 그 저기', 'start': 7145.079, 'duration': 8.0}
+{'text': '뭐야 그 출연료 미지급 영상에다가 그', 'start': 7148.76, 'duration': 6.24}
+{'text': '업체까지 추가를 했겠죠', 'start': 7153.079, 'duration': 5.16}
+{'text': '제가데 뭐 다행히도 다들 이제 뭐', 'start': 7155.0, 'duration': 5.04}
+{'text': '하거나 그리고 아니면 이제 죄가', 'start': 7158.239, 'duration': 4.321}
+{'text': '없거나', 'start': 7160.04, 'duration': 2.52}
+{'text': '어 묘용 그래도 작년에 잠깐 나왔던', 'start': 7169.199, 'duration': 4.52}
+{'text': '거 오래까지 기다렸다 주문해 주는', 'start': 7172.04, 'duration': 3.559}
+{'text': '사람들 많아서 좋았어 아 우리 아레이', 'start': 7173.719, 'duration': 3.92}
+{'text': '님 아이고 5만 원 후원 감사합니다', 'start': 7175.599, 'duration': 4.361}
+{'text': '어 아이디 뭐 잘못 바꾼 거 같은데', 'start': 7177.639, 'duration': 4.401}
+{'text': '방송적인 거 같은 해남 감주 먹인 거', 'start': 7179.96, 'duration': 5.44}
+{'text': '같은데 아 5만 원 후원 감사합니다', 'start': 7182.04, 'duration': 5.079}
+{'text': '감사합니다', 'start': 7185.4, 'duration': 4.4}
+{'text': '어 빵이 이쁘긴 했어', 'start': 7187.119, 'duration': 6.6}
+{'text': '빵 아니고 감 얘기하는 거 같은데', 'start': 7189.8, 'duration': 3.919}
+{'text': '어 무슨 얘기 하는 거야', 'start': 7201.599, 'duration': 3.921}
+{'text': '너 혹시라도 그대', 'start': 7206.48, 'duration': 5.32}
+{'text': '곁에 있어서', 'start': 7212.199, 'duration': 3.641}
+{'text': '고마웠다고 그대다', 'start': 7217.119, 'duration': 4.04}
+{'text': '날 떠난다', 'start': 7221.32, 'duration': 5.08}
+{'text': '[음악]', 'start': 7223.66, 'duration': 5.419}
+{'text': '말요 아 목 아파 아 오늘 아까 전에', 'start': 7226.4, 'duration': 4.64}
+{'text': '방송 시작하면서 너무 힘들고 피곤해', 'start': 7229.079, 'duration': 5.08}
+{'text': '목 좀 목이 너무', 'start': 7231.04, 'duration': 3.119}
+{'text': '아프다 해주 근데 할 아 유강아 만원', 'start': 7235.159, 'duration': 8.881}
+{'text': '후원 고맙고 양갱아 만원 후원', 'start': 7239.84, 'duration': 4.2}
+{'text': '고마워 뭐야 둘 동 뭐야 뭐야 리', 'start': 7244.119, 'duration': 8.401}
+{'text': '뽀뽀해 뽀뽀해 아 감사합니다', 'start': 7247.32, 'duration': 5.2}
+{'text': '예', 'start': 7253.679, 'duration': 3.0}
+{'text': '[음악]', 'start': 7257.56, 'duration': 15.87}
+{'text': '랄랄라', 'start': 7278.04, 'duration': 3.0}
+{'text': '하이하이 오 돈 따 주미 아 10개월', 'start': 7281.48, 'duration': 3.49}
+{'text': '구독 감사합니다', 'start': 7284.0, 'duration': 4.039}
+{'text': '[음악]', 'start': 7284.97, 'duration': 3.069}
+{'text': '예 형 나 박재정 좋아해 형도 좋아해', 'start': 7290.56, 'duration': 8.8}
+{'text': '계속 그러고 싶어', 'start': 7295.679, 'duration': 3.681}
+{'text': '뭐라고', 'start': 7308.04, 'duration': 3.0}
+{'text': '그만하래라 날', 'start': 7313.84, 'duration': 5.359}
+{'text': '떠나지', 'start': 7316.199, 'duration': 3.0}
+{'text': '말아요라', 'start': 7321.079, 'duration': 6.361}
+{'text': '그게 좋은 사람이', 'start': 7323.199, 'duration': 7.241}
+{'text': '아니에요', 'start': 7327.44, 'duration': 3.0}
+{'text': '그대다시', 'start': 7331.119, 'duration': 6.401}
+{'text': '사랑한다 말 목 아픈 거 라네 난 형', 'start': 7333.52, 'duration': 8.76}
+{'text': '오래보고 싶어 혹시라도 그대', 'start': 7337.52, 'duration': 7.48}
+{'text': '같아 있어서', 'start': 7342.28, 'duration': 6.0}
+{'text': '고마웠다고 미팅 때 구독개 월수', 'start': 7345.0, 'duration': 6.04}
+{'text': '때리기 콘텐츠하자 어때 뒤졌다 아라고', 'start': 7348.28, 'duration': 5.72}
+{'text': '하면 계속하는 개고리 히', 'start': 7351.04, 'duration': 9.0}
+{'text': '아 오우야 울집에서 층간소음으로', 'start': 7354.0, 'duration': 6.04}
+{'text': '내려오겠다 불고', 'start': 7360.4, 'duration': 5.239}
+{'text': '있어 이래놓고 내일 목 아프다', 'start': 7362.639, 'duration': 8.801}
+{'text': '야라하면 가만 안 두 새끼들 씨', 'start': 7365.639, 'duration': 5.801}
+{'text': '지금', 'start': 7377.679, 'duration': 3.0}
+{'text': '아 어', 'start': 7396.719, 'duration': 4.161}
+{'text': '야 얘들아 저기 경은 기시', 'start': 7413.76, 'duration': 4.839}
+{'text': '거라', 'start': 7415.599, 'duration': 3.0}
+{'text': '왜과 함께 보내 메지를 입력해주세요', 'start': 7421.239, 'duration': 6.44}
+{'text': '초롱아 그건 입력을 한게 아니야 거기', 'start': 7424.44, 'duration': 7.48}
+{'text': '있는 걸 그대로 썼을 이지', 'start': 7427.679, 'duration': 4.241}
+{'text': '다시해', 'start': 7432.239, 'duration': 3.0}
+{'text': '개꿀 오오 장구벌레 장구벌레 구 마', 'start': 7442.159, 'duration': 6.96}
+{'text': '레 레', 'start': 7447.0, 'duration': 5.119}
+{'text': '마', 'start': 7449.119, 'duration': 3.0}
+{'text': '썸한달 반 넘었 망한 걸까요', 'start': 7452.719, 'duration': 6.4}
+{'text': '썸은 2주 안에 쇼를 봐야죠 특별한', 'start': 7455.52, 'duration': 5.88}
+{'text': '경우가', 'start': 7459.119, 'duration': 4.721}
+{'text': '아니고서는음 후과 함께 보낼 메시지를', 'start': 7461.4, 'duration': 6.719}
+{'text': '입력해 주세요음 끼 뭐야 입력 해마', 'start': 7463.84, 'duration': 7.319}
+{'text': '그걸 그대로 쓰는게', 'start': 7468.119, 'duration': 3.04}
+{'text': '아니고', 'start': 7478.599, 'duration': 4.6}
+{'text': '입력', 'start': 7480.199, 'duration': 6.281}
+{'text': '오에 입력하라는게 입력만 쓰라는게', 'start': 7483.199, 'duration': 6.241}
+{'text': '아니잖아 세개 공부하고 있는데', 'start': 7486.48, 'duration': 6.52}
+{'text': '짜증나네요이야 아 우리 좋다 아이고', 'start': 7489.44, 'duration': 7.08}
+{'text': '72명 레이드 아 감사합니다 어', 'start': 7493.0, 'duration': 5.559}
+{'text': '예전에 구독 100개 와서 그거 다', 'start': 7496.52, 'duration': 5.639}
+{'text': '있던 생각나네 추워 안녕하세요', 'start': 7498.559, 'duration': 7.801}
+{'text': '반갑습니다 우리 조다연 시청자', 'start': 7502.159, 'duration': 4.201}
+{'text': '여러분들음 후과 함께 보낼 메시지를', 'start': 7507.48, 'duration': 4.679}
+{'text': '입력해주세요 오데 킹지 우리 다연이도', 'start': 7509.76, 'duration': 6.12}
+{'text': '정말 재밌지만 어 얘는 이제 너무', 'start': 7512.159, 'duration': 7.04}
+{'text': '싸해요 술을 많이 먹고', 'start': 7515.88, 'duration': 7.6}
+{'text': '어이 약속이 되게 많아요 그래가지고', 'start': 7519.199, 'duration': 7.92}
+{'text': '여러분들이 이제 그 다연이 방송을', 'start': 7523.48, 'duration': 6.759}
+{'text': '보고 싶어도 못 볼 때가 많잖아요', 'start': 7527.119, 'duration': 5.921}
+{'text': '애가 좀 너무 이렇게 나태한 편이니까', 'start': 7530.239, 'duration': 7.041}
+{'text': '어 이제 다연히 이제 쉴 때는', 'start': 7533.04, 'duration': 8.199}
+{'text': '그러면은 어 저를 보시는 거를 조금', 'start': 7537.28, 'duration': 7.0}
+{'text': '추천을 드려 볼게요 예 제가 아까', 'start': 7541.239, 'duration': 4.88}
+{'text': '전에 방송 켜기 전에 다현이 방송을', 'start': 7544.28, 'duration': 5.12}
+{'text': '살짝 봤거든요 아 그 제 다연이 방', 'start': 7546.119, 'duration': 4.96}
+{'text': '다연이를 보지 말고 나를 보라는', 'start': 7549.4, 'duration': 4.319}
+{'text': '얘기가 아니 보이는 돼지 보기보다', 'start': 7551.079, 'duration': 4.12}
+{'text': '다연이를 보지 말고 나를 보라는', 'start': 7553.719, 'duration': 4.041}
+{'text': '얘기가 아니고 다연이가 안 할 때', 'start': 7555.199, 'duration': 6.161}
+{'text': '보다 보면 나하고도 정이', 'start': 7557.76, 'duration': 7.52}
+{'text': '쌓인다 이런 느낌이에요', 'start': 7561.36, 'duration': 3.92}
+{'text': '예 우리 형은 친구도 없고 살도 찌고', 'start': 7565.599, 'duration': 8.441}
+{'text': '말도 안 듣고 친 없 람', 'start': 7568.96, 'duration': 5.08}
+{'text': '예 약간 그런 느낌이죠 예', 'start': 7575.559, 'duration': 5.04}
+{'text': '사실 여기가 먼저인 했어요 아 [\xa0__\xa0]', 'start': 7581.159, 'duration': 6.881}
+{'text': '좋은 말 할 때 내 방송 보라고', 'start': 7584.639, 'duration': 4.96}
+{'text': '연어가', 'start': 7588.04, 'duration': 4.88}
+{'text': '예 연어', 'start': 7589.599, 'duration': 6.12}
+{'text': '연어가 본인들의', 'start': 7592.92, 'duration': 6.719}
+{'text': '고양이 산 위에요 무슨 말인지 알아요', 'start': 7595.719, 'duration': 7.52}
+{'text': '그러다가 먼 바다로 떠나요 왜 떠나요', 'start': 7599.639, 'duration': 5.92}
+{'text': '걔네요 존나이 없어 거의 살면 되는데', 'start': 7603.239, 'duration': 5.92}
+{'text': '근데 가요 일단 가니까 가요 어', 'start': 7605.559, 'duration': 8.361}
+{'text': '그러면 얘네가 어차피 돌아와요 연어가', 'start': 7609.159, 'duration': 6.881}
+{'text': '연어는 흐르는 강물을 거슬러 그', 'start': 7613.92, 'duration': 4.92}
+{'text': '들어보셨죠 예 안녕하세요 앞에 보이는', 'start': 7616.04, 'duration': 5.599}
+{'text': '돼지 생각보다 사랑 같죠 예 아까', 'start': 7618.84, 'duration': 6.64}
+{'text': '다연히 방송 보니까 그 되게 그 김', 'start': 7621.639, 'duration': 5.56}
+{'text': '분하고 같이 방송하고 있는 거 저도', 'start': 7625.48, 'duration': 4.36}
+{'text': '봤어요', 'start': 7627.199, 'duration': 2.641}
+{'text': '예음 자녀기 말고요', 'start': 7635.639, 'duration': 5.92}
+{'text': '자녀기 형도 길긴', 'start': 7639.079, 'duration': 6.08}
+{'text': '긴데음 젊은 찬녀 형 예 하고 이재율', 'start': 7641.559, 'duration': 5.64}
+{'text': '님', 'start': 7645.159, 'duration': 4.721}
+{'text': '어 그냥 옆집 형이다 생각하고', 'start': 7647.199, 'duration': 6.641}
+{'text': '욕도하고 놀리기도 하고 다 해보는', 'start': 7649.88, 'duration': 3.96}
+{'text': '거예요네 제가 오늘또 같은 이재율', 'start': 7655.159, 'duration': 8.201}
+{'text': '씨하고 같은 그이 정당이라고 하나요', 'start': 7659.48, 'duration': 6.8}
+{'text': '거기에 이제 그 강현석 형님하고', 'start': 7663.36, 'duration': 6.44}
+{'text': '오 우리는 마트 행인데 그 뭐야 오늘', 'start': 7666.28, 'duration': 6.399}
+{'text': '촬영을 하고 왔기', 'start': 7669.8, 'duration': 2.879}
+{'text': '때문에음 맞아요 이거 머리 노란', 'start': 7672.76, 'duration': 5.24}
+{'text': '감자형', 'start': 7675.4, 'duration': 2.6}
+{'text': '예 저희가 맨날 강원도 이렇게 강원도', 'start': 7684.8, 'duration': 5.56}
+{'text': '대표 강원도 대표 감자 감자 감자', 'start': 7688.239, 'duration': 4.4}
+{'text': '했더니 분 감자 머리를 하고 왔더라고', 'start': 7690.36, 'duration': 6.719}
+{'text': '어 황금 감자 됐어 머리가 엄청 노래', 'start': 7692.639, 'duration': 4.44}
+{'text': '지금음', 'start': 7697.44, 'duration': 3.0}
+{'text': '오늘도 아까 그 얘기했던게 이제', 'start': 7707.76, 'duration': 6.319}
+{'text': '그 형은 제수 없어 자세', 'start': 7710.8, 'duration': 5.72}
+{'text': '고마하자에 아까 이제 그 현석이 형이', 'start': 7714.079, 'duration': 5.241}
+{'text': '머리를 너무 노랗게 염색하고 와가지고', 'start': 7716.52, 'duration': 6.079}
+{'text': '뭐예 뭐 벌칙에 이러 얘기하다가 어', 'start': 7719.32, 'duration': 4.759}
+{'text': '막 우리가 그 갖고 놀리다가 이제', 'start': 7722.599, 'duration': 4.361}
+{'text': '희관이 형도 놀리길래 아 희관 형님', 'start': 7724.079, 'duration': 5.56}
+{'text': '희형 색 한번해 보시죠 했는데 희관', 'start': 7726.96, 'duration': 4.56}
+{'text': '형님이 나는 염색하면 다 빠져서 안', 'start': 7729.639, 'duration': 4.44}
+{'text': '된다를 한 10분 갑분 싸 와 가지고', 'start': 7731.52, 'duration': 4.639}
+{'text': '한 10분 정도 쉬었네 어 담배한대', 'start': 7734.079, 'duration': 4.401}
+{'text': '식피', 'start': 7736.159, 'duration': 2.321}
+{'text': '보고음 그니까 거기까지는 괜찮았어', 'start': 7745.199, 'duration': 5.48}
+{'text': '근데 이제', 'start': 7748.559, 'duration': 5.08}
+{'text': '희가 염색 나는 저렇게 염색 못 해또', 'start': 7750.679, 'duration': 5.241}
+{'text': '받아 줬어 또 나는 저렇게 염색 못', 'start': 7753.639, 'duration': 5.201}
+{'text': '해 그서 아 뭐 머리 이거 저기에서', 'start': 7755.92, 'duration': 4.6}
+{'text': '두 피까지 들어가면은 이게 약해', 'start': 7758.84, 'duration': 3.839}
+{'text': '가지고 다 빠져 말해가지고 우리끼리', 'start': 7760.52, 'duration': 4.96}
+{'text': '하 이간 형님이 한 번 더 친 거야', 'start': 7762.679, 'duration': 5.52}
+{'text': '어 나는 그래서 뭐야 그 두피까지', 'start': 7765.48, 'duration': 5.159}
+{'text': '하면 안 되고 염색을 하려면은이', 'start': 7768.199, 'duration': 5.161}
+{'text': '머리카락만 염색 이렇게 여기만 이렇게', 'start': 7770.639, 'duration': 5.281}
+{'text': '안 안쪽 말고 겉에 쪽만 해야 된다', 'start': 7773.36, 'duration': 5.839}
+{'text': '그래서 내가 아 이분 방송 처음', 'start': 7775.92, 'duration': 7.84}
+{'text': '보는데 원래 처요 했다가', 'start': 7779.199, 'duration': 4.561}
+{'text': '어', 'start': 7787.32, 'duration': 3.6}
+{'text': '가뿐 싸 가지고 다들 담배 피고', 'start': 7788.84, 'duration': 4.799}
+{'text': '오시죠 하면서 이제 형들이 데리고', 'start': 7790.92, 'duration': 5.08}
+{'text': '나가더라고요 담배 안 피는데요 그니까', 'start': 7793.639, 'duration': 4.48}
+{'text': '병민 일단 나와라 저는 담배 안 빼서', 'start': 7796.0, 'duration': 4.4}
+{'text': '안 나가든 밖에 추워요 나오라고', 'start': 7798.119, 'duration': 5.761}
+{'text': '새끼야 해가지고', 'start': 7800.4, 'duration': 3.48}
+{'text': '혼나고 약간 그런', 'start': 7814.199, 'duration': 6.04}
+{'text': '느낌이', 'start': 7817.239, 'duration': 3.0}
+{'text': '그래서 오늘 많이', 'start': 7821.04, 'duration': 4.84}
+{'text': '맞았구나음 한대도 안 맞았어 맞은', 'start': 7823.04, 'duration': 4.76}
+{'text': '얼굴이 아니야 지금 오해가 있는 거', 'start': 7825.88, 'duration': 4.199}
+{'text': '같아 어 이거 맞은 얼굴이 한 대나', 'start': 7827.8, 'duration': 4.64}
+{'text': '맞지 않았어 나는', 'start': 7830.079, 'duration': 5.881}
+{'text': '어 어쩐지', 'start': 7832.44, 'duration': 7.52}
+{'text': '부었다고 그냥 찐 거야', 'start': 7835.96, 'duration': 4.0}
+{'text': '미친놈아 철 형님 여기 펀치 필요할', 'start': 7845.0, 'duration': 5.679}
+{'text': '것', 'start': 7848.52, 'duration': 2.159}
+{'text': '같습니다에 심하긴 심하네 심하긴 뭐가', 'start': 7851.36, 'duration': 5.759}
+{'text': '심해 어쩐지 평소에 맞고 다니나', 'start': 7860.36, 'duration': 6.319}
+{'text': '했더니 자체 얼마나 오래 맞은 거야', 'start': 7864.239, 'duration': 5.32}
+{'text': '진짜 온몸이 다 부었 시오네음 뭔 마', 'start': 7866.679, 'duration': 5.721}
+{'text': '골고루 맞았나 봐 골고루 부었어 무슨', 'start': 7869.559, 'duration': 5.761}
+{'text': '뭐 고무고무 총난타 씨 얼마나 두드려', 'start': 7872.4, 'duration': 6.36}
+{'text': '맞은 거야 키키키키키키키키키', 'start': 7875.32, 'duration': 3.44}
+{'text': '내가 뭐 철이라고 담금질을 왜 하냐고', 'start': 7880.32, 'duration': 5.6}
+{'text': '나를 왜 때려', 'start': 7883.079, 'duration': 2.841}
+{'text': '계속 우리한테는 다 털어놔 때린', 'start': 7887.04, 'duration': 5.0}
+{'text': '사람이', 'start': 7890.599, 'duration': 4.801}
+{'text': '잘못이지 탄수화물 탄수화 물리 때렸다', 'start': 7892.04, 'duration': 7.559}
+{'text': '[\xa0__\xa0] 존나 맛있다 못', 'start': 7895.4, 'duration': 4.199}
+{'text': '끊겠어', 'start': 7907.159, 'duration': 3.0}
+{'text': '어우 있어서', 'start': 7916.76, 'duration': 3.72}
+{'text': '고마웠다고 수하물 개존맛 리은 키', 'start': 7921.639, 'duration': 9.08}
+{'text': '키읔 이게 웬 일이야 이게 무슨', 'start': 7925.4, 'duration': 8.199}
+{'text': '일이야 오늘도', 'start': 7930.719, 'duration': 6.36}
+{'text': '힘들구만 지금 내 입술을 보는', 'start': 7933.599, 'duration': 6.48}
+{'text': '그대에', 'start': 7937.079, 'duration': 3.0}
+{'text': '아', 'start': 7951.079, 'duration': 4.801}
+{'text': '헤헷 저 죄송한데 오줌 오줌 좀 깔기', 'start': 7952.599, 'duration': 5.841}
+{'text': '오겠습니다', 'start': 7955.88, 'duration': 5.279}
+{'text': '예 우리 무슨 사이야 말고 썸 끝내기', 'start': 7958.44, 'duration': 3.56}
+{'text': '좋은 말', 'start': 7961.159, 'duration': 3.241}
+{'text': '추천해주세요 우리 무슨 사이야 말고', 'start': 7962.0, 'duration': 5.04}
+{'text': '썸 끝내기 좋은', 'start': 7964.4, 'duration': 5.4}
+{'text': '말이야', 'start': 7967.04, 'duration': 4.8}
+{'text': '뭐 꼭 우리 무슨 사이야 막 그렇게', 'start': 7969.8, 'duration': 5.319}
+{'text': '어 막 [\xa0__\xa0] 그 저 뭐야 죄송한 젖', 'start': 7971.84, 'duration': 4.96}
+{'text': '같은 그 여운 좀 안 남기면 안되', 'start': 7975.119, 'duration': 5.401}
+{'text': '사귀자고 해', 'start': 7976.8, 'duration': 3.72}
+{'text': '어', 'start': 7992.84, 'duration': 3.0}
+{'text': '아니면', 'start': 7996.96, 'duration': 3.0}
+{'text': '야 오뱅이 너네 남친이', 'start': 8000.199, 'duration': 8.201}
+{'text': '돼라 아니면 필리핀을 같이 가자', 'start': 8003.639, 'duration': 4.761}
+{'text': '그래 필립 뭐 확신이 없어서요 얼렁', 'start': 8009.599, 'duration': 5.881}
+{'text': '화장실 다녀오셔 내가 너까지만 딱', 'start': 8013.88, 'duration': 4.719}
+{'text': '솔루션 제공해 주고', 'start': 8015.48, 'duration': 3.119}
+{'text': '갈게 나랑 밥 먹을래 죽을래 한마디', 'start': 8020.28, 'duration': 6.439}
+{'text': '하면 됩니다 필리핀을 가자고 해', 'start': 8023.48, 'duration': 5.199}
+{'text': '그래서 필리핀을 데려가', 'start': 8026.719, 'duration': 4.601}
+{'text': '거기서 총을 한한 자로 사 권총 같은', 'start': 8028.679, 'duration': 6.601}
+{'text': '거 한 17만 원 18만 원이면 산대', 'start': 8031.32, 'duration': 8.52}
+{'text': '어 총 환자로 사서 그걸 딱 이렇게', 'start': 8035.28, 'duration': 7.279}
+{'text': '총 파지를 한 다음에 갖고 가지 마', 'start': 8039.84, 'duration': 4.239}
+{'text': '요렇게 들어 그냥 만약에 이게 총이', 'start': 8042.559, 'duration': 4.0}
+{'text': '이렇게 생겼으면이 상태로 들고 가면', 'start': 8044.079, 'duration': 5.281}
+{'text': '도망가 그러지 말고 이렇게 들고가', 'start': 8046.559, 'duration': 5.961}
+{'text': '그냥 총을 그냥 이렇게 이렇게만 들고', 'start': 8049.36, 'duration': 5.799}
+{'text': '가서 걔가 그러면 이제 어 하면서', 'start': 8052.52, 'duration': 4.639}
+{'text': '약간 그 필리핀 그 해변가에 있는', 'start': 8055.159, 'duration': 5.48}
+{'text': '약간 야야 듣지마 다다 탁자에 이제', 'start': 8057.159, 'duration': 5.801}
+{'text': '맥주 두 개 시켜 놓고 기다리고', 'start': 8060.639, 'duration': 5.761}
+{'text': '있었겠지 들고 당 쳐 걔가 어 뭐야', 'start': 8062.96, 'duration': 4.88}
+{'text': '남자애가 이렇게 할 거 아니야 그러', 'start': 8066.4, 'duration': 3.799}
+{'text': '여자애야 남자야 아무튼 남자든', 'start': 8067.84, 'duration': 6.319}
+{'text': '여자간에 당 쳐 그다음 걔한테', 'start': 8070.199, 'duration': 9.321}
+{'text': '얘기해 야야 그냥 오줌이 아까이 기러', 'start': 8074.159, 'duration': 5.361}
+{'text': '가라 어', 'start': 8079.92, 'duration': 5.56}
+{'text': '다음에 게임을', 'start': 8083.28, 'duration': 5.24}
+{'text': '시작하지네네 네가 엔조이 나 여기서', 'start': 8085.48, 'duration': 6.48}
+{'text': '죽는 거지 하고서 총을 줘', 'start': 8088.52, 'duration': 6.559}
+{'text': '걔한테 그렇게 하면은 아무튼 썸이', 'start': 8091.96, 'duration': 5.52}
+{'text': '끝나든 네가 죽든 둘 중 하나 나', 'start': 8095.079, 'duration': 3.921}
+{'text': '오줌까지 너 이거 진지하게 드린 거', 'start': 8097.48, 'duration': 4.719}
+{'text': '아니지 진짜 사고다', 'start': 8099.0, 'duration': 3.199}
+{'text': '이거 바라바라 빠빠 나가 오늘의', 'start': 8103.96, 'duration': 9.52}
+{'text': '오늘의 개소리 똑똑 당 내 엔조이', 'start': 8109.0, 'duration': 6.96}
+{'text': '여기서 죽는 거지 진짜 개소리 하니까', 'start': 8113.48, 'duration': 6.36}
+{'text': '뭘 털리 방금 우 방금 옷 입은 사람', 'start': 8115.96, 'duration': 6.96}
+{'text': '돼지인가요 밀정을 재밌게 보신 분들', 'start': 8119.84, 'duration': 5.96}
+{'text': '사람가 오늘의 최고의 개소리 기념', 'start': 8122.92, 'duration': 5.44}
+{'text': '세레머니 중 샤바라', 'start': 8125.8, 'duration': 5.56}
+{'text': '빠빠', 'start': 8128.36, 'duration': 3.0}
+{'text': '샤바라 오 오 오 춤추니까 오 줌 더', 'start': 8137.36, 'duration': 6.239}
+{'text': '마려 슉 싹싹', 'start': 8141.04, 'duration': 5.559}
+{'text': '싹싹', 'start': 8143.599, 'duration': 3.0}
+{'text': '싹싹싹', 'start': 8146.8, 'duration': 3.0}
+{'text': '오 오 뽀님들 사랑해요 쭉쭉 더지는', 'start': 8150.36, 'duration': 4.04}
+{'text': '맨날 이상한 말하면서 뽀드 해요 존나', 'start': 8152.559, 'duration': 4.64}
+{'text': '오 노래 안 들고', 'start': 8154.4, 'duration': 2.799}
+{'text': '갔어 아니 개소리도 정도것 개소리여', 'start': 8158.8, 'duration': 6.12}
+{'text': '야', 'start': 8162.599, 'duration': 2.321}
+{'text': '웃지', 'start': 8176.719, 'duration': 3.0}
+{'text': '너를', 'start': 8584.439, 'duration': 3.481}
+{'text': '[음악]', 'start': 8585.56, 'duration': 3.7}
+{'text': '그리워하듯', 'start': 8587.92, 'duration': 4.469}
+{'text': '[음악]', 'start': 8589.26, 'duration': 3.129}
+{'text': '그리워하듯', 'start': 8596.08, 'duration': 3.0}
+{'text': '해을', 'start': 8601.56, 'duration': 6.759}
+{'text': '수내 다시', 'start': 8604.479, 'duration': 3.84}
+{'text': '돌아왔어', 'start': 8615.479, 'duration': 4.92}
+{'text': '아', 'start': 8617.399, 'duration': 3.0}
+{'text': '아', 'start': 8626.08, 'duration': 3.0}
+{'text': '저 표정 옛날에 봐서', 'start': 8652.68, 'duration': 2.88}
+{'text': '정답', 'start': 8656.0, 'duration': 3.0}
+{'text': '잊을 수 없나', 'start': 8662.88, 'duration': 3.84}
+{'text': '봐 하', 'start': 8668.76, 'duration': 4.28}
+{'text': '살락', 'start': 8673.76, 'duration': 3.0}
+{'text': '아 아', 'start': 8678.72, 'duration': 6.759}
+{'text': '피곤해', 'start': 8682.479, 'duration': 3.0}
+{'text': '그리워하다 그리워해', 'start': 8685.96, 'duration': 4.479}
+{'text': '돼', 'start': 8700.279, 'duration': 3.0}
+{'text': '스', 'start': 8715.88, 'duration': 3.0}
+{'text': '따라라 방이다 녹방 아 피곤해 아', 'start': 8732.52, 'duration': 7.4}
+{'text': '피곤해', 'start': 8737.76, 'duration': 3.92}
+{'text': '아', 'start': 8739.92, 'duration': 3.96}
+{'text': '살려줘', 'start': 8741.68, 'duration': 4.2}
+{'text': '어', 'start': 8743.88, 'duration': 5.84}
+{'text': '피곤해 어 어', 'start': 8745.88, 'duration': 6.84}
+{'text': '살려줘', 'start': 8749.72, 'duration': 3.0}
+{'text': '어 이게', 'start': 8757.8, 'duration': 7.96}
+{'text': '웬일이야 이게 무슨 40개월 올리', 'start': 8760.399, 'duration': 6.641}
+{'text': '몰리 떡', 'start': 8765.76, 'duration': 5.16}
+{'text': '나일로 40개월', 'start': 8767.04, 'duration': 3.88}
+{'text': '고마로 지금 배고픈데 나면 부셔', 'start': 8771.0, 'duration': 4.439}
+{'text': '먹을까 다 척추수술 1700만 원', 'start': 8773.68, 'duration': 4.04}
+{'text': '척추수술 1700만 원 면', 'start': 8775.439, 'duration': 5.96}
+{'text': '맛있겠 척추 수술 1700만 원이야', 'start': 8777.72, 'duration': 5.639}
+{'text': '이렇게 계속 앉아 있다가 1700만', 'start': 8781.399, 'duration': 5.321}
+{'text': '원 내고 척추 수술해야 해 아 [\xa0__\xa0]', 'start': 8783.359, 'duration': 5.841}
+{'text': '1700만원 언제 벌지 여러분 화면속', 'start': 8786.72, 'duration': 4.08}
+{'text': '이것이 바로 돼지입니다 드물기 진행을', 'start': 8789.2, 'duration': 3.44}
+{'text': '가지고 있어요 99만 9,000원', 'start': 8790.8, 'duration': 4.16}
+{'text': '언제', 'start': 8792.64, 'duration': 2.32}
+{'text': '벌지', 'start': 8796.92, 'duration': 5.399}
+{'text': '큰일이다 백이 일어나기 9시간 전 어', 'start': 8799.479, 'duration': 5.081}
+{'text': '아씨', 'start': 8802.319, 'duration': 4.641}
+{'text': '99만 우가 들어왔는데이 사람 왜', 'start': 8804.56, 'duration': 5.04}
+{'text': '이러고 있나요 8,000원 언제', 'start': 8806.96, 'duration': 6.12}
+{'text': '벌지 왜 이러고 있냐고 굉장히 힘든', 'start': 8809.6, 'duration': 4.719}
+{'text': '상황이기', 'start': 8813.08, 'duration': 4.76}
+{'text': '때문이지 수술은 꼭 하는', 'start': 8814.319, 'duration': 5.761}
+{'text': '거냐 자세를 고칠 생각을 안 하고', 'start': 8817.84, 'duration': 4.32}
+{'text': '벌어서 수술할 생각을 하는 뱅뱅', 'start': 8820.08, 'duration': 6.6}
+{'text': '1699 7,000원 언제 벌지', 'start': 8822.16, 'duration': 4.52}
+{'text': '아 아 수술하고 싶어 1699', 'start': 8829.16, 'duration': 6.56}
+{'text': '6,000원 언제', 'start': 8833.16, 'duration': 4.36}
+{'text': '벌지', 'start': 8835.72, 'duration': 8.28}
+{'text': '이제 얼마게 16 1700 1699', 'start': 8837.52, 'duration': 6.48}
+{'text': '어', 'start': 8846.279, 'duration': 7.881}
+{'text': '4 아 어지러워 아 뭐 너무', 'start': 8848.16, 'duration': 6.0}
+{'text': '힘들다', 'start': 8865.68, 'duration': 3.0}
+{'text': '음 13살 연상 남자랑 결혼하는 법', 'start': 8885.04, 'duration': 4.92}
+{'text': '알려', 'start': 8887.72, 'duration': 2.24}
+{'text': '주세요 좀 자 우리끼리 알아서 놀고', 'start': 8890.04, 'duration': 4.96}
+{'text': '[음악]', 'start': 8893.38, 'duration': 5.099}
+{'text': '있을게 53', 'start': 8895.0, 'duration': 7.68}
+{'text': '아 치킨 좋아하는나 초장기 구독', 'start': 8898.479, 'duration': 6.241}
+{'text': '고마워', 'start': 8902.68, 'duration': 6.28}
+{'text': '해 13살 연상이랑 사귀는 법 제일', 'start': 8904.72, 'duration': 7.08}
+{'text': '쉬운 건 네가 서른이 되는 거야 그', 'start': 8908.96, 'duration': 6.72}
+{'text': '사람이 4셋이 되고 그러면은', 'start': 8911.8, 'duration': 6.76}
+{'text': '뭐 엄청난 사회 문매 아진 안 맞을', 'start': 8915.68, 'duration': 5.12}
+{'text': '수', 'start': 8918.56, 'duration': 2.24}
+{'text': '있어', 'start': 8925.6, 'duration': 3.0}
+{'text': '25 38은', 'start': 8936.6, 'duration': 5.679}
+{'text': '좀 뭐야 왜 계란후라이처럼 있어 아', 'start': 8939.439, 'duration': 5.441}
+{'text': '뜨거 원님 17개월 감사합니다', 'start': 8942.279, 'duration': 7.04}
+{'text': '응 38만 논난 거지', 'start': 8944.88, 'duration': 4.439}
+{'text': '뭐음', 'start': 8955.52, 'duration': 3.0}
+{'text': '털썩 좀 많이 늦었다 하이하이 근데', 'start': 8961.8, 'duration': 6.16}
+{'text': '왜저러고 있지 너무', 'start': 8964.279, 'duration': 3.681}
+{'text': '힘들어', 'start': 8985.52, 'duration': 3.0}
+{'text': '백미 하이 바람 빠진 풍선 같 바람', 'start': 8994.2, 'duration': 5.32}
+{'text': '다시', 'start': 8997.12, 'duration': 2.4}
+{'text': '떴어 질 수', 'start': 8999.8, 'duration': 7.559}
+{'text': '없나봐 다시', 'start': 9003.52, 'duration': 3.839}
+{'text': '돌아와줘 그냥 다시 누워라', 'start': 9013.439, 'duration': 5.0}
+{'text': '깨고 있어', 'start': 9020.08, 'duration': 4.68}
+{'text': '씨 누가 다시 바람 좀', 'start': 9021.88, 'duration': 4.76}
+{'text': '빼줘', 'start': 9024.76, 'duration': 5.76}
+{'text': '아 아우', 'start': 9026.64, 'duration': 3.88}
+{'text': '잘자 상표 형한테 카톡', 'start': 9040.359, 'duration': 9.401}
+{'text': '왔네 민아 덕의 팔로우가 가 쭉쭉', 'start': 9043.2, 'duration': 6.56}
+{'text': '고마옹 여러분들 그 오늘 제가 그', 'start': 9050.279, 'duration': 9.521}
+{'text': '인스타 그 인스타에 올린 거', 'start': 9054.439, 'duration': 5.361}
+{'text': '그 저기 제가 태그했어요', 'start': 9060.0, 'duration': 8.92}
+{'text': '제목에 상표명 아이디거래', 'start': 9064.04, 'duration': 4.88}
+{'text': '4이음 그 인스타 팔로워 목록 좀', 'start': 9069.399, 'duration': 6.401}
+{'text': '남으신 분들은 팔로잉 좀 해 주세요', 'start': 9072.96, 'duration': 5.399}
+{'text': '예', 'start': 9075.8, 'duration': 2.559}
+{'text': '자리 없어 목록 꽉 찼어 그럼 못', 'start': 9084.52, 'duration': 7.4}
+{'text': '하지 뭐 그러면 어쩔 수 없지만', 'start': 9087.319, 'duration': 4.601}
+{'text': '어 우리 상표 형님이 저보다 이제', 'start': 9095.88, 'duration': 5.24}
+{'text': '아홉살이 많으신데요 예 저는 저보다', 'start': 9098.479, 'duration': 6.88}
+{'text': '열살만은 줄 알았더니 8 4시더라구요', 'start': 9101.12, 'duration': 6.92}
+{'text': '예 여러분들이 나도 그래서 오킹 엄', 'start': 9105.359, 'duration': 5.321}
+{'text': '팔하고 팔로잉 거기고 했어 엥', 'start': 9108.04, 'duration': 5.239}
+{'text': '여러분들이 오늘 얘기했 여러분 늘', 'start': 9110.68, 'duration': 5.16}
+{'text': '저한테 얘기하는 형 내일 모레면', 'start': 9113.279, 'duration': 5.961}
+{'text': '4인데이 형은', 'start': 9115.84, 'duration': 3.4}
+{'text': '진짜예요 원체 또 밝으신 분이기', 'start': 9122.399, 'duration': 7.401}
+{'text': '때문에 예 어', 'start': 9125.2, 'duration': 4.6}
+{'text': '293명이 야 일곱 명만 더해봐 형님', 'start': 9130.56, 'duration': 3.919}
+{'text': '300', 'start': 9133.479, 'duration': 3.401}
+{'text': '채웠습니다 어 290', 'start': 9134.479, 'duration': 8.561}
+{'text': '어 297 어 299 어', 'start': 9136.88, 'duration': 6.16}
+{'text': '301음 좋았다 바로 답장', 'start': 9143.52, 'duration': 7.029}
+{'text': '[음악]', 'start': 9147.24, 'duration': 3.309}
+{'text': '형님', 'start': 9152.0, 'duration': 3.0}
+{'text': '300인데 317 어 좋아 좋아', 'start': 9161.64, 'duration': 7.839}
+{'text': '[음악]', 'start': 9166.81, 'duration': 5.589}
+{'text': '2 아 니구리 님 아 24개월 구독', 'start': 9169.479, 'duration': 6.521}
+{'text': '아 감사합니다 감사합니다', 'start': 9172.399, 'duration': 3.601}
+{'text': '예 320이 수염 길은 유세윤 님인', 'start': 9182.08, 'duration': 7.8}
+{'text': '줄 알았는데 아니네요 예', 'start': 9185.88, 'duration': 4.0}
+{'text': '아닙니다 수', 'start': 9195.16, 'duration': 7.119}
+{'text': '없나봐 다시', 'start': 9198.56, 'duration': 3.719}
+{'text': '돌아와서', 'start': 9202.64, 'duration': 3.0}
+{'text': '방방방방 하고 왔다 근데 진짜', 'start': 9207.04, 'duration': 6.04}
+{'text': '제주도민 같이 생기긴 하셨다 제주도민', 'start': 9210.04, 'duration': 5.76}
+{'text': '같이 생긴 건', 'start': 9213.08, 'duration': 2.72}
+{'text': '뭐야 님 1개월 구독', 'start': 9217.2, 'duration': 4.119}
+{'text': '감사합니다', 'start': 9225.16, 'duration': 3.0}
+{'text': '집에 귤나무 있으실 것 같은 죄송한데', 'start': 9228.96, 'duration': 4.479}
+{'text': '우리 상표 형님 그 무시하지', 'start': 9231.439, 'duration': 5.121}
+{'text': '마세요 뭐야 오님 원래도 가능하던', 'start': 9233.439, 'duration': 5.081}
+{'text': '팬이었는데 율님 덕분에 처음으로 채팅', 'start': 9236.56, 'duration': 3.839}
+{'text': '쳐봐요 저 인천 사람인데 다음에 꼭', 'start': 9238.52, 'duration': 3.52}
+{'text': '대표자들 우승해 주세요 키키키키키 아', 'start': 9240.399, 'duration': 3.521}
+{'text': '우리 재율 님 아유 100비트', 'start': 9242.04, 'duration': 3.64}
+{'text': '감사합니다', 'start': 9243.92, 'duration': 5.88}
+{'text': '어 아 열심히 할게요', 'start': 9245.68, 'duration': 9.4}
+{'text': '고마워요 우리 상형 무시하지 마 우리', 'start': 9249.8, 'duration': 7.0}
+{'text': '상형님', 'start': 9255.08, 'duration': 5.399}
+{'text': '귤나무 귤농장 하셔 미안한데 우리', 'start': 9256.8, 'duration': 5.4}
+{'text': '상형', 'start': 9260.479, 'duration': 5.521}
+{'text': '외할아버지께서 예전에 제주 최우수', 'start': 9262.2, 'duration': 7.64}
+{'text': '감귤농장 상 타신 분이야', 'start': 9266.0, 'duration': 6.6}
+{'text': '죄송한데요 고작 칸 고루 1개월이다', 'start': 9269.84, 'duration': 5.4}
+{'text': '이자시가 반가워 아 포도님 17개월', 'start': 9272.6, 'duration': 6.879}
+{'text': '구독 아 감사합니다 감사합니다', 'start': 9275.24, 'duration': 4.239}
+{'text': '엘리트 주인이죠', 'start': 9286.04, 'duration': 3.16}
+{'text': '예 맞죠 그리고 제주도에서 열린', 'start': 9295.0, 'duration': 7.319}
+{'text': '제주어 마라기 도의 우승자입니다 우리', 'start': 9299.04, 'duration': 5.399}
+{'text': '상형님이', 'start': 9302.319, 'duration': 4.281}
+{'text': '예 뭐뭐', 'start': 9304.439, 'duration': 6.481}
+{'text': '하맨 어망 밥 먹었 이렇게 얘기하는', 'start': 9306.6, 'duration': 8.4}
+{'text': '그 사리 제주도는 사리가', 'start': 9310.92, 'duration': 6.559}
+{'text': '아닙니다 도말은', 'start': 9315.0, 'duration': 4.72}
+{'text': '제주라는 그', 'start': 9317.479, 'duration': 6.561}
+{'text': '희기 그 그걸로 들어가요', 'start': 9319.72, 'duration': 4.32}
+{'text': '예 부산어 부산은 사리고', 'start': 9333.52, 'duration': 5.56}
+{'text': '예 제주도는 사이라고 안 해 제주', 'start': 9340.72, 'duration': 5.84}
+{'text': '사이라고 하면 틀린 표현이야 리라고도', 'start': 9343.68, 'duration': 6.639}
+{'text': '많이 하는데 정식 명칭은 제주어에 예', 'start': 9346.56, 'duration': 8.08}
+{'text': '대구어 부산어 안 되는데', 'start': 9350.319, 'duration': 4.321}
+{'text': '어 제주도 말은 다른 언어로 인식하는', 'start': 9357.479, 'duration': 6.401}
+{'text': '거지 좀 너무 희귀어이기도 하고', 'start': 9361.439, 'duration': 6.04}
+{'text': '희귀어 많이 쓰는 사람도 많이', 'start': 9363.88, 'duration': 3.599}
+{'text': '없고 자꾸 머랭 고랑 씨냐 죽자 입나', 'start': 9367.8, 'duration': 5.96}
+{'text': '뭐라고요', 'start': 9370.76, 'duration': 3.0}
+{'text': '죽네', 'start': 9374.92, 'duration': 3.0}
+{'text': '그러니까 진짜 제주도 어를 제주도', 'start': 9378.2, 'duration': 5.279}
+{'text': '말을 제주도 말씨를 쓰는 사람들은', 'start': 9380.72, 'duration': 5.599}
+{'text': '보통 표준어도 쓸 줄 알잖아 이게', 'start': 9383.479, 'duration': 5.441}
+{'text': '거야', 'start': 9386.319, 'duration': 2.601}
+{'text': '진짜로음 현재 제주인 있니다 제주라는', 'start': 9397.319, 'duration': 5.401}
+{'text': '건 없습니다 없는 거 지어내지', 'start': 9401.16, 'duration': 5.08}
+{'text': '마십시오 네가 모르는 거야 신 잘해요', 'start': 9402.72, 'duration': 5.52}
+{'text': '아 케오 님 감사합니다', 'start': 9406.24, 'duration': 5.64}
+{'text': '어 너 몇 살이야 내가 아는 제주도', 'start': 9408.24, 'duration': 8.32}
+{'text': '형 지금 마이거 어 그 형님이 제주어', 'start': 9411.88, 'duration': 6.599}
+{'text': '말하기대회', 'start': 9416.56, 'duration': 6.2}
+{'text': '우승자 그 형님이 알려준 거야', 'start': 9418.479, 'duration': 4.281}
+{'text': '미안한데 제조 맞아요 너 제주도 그', 'start': 9427.16, 'duration': 7.119}
+{'text': '형보다 오래 살았어 그형 40년', 'start': 9430.6, 'duration': 7.0}
+{'text': '살았어 람 너네 아빠보다 많아 요즘', 'start': 9434.279, 'duration': 5.04}
+{'text': '날씨가 갑자기 추워져서 감기 걸리기', 'start': 9437.6, 'duration': 3.2}
+{'text': '딱 조일 것 같네요 아 망님', 'start': 9439.319, 'duration': 4.201}
+{'text': '감사합니다', 'start': 9440.8, 'duration': 2.72}
+{'text': '예 요즘 아침이랑 저녁에 진짜 춥지', 'start': 9449.12, 'duration': 7.279}
+{'text': '어 한 6시만 넘어가도', 'start': 9452.64, 'duration': 3.759}
+{'text': '추워 아까 9시에 14도 와 14', 'start': 9462.279, 'duration': 6.16}
+{'text': '사도는 진짜', 'start': 9465.76, 'duration': 2.679}
+{'text': '추운데 난 이미 감기', 'start': 9476.8, 'duration': 8.76}
+{'text': '걸림 저는 이제 좀 있다가 저는 뭐', 'start': 9480.92, 'duration': 8.439}
+{'text': '애초에 잘 걸리진 않는데 약간 러거', 'start': 9485.56, 'duration': 5.64}
+{'text': '안 이렇게 자 이렇게 좀 지내다가 좀', 'start': 9489.359, 'duration': 4.721}
+{'text': '너무 좀 쌀쌀해 약간 몸에 좀 고불', 'start': 9491.2, 'duration': 5.199}
+{'text': '기운이 좀 나는 거 같아 그러면은 뭐', 'start': 9494.08, 'duration': 5.96}
+{'text': '축구 한 판 하면 그냥 바로 나와요', 'start': 9496.399, 'duration': 3.641}
+{'text': '예음 축구하면서 이제 그 저기 뭐야', 'start': 9507.319, 'duration': 5.721}
+{'text': '어', 'start': 9511.12, 'duration': 5.52}
+{'text': '고불소 약은 안 먹음음 저는 독감', 'start': 9513.04, 'duration': 6.359}
+{'text': '주사도 안 맞아요', 'start': 9516.64, 'duration': 7.36}
+{'text': '예 건강해 나는 감기 뭐 이런 거 안', 'start': 9519.399, 'duration': 9.241}
+{'text': '걸려 대지 막 치질 이런 거 걸려', 'start': 9524.0, 'duration': 4.64}
+{'text': '어 이게 무슨 고집이라고 아니 안', 'start': 9530.0, 'duration': 6.0}
+{'text': '걸리는데 약을 안 먹 안 먹 안', 'start': 9533.56, 'duration': 4.08}
+{'text': '걸려서 약을 안 먹는게 고집은', 'start': 9536.0, 'duration': 4.359}
+{'text': '아니잖아', 'start': 9537.64, 'duration': 2.719}
+{'text': '어 바보라서 고뿔이 안', 'start': 9544.72, 'duration': 7.88}
+{'text': '들어와 멋 없는 거 병 주로 걸려요', 'start': 9547.8, 'duration': 4.8}
+{'text': '예 치질 뭐 버짐 이런 거 걸려', 'start': 9553.72, 'duration': 5.559}
+{'text': '나는', 'start': 9562.8, 'duration': 7.16}
+{'text': '습진 버 버즈 습진 횡문근융해 중음', 'start': 9564.399, 'duration': 7.681}
+{'text': '이런 멋없고 동글동글한 병만 걸려', 'start': 9569.96, 'duration': 4.6}
+{'text': '존나', 'start': 9572.08, 'duration': 2.48}
+{'text': '바다', 'start': 9582.24, 'duration': 5.119}
+{'text': '여유증', 'start': 9584.64, 'duration': 5.16}
+{'text': '봉화 지겸 제가 걸렸던 병 중에 가장', 'start': 9587.359, 'duration': 5.561}
+{'text': '멋있는 병 이름이 멋있어 필살 봉화', 'start': 9589.8, 'duration': 5.4}
+{'text': '지겸 확 막 이렇게 불 나갈 거', 'start': 9592.92, 'duration': 5.64}
+{'text': '같고요 봉화 아니고 봉 와데 알라', 'start': 9595.2, 'duration': 6.34}
+{'text': '56개월 아 장기 감사합니다', 'start': 9598.56, 'duration': 6.039}
+{'text': '[음악]', 'start': 9601.54, 'duration': 3.059}
+{'text': '예', 'start': 9606.399, 'duration': 3.0}
+{'text': '고도비만에 제일 멋없는게 치질이라고', 'start': 9614.56, 'duration': 6.839}
+{'text': '예 지금 있는 거 병 그니까 형아야', 'start': 9618.08, 'duration': 6.199}
+{'text': '서울 뭐 입고 가야 안 춥나 몰라', 'start': 9621.399, 'duration': 5.321}
+{'text': '패딩', 'start': 9624.279, 'duration': 2.441}
+{'text': '입어 제일 멋없는 건 치질이 해 일단', 'start': 9627.24, 'duration': 8.48}
+{'text': '어간 [\xa0__\xa0] 같아 너 병 뭐 있니 나 아', 'start': 9630.24, 'duration': 10.32}
+{'text': '나 골절 그러면 뭐 아 나 뭐 어', 'start': 9635.72, 'duration': 8.8}
+{'text': '막이 막이 좀 얘기하면', 'start': 9640.56, 'duration': 6.56}
+{'text': '좀 그런 거는 이제 좀 약간', 'start': 9644.52, 'duration': 5.919}
+{'text': '멋있다기다는 그래도 까오가 안', 'start': 9647.12, 'duration': 5.92}
+{'text': '상하잖아음 근데 약간 나 너 병 뭐', 'start': 9650.439, 'duration': 7.201}
+{'text': '있니 아 나 치질 이게 치질이 글자', 'start': 9653.04, 'duration': 8.12}
+{'text': '자체가 좀 존나 멋이 없어', 'start': 9657.64, 'duration': 3.52}
+{'text': '어 개좆밥', 'start': 9665.76, 'duration': 3.8}
+{'text': '같은게', 'start': 9670.12, 'duration': 3.0}
+{'text': '아니야 개 좆밥이 걸리는 병', 'start': 9673.279, 'duration': 4.881}
+{'text': '같다고 뭐 치질', 'start': 9685.359, 'duration': 6.761}
+{'text': '버짐', 'start': 9689.2, 'duration': 4.44}
+{'text': '습진', 'start': 9692.12, 'duration': 3.72}
+{'text': '여유증', 'start': 9693.64, 'duration': 5.48}
+{'text': '고지혈증 고도비만 이지랄 해 버리니까', 'start': 9695.84, 'duration': 6.68}
+{'text': '힘들죠 예 아 무좀이 없는게', 'start': 9699.12, 'duration': 6.92}
+{'text': '다행이에요 이제 치질의 무 습진 아지', 'start': 9702.52, 'duration': 6.48}
+{'text': '해버리면 어 난 그러면 리로 돌릴 거', 'start': 9706.04, 'duration': 7.52}
+{'text': '같은데 아 다행히도 무좀은 없습니다', 'start': 9709.0, 'duration': 4.56}
+{'text': '예 샤위 30분 한다고 형한테 한', 'start': 9721.08, 'duration': 4.04}
+{'text': '소리 듣고 20분을', 'start': 9723.56, 'duration': 4.839}
+{'text': '줄였어 아 오이님 감사합니다 그게 다', 'start': 9725.12, 'duration': 5.4}
+{'text': '있는 거지 어후 아은 라이님', 'start': 9728.399, 'duration': 4.721}
+{'text': '감사합니다', 'start': 9730.52, 'duration': 2.6}
+{'text': '예', 'start': 9734.359, 'duration': 3.0}
+{'text': '평균', 'start': 9743.399, 'duration': 2.561}
+{'text': '덩어리 리얼 소탐 대실이 감기를 평생', 'start': 9751.6, 'duration': 6.4}
+{'text': '안 걸리는 대신 치질 봉화 지염 대상', 'start': 9755.64, 'duration': 5.08}
+{'text': '포진 등 대상 포지는 없었어 미안', 'start': 9758.0, 'duration': 5.359}
+{'text': '하나를 왜 끼어 팔기를 하는 거지', 'start': 9760.72, 'duration': 5.84}
+{'text': '대상 포지는 없었어 어', 'start': 9763.359, 'duration': 7.12}
+{'text': '어 왜 지원해', 'start': 9766.56, 'duration': 3.919}
+{'text': '[\xa0__\xa0] 나 20대 후반인데 통풍', 'start': 9775.439, 'duration': 6.281}
+{'text': '위험이라도 형도 조심해 난 통풍이 안', 'start': 9778.64, 'duration': 5.759}
+{'text': '걸려 고기를 너무 좋아해', 'start': 9781.72, 'duration': 7.04}
+{'text': '응 통풍 걸리면 고기 잘 못', 'start': 9784.399, 'duration': 4.361}
+{'text': '먹잖아 난 고기를 되게 좋아하는', 'start': 9794.279, 'duration': 5.961}
+{'text': '사람이야 그게 뭔 상관 있냐고요', 'start': 9797.04, 'duration': 5.84}
+{'text': '좋아한다고요', 'start': 9800.24, 'duration': 2.64}
+{'text': '예 고기랑 맥주 많이 먹으면', 'start': 9810.439, 'duration': 5.641}
+{'text': '걸려 맥주를 안 먹어 대지 고기 두', 'start': 9813.479, 'duration': 4.84}
+{'text': '배로', 'start': 9816.08, 'duration': 2.239}
+{'text': '먹어', 'start': 9824.279, 'duration': 3.761}
+{'text': '누가 봐도 고기 좋아하게', 'start': 9826.04, 'duration': 5.439}
+{'text': '생겼다고 풍풍 걸리면 참치 새우 조개', 'start': 9828.04, 'duration': 4.72}
+{'text': '맥주 먹으면 안', 'start': 9831.479, 'duration': 4.8}
+{'text': '됨 죽으란', 'start': 9832.76, 'duration': 3.519}
+{'text': '거네', 'start': 9845.08, 'duration': 3.0}
+{'text': '아 새우는 진짜 사데 새우 개꿀', 'start': 9849.08, 'duration': 7.319}
+{'text': '맛이지 어 지금 존나', 'start': 9852.92, 'duration': 7.519}
+{'text': '아주 리 살이 아주 벌 올랐습니다 예', 'start': 9856.399, 'duration': 5.441}
+{'text': '다들 새우', 'start': 9860.439, 'duration': 5.361}
+{'text': '드세요 새우가 지금 아주', 'start': 9861.84, 'duration': 3.96}
+{'text': '처리해요 대하축제 이제 태안에서', 'start': 9870.56, 'duration': 5.799}
+{'text': '시작해 아씨 태안은 좀 힘든데 제가', 'start': 9873.08, 'duration': 6.399}
+{'text': '지금 그 상황입니다 살려줘요 호달달', 'start': 9876.359, 'duration': 7.801}
+{'text': '통풍이 진짜 매질이 확 떨어지지 풍면', 'start': 9879.479, 'duration': 6.721}
+{'text': '돼 님', 'start': 9884.16, 'duration': 5.04}
+{'text': '16개', 'start': 9886.2, 'duration': 3.0}
+{'text': '예 새우 개', 'start': 9890.68, 'duration': 3.599}
+{'text': '맛있지 나는 알러지 때문에 옛날부터', 'start': 9901.68, 'duration': 5.04}
+{'text': '안 먹어서 맛이 기억이 안 나 새우', 'start': 9904.24, 'duration': 5.159}
+{'text': '알러지 때문에', 'start': 9906.72, 'duration': 2.679}
+{'text': '아 통풍 그래도 스킬 이름 같다 풍', 'start': 9911.16, 'duration': 6.84}
+{'text': '이런 건 조금 그래도 간지 쪽이지 어', 'start': 9915.2, 'duration': 5.0}
+{'text': '나 새우껍질 제로 먹다가 목에서 피난', 'start': 9918.0, 'duration': 4.6}
+{'text': '이후로 못', 'start': 9920.2, 'duration': 2.4}
+{'text': '먹어 치질 뭐 이런 거보다는 훨씬', 'start': 9929.479, 'duration': 5.84}
+{'text': '그래도 고지혈증은 그래도 조금 그래도', 'start': 9932.399, 'duration': 6.521}
+{'text': '이름이 좀 그래도 그죠', 'start': 9935.319, 'duration': 3.601}
+{'text': '예 고지혈증 이렇게 뭔가', 'start': 9941.0, 'duration': 8.72}
+{'text': '기술이 간지가 조금 나 그래도', 'start': 9946.16, 'duration': 3.56}
+{'text': '고지혈증은음 제일 멋있는 병은 뭔데', 'start': 9963.399, 'duration': 6.361}
+{'text': '전 봉화 지겸 같긴 해요 화이 좀', 'start': 9966.76, 'duration': 5.2}
+{'text': '약간 뭔가', 'start': 9969.76, 'duration': 5.639}
+{'text': '약간 한 8에서 서클 마법같은 약간', 'start': 9971.96, 'duration': 7.64}
+{'text': '그런 느낌음이 불이 약간 이렇게 화', 'start': 9975.399, 'duration': 8.721}
+{'text': '화이 한문으로 이렇게 나갈 거 같아', 'start': 9979.6, 'duration': 4.52}
+{'text': '그런 진짜', 'start': 9987.279, 'duration': 3.561}
+{'text': '철없다 난 웬 종물 모시고 시병 님', 'start': 9996.88, 'duration': 3.479}
+{'text': '이름 개마', 'start': 9999.24, 'duration': 4.76}
+{'text': '들 왼쪽 무릎 병 이름이', 'start': 10000.359, 'duration': 6.641}
+{'text': '오스쿠', 'start': 10004.0, 'duration': 3.0}
+{'text': '오스굿 작년에 드디어 기화를 한', 'start': 10012.76, 'duration': 8.28}
+{'text': '오수구 씨 32 슬래쉬 우즈베키스탄', 'start': 10015.88, 'duration': 7.519}
+{'text': '출신', 'start': 10021.04, 'duration': 2.359}
+{'text': '러면서', 'start': 10033.92, 'duration': 3.399}
+{'text': '우즈백 진짜 축구 개 더럽게 하더라', 'start': 10035.52, 'duration': 4.24}
+{'text': '개패고 싶던데', 'start': 10037.319, 'duration': 5.241}
+{'text': '어 일본 사람이 발견해서 일본 이름', 'start': 10039.76, 'duration': 5.519}
+{'text': '아 그래', 'start': 10042.56, 'duration': 2.719}
+{'text': '어', 'start': 10049.96, 'duration': 4.92}
+{'text': '아 그래도 우리나라가 이기지', 'start': 10052.76, 'duration': 4.0}
+{'text': '않았냐고요 그까 이기긴 이겼는데 그냥', 'start': 10054.88, 'duration': 4.559}
+{'text': '더럽게 했어', 'start': 10056.76, 'duration': 2.679}
+{'text': '아', 'start': 10063.92, 'duration': 5.28}
+{'text': '음 존나 추해 그냥', 'start': 10066.0, 'duration': 3.2}
+{'text': '아이기는 건 당연히 이기지', 'start': 10073.279, 'duration': 5.521}
+{'text': '어 걔네가 우리를 이기려면 그렇게 할', 'start': 10076.319, 'duration': 4.881}
+{'text': '수밖에 없긴 해 그 그거밖에 방법이', 'start': 10078.8, 'duration': 7.0}
+{'text': '없겠지 그래도 그 아이', 'start': 10081.2, 'duration': 4.6}
+{'text': '더러워', 'start': 10093.8, 'duration': 4.8}
+{'text': '저는 토요일 날은 휴방입니다 예', 'start': 10095.84, 'duration': 4.92}
+{'text': '예전부터 얘기했지만 토요일 날 축구', 'start': 10098.6, 'duration': 3.879}
+{'text': '때문에 휴방은 아닌데 마침 축구가', 'start': 10100.76, 'duration': 4.28}
+{'text': '하더라고요', 'start': 10102.479, 'duration': 2.561}
+{'text': '예 우즈백 감독이 우리나라 쪽으로', 'start': 10113.08, 'duration': 6.16}
+{'text': '유리하게 판정했다고', 'start': 10116.16, 'duration': 3.08}
+{'text': '했다고', 'start': 10121.68, 'duration': 5.12}
+{'text': '[\xa0__\xa0]', 'start': 10123.8, 'duration': 3.0}
+{'text': '축구 보면서 치맥 해야죠 형님 할게요', 'start': 10128.76, 'duration': 5.44}
+{'text': '예', 'start': 10153.72, 'duration': 3.0}
+{'text': '음 형 할게요 저 알아서', 'start': 10156.96, 'duration': 4.08}
+{'text': '예 통풍 세트 아 치킨 맥주 먹으면', 'start': 10165.56, 'duration': 7.6}
+{'text': '통풍 통풍 걸리니까', 'start': 10169.68, 'duration': 3.48}
+{'text': '어 통풍 세트', 'start': 10173.52, 'duration': 4.0}
+{'text': '배달하나요음', 'start': 10183.72, 'duration': 3.0}
+{'text': '아 이번에 금메달 따야 되는데 아', 'start': 10187.76, 'duration': 6.08}
+{'text': '일본이 좀 센데', 'start': 10190.319, 'duration': 3.521}
+{'text': '아 아우 너', 'start': 10199.92, 'duration': 4.12}
+{'text': '[음악]', 'start': 10209.1, 'duration': 3.09}
+{'text': '아파', 'start': 10213.64, 'duration': 3.0}
+{'text': '일본 거의 다 대학 대학 축구', 'start': 10221.64, 'duration': 6.24}
+{'text': '출신들이라 그래도 잘해', 'start': 10224.08, 'duration': 3.8}
+{'text': '걔네 우리나라가 우승하는게 정배 해', 'start': 10230.68, 'duration': 7.24}
+{'text': '우리나라가 우승하는게 정배 한데', 'start': 10234.08, 'duration': 7.48}
+{'text': '아 일본이 그냥이 젊은 세대 자체가', 'start': 10237.92, 'duration': 5.72}
+{'text': '다 잘해요', 'start': 10241.56, 'duration': 4.44}
+{'text': '일본이 제가 솔직히 얘기해 가지고', 'start': 10243.64, 'duration': 4.799}
+{'text': '지금 그냥 일반 그냥 완전 지금 이제', 'start': 10246.0, 'duration': 5.279}
+{'text': '이거 뭐야 아시안 아시안 게임은 이제', 'start': 10248.439, 'duration': 5.241}
+{'text': '조금 나이가 어린 지금 유유 2인가', 'start': 10251.279, 'duration': 4.681}
+{'text': '뭐 이렇게 해서 올라오는데 성인', 'start': 10253.68, 'duration': 5.679}
+{'text': '그니까 올 다 다 포함해서 하면은', 'start': 10255.96, 'duration': 6.12}
+{'text': '지금 솔직히 말해서 지금 축구는 내가', 'start': 10259.359, 'duration': 5.721}
+{'text': '봤을 때 어 일본이 나는 한수 위라고', 'start': 10262.08, 'duration': 5.92}
+{'text': '본다 개인적으로', 'start': 10265.08, 'duration': 2.92}
+{'text': '어음 잘해요 그까 약간 그런 느낌이야', 'start': 10271.04, 'duration': 8.52}
+{'text': '우리나라는 손흥민 다른 선수도 다', 'start': 10275.439, 'duration': 6.92}
+{'text': '잘하지만 약간 뭔가 좀 손흥민 뭐', 'start': 10279.56, 'duration': 5.2}
+{'text': '황희찬 김민재 다 너무 잘하지만', 'start': 10282.359, 'duration': 5.361}
+{'text': '손흥민 김민재 대표 선수들한테 좀', 'start': 10284.76, 'duration': 4.96}
+{'text': '버스타는 느낌 약간 버스트 아닌데', 'start': 10287.72, 'duration': 5.0}
+{'text': '아닌데 그냥 느낌 자체가', 'start': 10289.72, 'duration': 6.2}
+{'text': '플레이어들 의존하는 느낌이 좀 강한데', 'start': 10292.72, 'duration': 6.559}
+{'text': '일본은 그게 좀 두껍지', 'start': 10295.92, 'duration': 3.359}
+{'text': '좀 느낌이나 그런 느낌이 제가 뭐', 'start': 10303.56, 'duration': 4.719}
+{'text': '추가 못이라서 뭐 그렇게 생각하는 걸', 'start': 10306.64, 'duration': 3.88}
+{'text': '수도', 'start': 10308.279, 'duration': 2.241}
+{'text': '있는데 일본은 평균이 높고 우리는', 'start': 10317.64, 'duration': 4.88}
+{'text': '개인 고점이 높고 딱 내가 내가', 'start': 10320.239, 'duration': 4.761}
+{'text': '생각해도', 'start': 10322.52, 'duration': 2.48}
+{'text': '이제 거진 거의 다 유럽 진출이', 'start': 10334.479, 'duration': 7.121}
+{'text': '어 주전 선수로 이렇게 하면은 그때', 'start': 10338.72, 'duration': 5.88}
+{'text': '뭐 폼에 따라서 좀', 'start': 10341.6, 'duration': 3.0}
+{'text': '다르겠지만 일본 축구하는 거 못 봐서', 'start': 10352.68, 'duration': 5.84}
+{'text': '잘 모르겠네 저도 이제 저기 뭐야 그', 'start': 10355.08, 'duration': 5.56}
+{'text': '하이라이트로만 보긴 했는데 일본은', 'start': 10358.52, 'duration': 6.44}
+{'text': '잘하지 지금 좀 솔직히 지금', 'start': 10360.64, 'duration': 6.36}
+{'text': '우리나라 역대 전적은 일본보다 훨씬', 'start': 10364.96, 'duration': 5.2}
+{'text': '높거든요 내가 봤을 때 계속', 'start': 10367.0, 'duration': 6.2}
+{'text': '하면은 따라잡힐 것 같아 계속하면 안', 'start': 10370.16, 'duration': 5.239}
+{'text': '돼', 'start': 10373.2, 'duration': 2.199}
+{'text': '그래서 걔들은 스 나 좋던데 일본이', 'start': 10392.2, 'duration': 9.199}
+{'text': '어쩔 수 없지 일본 나라가 잘', 'start': 10396.8, 'duration': 4.599}
+{'text': '사니까 한일전 중계하나요 3 4에서', 'start': 10405.56, 'duration': 5.679}
+{'text': '다', 'start': 10409.12, 'duration': 2.119}
+{'text': '하던데요 SBS KBS MBC 다', 'start': 10414.56, 'duration': 4.6}
+{'text': '하던데', 'start': 10423.359, 'duration': 3.0}
+{'text': '오늘 안 그래도 대표자 형들 만나', 'start': 10428.68, 'duration': 6.04}
+{'text': '가지고', 'start': 10432.279, 'duration': 6.601}
+{'text': '그 각자 중계 우주 백전 봤냐 다', 'start': 10434.72, 'duration': 7.32}
+{'text': '봤다 중계 어디 거 봤냐 뭐 SBS', 'start': 10438.88, 'duration': 5.76}
+{'text': 'KBS 뭐 MBC 뭐 안정환 뭐', 'start': 10442.04, 'duration': 6.399}
+{'text': '박지성 뭐 얘기하고 있길래 나는 뭐로', 'start': 10444.64, 'duration': 5.92}
+{'text': '봤는지 잘 모르 전반전 보고 난 방송', 'start': 10448.439, 'duration': 7.121}
+{'text': '켜 가지고 근데 집에 오면서 어', 'start': 10450.56, 'duration': 7.24}
+{'text': '자기들 끼 얘기하길래 오킹 아 너는', 'start': 10455.56, 'duration': 3.919}
+{'text': '뭐로 봤냐는데 내가 그때 안 보고', 'start': 10457.8, 'duration': 3.2}
+{'text': '방송했는데 이렇게 하면 약간 좀', 'start': 10459.479, 'duration': 3.361}
+{'text': '매국노 같은 느낌이 살짝 날 거 같아', 'start': 10461.0, 'duration': 4.72}
+{'text': '가지고 고민하다 저는 감스트 봤는데요', 'start': 10462.84, 'duration': 6.8}
+{'text': '그러니까 축자 아리라고', 'start': 10465.72, 'duration': 3.92}
+{'text': '하던데 야 오케이가 축구를 좋아하긴', 'start': 10475.8, 'duration': 6.559}
+{'text': '한다', 'start': 10479.359, 'duration': 3.0}
+{'text': '인직', 'start': 10483.279, 'duration': 3.0}
+{'text': 'Ah 아 우리 또 단톡방에서도', 'start': 10513.2, 'duration': 4.84}
+{'text': '또 상표', 'start': 10520.76, 'duration': 3.719}
+{'text': '어머', 'start': 10528.08, 'duration': 6.44}
+{'text': '321 아니 어떻게 이렇게라고 카토가', 'start': 10529.6, 'duration': 8.049}
+{'text': '[음악]', 'start': 10534.52, 'duration': 3.129}
+{'text': '있네음', 'start': 10543.2, 'duration': 3.0}
+{'text': '아 아 상상 진짜', 'start': 10548.76, 'duration': 7.76}
+{'text': '개웃겨 이게 진짜 중요하더라 제주', 'start': 10552.96, 'duration': 7.24}
+{'text': '도민들 자체에 대한 인식이 좋아져', 'start': 10556.52, 'duration': 5.919}
+{'text': '상형 한 명 때문에 이게 또 우리', 'start': 10560.2, 'duration': 4.72}
+{'text': '또이 방송 컨셉트 자체가 어 뭐', 'start': 10562.439, 'duration': 5.161}
+{'text': '제주도민이 다 그러진 않겠지만 방송', 'start': 10564.92, 'duration': 4.76}
+{'text': '컨셉트 자체 지금 지역을 대표하는', 'start': 10567.6, 'duration': 4.719}
+{'text': '약간 이런게 컨셉이잖아 그렇다 보니까', 'start': 10569.68, 'duration': 3.44}
+{'text': '더', 'start': 10572.319, 'duration': 3.801}
+{'text': '그래', 'start': 10573.12, 'duration': 3.0}
+{'text': '뭐하면 밥', 'start': 10593.72, 'duration': 5.96}
+{'text': '먹은 어망', 'start': 10595.88, 'duration': 3.8}
+{'text': '감사', 'start': 10603.08, 'duration': 3.0}
+{'text': '통화하는 거 하나도 못 알아들음 아예', 'start': 10607.04, 'duration': 6.88}
+{'text': '아예 못 알아들어 아예', 'start': 10610.04, 'duration': 8.76}
+{'text': '응 대충 뉘앙스만 느낄', 'start': 10613.92, 'duration': 4.88}
+{'text': '정도음', 'start': 10625.08, 'duration': 3.0}
+{'text': '아', 'start': 10633.0, 'duration': 3.0}
+{'text': '아무튼 여러분들 오늘은 여기까지', 'start': 10639.88, 'duration': 4.84}
+{'text': '하고요 내일은 정상으로 틀도', 'start': 10641.439, 'duration': 5.681}
+{'text': '하겠습니다 내일 내일도 오늘 같은', 'start': 10644.72, 'duration': 6.639}
+{'text': '느낌이었을 텐데 다행히도 이제 좀 그', 'start': 10647.12, 'duration': 7.48}
+{'text': '내일 촬영 일정이 조금 이렇게이', 'start': 10651.359, 'duration': 6.161}
+{'text': '뭐라고 해야 될까 나뉘는 바람에 원래', 'start': 10654.6, 'duration': 6.92}
+{'text': '내일 한 8시에 촬영 종류였어요 근데', 'start': 10657.52, 'duration': 7.4}
+{'text': '다행히도 이제 좀 어 그다 5시 뭐', 'start': 10661.52, 'duration': 6.4}
+{'text': '때는 뭐 끝날 거 같아가지고 어 그거', 'start': 10664.92, 'duration': 5.64}
+{'text': '끝나고 와서 좀', 'start': 10667.92, 'duration': 6.08}
+{'text': '자고 조금 여유가 생겼습니다 좀 자고', 'start': 10670.56, 'duration': 6.52}
+{'text': '이제 그렇게 하면 될 거 같아서', 'start': 10674.0, 'duration': 5.64}
+{'text': '내일부터는 좀 게임도 좀', 'start': 10677.08, 'duration': 5.88}
+{'text': '하고음 그러도록 하겠습니다 지금 약간', 'start': 10679.64, 'duration': 6.44}
+{'text': '일본 가기 전에 좀 게임들을 많이 해', 'start': 10682.96, 'duration': 6.67}
+{'text': '놓으라 그랬는데 그러지 못해가지고', 'start': 10686.08, 'duration': 6.66}
+{'text': '[음악]', 'start': 10689.63, 'duration': 3.11}
+{'text': '호번 언니 도와주고 왔는데 종이 구만', 'start': 10692.92, 'duration': 5.24}
+{'text': '알이야음 아우 당탕 아 고마워 예', 'start': 10695.399, 'duration': 6.321}
+{'text': '여러 봐줘서 감사드리고요 예 일만 감', 'start': 10698.16, 'duration': 5.69}
+{'text': '오도록 하겠습니다 자야죠', 'start': 10701.72, 'duration': 5.24}
+{'text': '[음악]', 'start': 10703.85, 'duration': 6.03}
+{'text': '예음 아무튼 여러분들 가했습니다', 'start': 10706.96, 'duration': 5.439}
+{'text': '고마워', 'start': 10709.88, 'duration': 2.519}
+{'text': '얘들아 아이씨', 'start': 10712.68, 'duration': 3.759}
+{'text': '자 방송 투어였다 씨 어 가볼게요', 'start': 10716.64, 'duration': 9.28}
+{'text': '안녕 고마워용 아 양갱도 고마워', 'start': 10720.279, 'duration': 5.641}
+{'text': '안녕 당신들의 저녁시간을 책임져주지', 'start': 10726.279, 'duration': 10.111}
+{'text': '안녕 고마워 고마 안녕 들아', 'start': 10730.96, 'duration': 7.68}
+{'text': '[음악]', 'start': 10736.39, 'duration': 6.53}
+{'text': '내일 일', 'start': 10738.64, 'duration': 4.28}
