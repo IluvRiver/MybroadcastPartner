@@ -29,6 +29,7 @@
 
 [시스템 아키텍처]
 
+![FE BE System Architecture](https://github.com/user-attachments/assets/e985ded7-6010-42f6-815a-b691f8935222)
 
 
 [비즈니스 모델]
