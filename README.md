@@ -55,4 +55,4 @@ https://www.figma.com/design/a69NR5ofmnAB7uiheCeVxy/broadcast-(Community)?node-i
 
 ## 시연영상
 
-https://youtu.be/nQEAHUJqWLU
+[https://youtu.be/nQEAHUJqWLU](https://youtu.be/7zPKBK5XrcA)
