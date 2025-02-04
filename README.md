@@ -51,6 +51,8 @@
 
 https://www.figma.com/design/a69NR5ofmnAB7uiheCeVxy/broadcast-(Community)?node-id=0-1&t=2YvhNWVduLHxAT5D-1
 
+## 뉴스
+https://www.youtube.com/watch?v=g4iZemAs8WM
 ## 시연영상
 
 [https://youtu.be/nQEAHUJqWLU](https://youtu.be/7zPKBK5XrcA)
